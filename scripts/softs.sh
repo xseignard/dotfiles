@@ -7,6 +7,7 @@ cd ~
 ## apt
      APT='build-essential '
 APT=$APT'curl '
+APT=$APT'vim '
 APT=$APT'git '
 APT=$APT'deluge '
 APT=$APT'chromium-browser '
