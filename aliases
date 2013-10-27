@@ -1,0 +1,5 @@
+alias gorepo='cd ~/repos'
+alias xonotic='~/Xonotic/Xonotic/xonotic-linux64-glx -basedir ~/Xonotic/Xonotic'
+alias xonotic-update='cd ~/Xonotic/ && ./update-xonotic.sh'
+alias editzsh='subl ~/.zshrc'
+alias git diff='git diff --color-words'
