@@ -20,6 +20,7 @@ APT=$APT'rabbitvcs-nautilus '
 APT=$APT'arduino '
 APT=$APT'libjpeg62-dev '
 APT=$APT'mongodb-10gen '
+APT=$APT'nautilus-open-terminal '
 
 ## npm
      NPM='bower '
