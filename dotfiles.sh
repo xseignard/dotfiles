@@ -34,6 +34,11 @@ echo "done"
 ./scripts/softs.sh
 
 ######################################
+## install sublime settings
+######################################
+./sublime/sublime.sh
+
+######################################
 ## move any existing dotfiles in homedir to dotfiles_old directory, then create symlinks from the homedir to any files in the ~/dotfiles directory specified in $files
 ######################################
 for file in $files; do
