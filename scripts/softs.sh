@@ -16,6 +16,7 @@ APT=$APT'sublime-text-installer '
 APT=$APT'zsh '
 APT=$APT'xchat '
 APT=$APT'rubygems '
+APT=$APT'rabbitvcs-nautilus '
 
 ## npm
      NPM='bower '
