@@ -17,6 +17,9 @@ APT=$APT'zsh '
 APT=$APT'xchat '
 APT=$APT'rubygems '
 APT=$APT'rabbitvcs-nautilus '
+APT=$APT'arduino '
+APT=$APT'libjpeg62-dev '
+APT=$APT'mongodb-10gen '
 
 ## npm
      NPM='bower '
@@ -24,16 +27,24 @@ NPM=$NPM'karma '
 NPM=$NPM'jshint '
 NPM=$NPM'mocha '
 NPM=$NPM'istanbul '
+NPM=$NPM'grunt-cli '
 NPM=$NPM'hexo '
 
 ## gem
-     GEM='hub '   
+     GEM='hub '
+GEM=$GEM'sass '  
 
 ######################################
 ## add repos and apt-get installs
 ######################################
+# node.js
 sudo add-apt-repository -y ppa:chris-lea/node.js
+# sublime text 3
 sudo add-apt-repository -y ppa:webupd8team/sublime-text-3
+# mongodb
+sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 7F0CEB10
+sudo echo 'deb http://downloads-distro.mongodb.org/repo/ubuntu-upstart dist 10gen' | sudo tee /etc/apt/sources.list.d/mongodb.list
+# install all the stuff
 sudo apt-get update
 sudo apt-get install -y $APT
 

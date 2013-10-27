@@ -1,5 +1,5 @@
 alias gorepo='cd ~/repos'
-alias xonotic='primusrun ~/Xonotic/xonotic-linux64-glx -basedir ~/Xonotic/Xonotic'
+alias xonotic='optirun -b primus ~/Xonotic/xonotic-linux64-glx -basedir ~/Xonotic'
 alias xonotic-update='sh ~/Xonotic/misc/tools/rsync-updater/update-to-autobuild.sh'
 alias editzsh='subl ~/.zshrc'
 alias git diff='git diff --color-words'
