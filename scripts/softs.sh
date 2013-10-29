@@ -21,6 +21,7 @@ APT=$APT'arduino '
 APT=$APT'libjpeg62-dev '
 APT=$APT'mongodb-10gen '
 APT=$APT'nautilus-open-terminal '
+APT=$APT'alacarte '
 
 ## npm
      NPM='bower '
@@ -29,6 +30,7 @@ NPM=$NPM'jshint '
 NPM=$NPM'mocha '
 NPM=$NPM'istanbul '
 NPM=$NPM'grunt-cli '
+NPM=$NPM'node-inspector '
 NPM=$NPM'hexo '
 
 ## gem
