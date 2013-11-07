@@ -7,6 +7,8 @@ PATH=$PATH:/usr/bin
 PATH=$PATH:/sbin
 PATH=$PATH:/bin
 PATH=$PATH:/usr/games
+PATH=$PATH:/home/bigx/info/android-sdk-linux/tools
+PATH=$PATH:/home/bigx/info/android-sdk-linux/platform-tools
 export PATH
 
 # this is a dev machine

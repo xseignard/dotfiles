@@ -21,7 +21,14 @@ APT=$APT'arduino '
 APT=$APT'libjpeg62-dev '
 APT=$APT'mongodb-10gen '
 APT=$APT'nautilus-open-terminal '
+APT=$APT'nautilus-image-converter '
 APT=$APT'alacarte '
+APT=$APT'nmap '
+APT=$APT'sshfs '
+APT=$APT'openjdk-7-jdk '
+APT=$APT'ant '
+APT=$APT'python-pip '
+APT=$APT'python-dev '
 
 ## npm
      NPM='bower '
@@ -31,11 +38,17 @@ NPM=$NPM'mocha '
 NPM=$NPM'istanbul '
 NPM=$NPM'grunt-cli '
 NPM=$NPM'node-inspector '
+NPM=$NPM'node-static '
 NPM=$NPM'hexo '
 
 ## gem
      GEM='hub '
 GEM=$GEM'sass '  
+GEM=$GEM'compass '
+
+## pip
+	PIP='jinja2 '
+PIP=$PIP'markdown '
 
 ######################################
 ## add repos and apt-get installs
@@ -66,6 +79,12 @@ sudo npm install $NPM -g
 ## install gem tools
 ######################################
 sudo gem install $GEM
+
+######################################
+## install pip tools
+######################################
+sudo pip install $PIP
+
 # hub standalone
 mkdir -p ~/bin
 hub hub standalone > ~/bin/hub && chmod +x ~/bin/hub
