@@ -12,6 +12,11 @@ unsetopt correct_all
 # load exports
 . ~/.exports
 
+# This loads nvm
+export NVM_DIR="/home/bigx/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"
+
 source $ZSH/oh-my-zsh.sh
 
-
+### Added by the Heroku Toolbelt
+export PATH="/usr/local/heroku/bin:$PATH"
