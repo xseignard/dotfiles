@@ -34,7 +34,7 @@ echo "done"
 ./scripts/softs.sh
 
 ######################################
-## install sublime settings
+## install atom settings
 ######################################
 cd atom && ./atom.sh && cd ..
 

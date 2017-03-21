@@ -6,8 +6,29 @@
     treeView:
       compactList: true
     ui: {}
+  "autocomplete-clang":
+    includePaths: [
+      "."
+      "/home/bigx/info/of_v0.9.7_linux64_release/libs/openFrameworks"
+      "/home/bigx/info/of_v0.9.7_linux64_release/libs/openFrameworks/utils"
+      "/home/bigx/info/of_v0.9.7_linux64_release/libs/openFrameworks/math"
+      "/home/bigx/info/of_v0.9.7_linux64_release/libs/openFrameworks/video"
+      "/home/bigx/info/of_v0.9.7_linux64_release/libs/openFrameworks/types"
+      "/home/bigx/info/of_v0.9.7_linux64_release/libs/openFrameworks/app"
+      "/home/bigx/info/of_v0.9.7_linux64_release/libs/openFrameworks/graphics"
+      "/home/bigx/info/of_v0.9.7_linux64_release/libs/openFrameworks/3d"
+      "/home/bigx/info/of_v0.9.7_linux64_release/libs/openFrameworks/communication"
+      "/home/bigx/info/of_v0.9.7_linux64_release/libs/openFrameworks/gl"
+      "/home/bigx/info/of_v0.9.7_linux64_release/libs/openFrameworks/events"
+      "/home/bigx/info/of_v0.9.7_linux64_release/libs/openFrameworks/sound"
+    ]
+    includeSystemHeadersDocumentation: true
   core:
     destroyEmptyPanes: false
+    disabledPackages: [
+      "autocomplete-clang"
+    ]
+    telemetryConsent: "limited"
     themes: [
       "atom-material-ui"
       "atom-material-syntax"
@@ -20,9 +41,17 @@
     showInvisibles: true
     softTabs: false
     tabLength: 4
-    tabType: "hard"
   "file-icons": {}
   "highlight-selected": {}
+  linter:
+    lintOnFly: false
+  navigate:
+    f1: "http://devdocs.io/#q=&searchterm"
+    f10: "https://duckduckgo.com/?q=&searchterm"
+    f6: "http://www.bing.com/search?q=&searchterm"
   "tree-view": {}
   welcome:
     showOnStartup: false
+".glsl.source":
+  editor:
+    tabLength: 4
