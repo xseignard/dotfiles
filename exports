@@ -27,5 +27,5 @@ export REACT_EDITOR=atom
 export GRADLE_OPTS="-Dorg.gradle.daemon=true"
 
 # openframeworks
-export PG_OF_PATH=/home/bigx/info/of_v0.9.7_linux64_release
-export OF_ROOT=/home/bigx/info/of_v0.9.7_linux64_release
+export PG_OF_PATH=/home/bigx/info/of_v0.9.8_linux64_release
+export OF_ROOT=/home/bigx/info/of_v0.9.8_linux64_release

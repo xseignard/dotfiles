@@ -16,7 +16,7 @@ unsetopt correct_all
 export NVM_DIR="/home/bigx/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"
 
-nvm use 7.2.1
+nvm use 8.1.1
 
 # place this after nvm initialization!
 autoload -U add-zsh-hook
