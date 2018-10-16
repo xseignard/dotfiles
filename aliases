@@ -1,5 +1,4 @@
 alias gorepo='cd ~/repos'
-alias xonotic='~/Xonotic/xonotic-linux64-glx -basedir ~/Xonotic'
 alias editzsh='atom ~/.zshrc'
 alias git diff='git diff --color-words'
 alias editDotfiles='atom ~/repos/dotfiles'

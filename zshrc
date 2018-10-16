@@ -3,7 +3,15 @@ ZSH=$HOME/.oh-my-zsh
 # theme
 ZSH_THEME="kolo"
 # activated plugins (other can be found in ~/.oh-my-zsh/custom/plugins/)
-plugins=(git npm heroku node history-substring-search lol nyan sublime)
+plugins=(
+  git
+  zsh-autosuggestions
+  node
+  npm
+  github
+  nvm
+  npm
+)
 # no spelling correction
 unsetopt correct_all
 
@@ -12,11 +20,9 @@ unsetopt correct_all
 # load exports
 . ~/.exports
 
-# This loads nvm
-export NVM_DIR="/home/bigx/.nvm"
-[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"
-
-nvm use 8.1.1
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
 # place this after nvm initialization!
 autoload -U add-zsh-hook
@@ -32,6 +38,3 @@ add-zsh-hook chpwd load-nvmrc
 load-nvmrc
 
 source $ZSH/oh-my-zsh.sh
-
-### Added by the Heroku Toolbelt
-export PATH="/usr/local/heroku/bin:$PATH"

@@ -11,8 +11,7 @@ dir=~/repos/dotfiles
 olddir=~/dotfiles_old
 
 ## list of files/folders to symlink in homedir
-files='zshrc zshenv aliases exports gitconfig'
-# zshenv: see https://github.com/robbyrussell/oh-my-zsh/issues/1433
+files='zshrc aliases exports gitconfig'
 
 ######################################
 ## create dotfiles_old in homedir
@@ -27,11 +26,6 @@ echo "done"
 echo -n "Changing to the $dir directory ..."
 cd $dir
 echo "done"
-
-######################################
-## install softs
-######################################
-./scripts/softs.sh
 
 ######################################
 ## install atom settings
