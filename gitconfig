@@ -1,7 +1,7 @@
 [user]
 	name = xseignard
 	email = xavier.seignard@gmail.com
-	signingkey = B1701FF843E329FA
+	signingkey = 860CF0C808C93B08
 [alias]
 	co = checkout
 	ci = commit
@@ -19,4 +19,4 @@
 [commit]
 	gpgsign = true
 [gpg]
-	program = /usr/local/MacGPG2/bin/gpg2
+	program = /usr/local/bin/gpg

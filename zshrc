@@ -5,7 +5,6 @@ ZSH_THEME="kolo"
 # activated plugins (other can be found in ~/.oh-my-zsh/custom/plugins/)
 plugins=(
   git
-  zsh-autosuggestions
   node
   npm
   github
