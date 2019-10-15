@@ -19,6 +19,8 @@ unsetopt correct_all
 . ~/.aliases
 # load exports
 . ~/.exports
+# load bash_profile
+. ~/.bash_profile
 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
@@ -38,3 +40,5 @@ add-zsh-hook chpwd load-nvmrc
 load-nvmrc
 
 source $ZSH/oh-my-zsh.sh
+
+export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"

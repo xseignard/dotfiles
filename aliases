@@ -1,4 +1,4 @@
 alias gorepo='cd ~/repos'
-alias editzsh='atom ~/.zshrc'
+alias editzsh='code ~/.zshrc'
 alias git diff='git diff --color-words'
-alias editDotfiles='atom ~/repos/dotfiles'
+alias editDotfiles='code ~/repos/dotfiles'
