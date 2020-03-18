@@ -10,6 +10,8 @@ transmission \
 vlc \
 intel-power-gadget \
 brave-browser \
-android-platform-tools && \
+android-platform-tools \
+android-studio && \
 brew install gpg \
-platformio
+platformio \
+cocoapods 

@@ -5,3 +5,9 @@ export OF_ROOT=/Users/bigx/Documents/of_v0.10.1_osx_release
 # gnupg
 GPG_TTY=$(tty)
 export GPG_TTY
+# android dev
+export ANDROID_HOME=$HOME/Library/Android/sdk
+export PATH=$PATH:$ANDROID_HOME/emulator
+export PATH=$PATH:$ANDROID_HOME/tools
+export PATH=$PATH:$ANDROID_HOME/tools/bin
+export PATH=$PATH:$ANDROID_HOME/platform-tools
