@@ -3,4 +3,5 @@ export NODE_ENV=development
 # OF_ROOT
 export OF_ROOT=/Users/bigx/Documents/of_v0.10.1_osx_release
 # gnupg
-export GPG_TTY=$(tty)
+GPG_TTY=$(tty)
+export GPG_TTY
