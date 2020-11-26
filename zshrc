@@ -10,6 +10,8 @@ plugins=(
   github
   nvm
   npm
+  zsh-syntax-highlighting
+  zsh-autosuggestions
 )
 # no spelling correction
 unsetopt correct_all

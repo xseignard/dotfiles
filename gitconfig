@@ -10,13 +10,21 @@
 	hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
 	type = cat-file -t
 	dump = cat-file -p
+	stpp = subtree push --prefix
 [core]
 	editor = vim
 [color]
 	ui = true
 [push]
 	default = current
-[commit]
-	gpgsign = true
+# [commit]
+# 	gpgsign = true
 [gpg]
 	program = /usr/local/bin/gpg
+[commit]
+	gpgsign = true
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
