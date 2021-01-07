@@ -1,0 +1,1543 @@
+: 1606408462:0;npm i -D replace-in-file
+: 1606408462:0;npm run build
+: 1606408462:0;npm start
+: 1606408462:0;git push
+: 1606408462:0;ssh ubuntu@51.210.254.145
+: 1606408462:0;exit
+: 1606408462:0;ssh debian@51.210.254.145
+: 1606408462:0;code .ssh
+: 1606408462:0;ssh debian@51.210.254.145
+: 1606408462:0;mkdir cozy
+: 1606408462:0;cd cozy
+: 1606408462:0;git clone git@github.com:xseignard/cozy-notes.git
+: 1606408462:0;cd cozy-notes
+: 1606408462:0;yarn install
+: 1606408462:0;cd cozy/cozy-notes
+: 1606408462:0;code .
+: 1606408462:0;docker pull cozy/cozy-app-dev
+: 1606408462:0;yarn start
+: 1606408462:0;docker run --rm -it \\
+    -p 8080:8080 \\
+    -p 8025:8025 \
+: 1603445058:0;docker run --rm -it \\
+    -p 8080:8080 \\
+    -p 8025:8025 \\
+    -v "$HOME/cozy/cozy-notes":/data/cozy-app \\
+    cozy/cozy-app-dev
+: 1606408462:0;yarn start
+: 1606408462:0;node
+: 1606408462:0;env | grep NODE_ENV
+: 1606408462:0;node
+: 1606408462:0;NODE_ENV=browser:development yarn start
+: 1606408462:0;yarn -h
+: 1606408462:0;yarn help update
+: 1606408462:0;yarn help upgrade
+: 1606408462:0;NODE_ENV=browser:development yarn start
+: 1606408462:0;yarn install
+: 1606408462:0;NODE_ENV=browser:development yarn start
+: 1606408462:0;yarn install
+: 1606408462:0;NODE_ENV=browser:development yarn start --stack
+: 1606408462:0;node -v
+: 1606408462:0;echo v10.22.1 > .nvmrc
+: 1606408462:0;yarn install
+: 1606408462:0;node -v
+: 1606408462:0;..
+: 1606408462:0;cd cozy-notes
+: 1606408462:0;nvm install v10.22.
+: 1606408462:0;nvm install v10.22.1
+: 1606408462:0;..
+: 1606408462:0;cd cozy-notes
+: 1606408462:0;yarn -v
+: 1606408462:0;yarn install
+: 1606408462:0;NODE_ENV=browser:development yarn start
+: 1606408462:0;yarn install
+: 1606408462:0;NODE_ENV=browser:development yarn start
+: 1606408462:0;yarn upgrade
+: 1606408462:0;../
+: 1606408462:0;cd cozy-notes
+: 1606408462:0;yarn upgrade
+: 1606408462:0;NODE_ENV=browser:development yarn start
+: 1606408462:0;yarn install cozy-bar cozy-client cozy-device-helper cozy-doctypes cozy-flags cozy-realtime cozy-scripts cozy-sharing cozy-ui eslint-config-cozy-app 
+: 1606408462:0;yarn add cozy-bar cozy-client cozy-device-helper cozy-doctypes cozy-flags cozy-realtime cozy-scripts cozy-sharing cozy-ui eslint-config-cozy-app 
+: 1606408462:0;NODE_ENV=browser:development yarn start
+: 1606408462:0;yarn add
+: 1606408462:0;yarn install
+: 1606408462:0;NODE_ENV=browser:development yarn start
+: 1606408462:0;yarn install
+: 1606408462:0;NODE_ENV=browser:development yarn start
+: 1606408462:0;yarn install
+: 1606408462:0;NODE_ENV=browser:development yarn start
+: 1606408462:0;yarn install
+: 1606408462:0;NODE_ENV=browser:development yarn start
+: 1606408462:0;yarn add help
+: 1606408462:0;yarn add -help
+: 1606408462:0;yarn add --help
+: 1606408462:0;yarn add -D eslint-plugin-react-hooks
+: 1606408462:0;NODE_ENV=browser:development yarn start
+: 1606408462:0;yarn add --peer --no-lockfile 
+: 1606408462:0;yarn install --peer --no-lockfile 
+: 1606408462:0;NODE_ENV=browser:development yarn start
+: 1606408462:0;echo v10.22.1 > .nvmrc
+: 1606408462:0;..
+: 1606408462:0;cd -
+: 1606408462:0;NODE_ENV=browser:development yarn start
+: 1606408462:0;sudo killall VDCAssistant
+: 1606408462:0;NODE_ENV=browser:development yarn start
+: 1606408462:0;cd node_modules/cozy-scripts
+: 1606408462:0;../..
+: 1606408462:0;rm .nvmrc
+: 1606408462:0;..
+: 1606408462:0;cd -
+: 1606408462:0;cd node_modules/cozy-scripts
+: 1606408462:0;yarn add webpack
+: 1606408462:0;../..
+: 1606408462:0;NODE_ENV=browser:development yarn start
+: 1606408462:0;yarn install
+: 1606408462:0;NODE_ENV=browser:development yarn start
+: 1606408462:0;cd node_modules/cozy-scripts
+: 1606408462:0;yarn add webpack
+: 1606408462:0;../..
+: 1606408462:0;NODE_ENV=browser:development yarn start
+: 1606408462:0;cd node_modules/cozy-scripts
+: 1606408462:0;yarn add webpack@4.44.2
+: 1606408462:0;../..
+: 1606408462:0;NODE_ENV=browser:development yarn start
+: 1606408462:0;nvm install 10.16.3
+: 1606408462:0;yarn install
+: 1606408462:0;yarn stack:docker:dev
+: 1606408462:0;yarn start
+: 1606408462:0;NODE_ENV=browser:development yarn start
+: 1606408462:0;yarn stack:docker:dev
+: 1606408462:0;cp ~/.prettierrc .
+: 1606408462:0;npm i react-use
+: 1606408462:0;yarn add react-use
+: 1606408462:0;git pull
+: 1606408462:0;node scripts/watchTrad.js
+: 1606408462:0;la trads
+: 1606408462:0;node scripts/watchTrad.js
+: 1606408462:0;git st
+: 1606408462:0;gorepo
+: 1606408462:0;git clone git@github.com:xseignard/cozy-contacts.git
+: 1606408462:0;cd cozy-contacts
+: 1606408462:0;cp -r .git ../../cozy/cozy-contacts
+: 1606408462:0;git st
+: 1606408462:0;code .
+: 1606408462:0;cp ~/.prettierrc .
+: 1606408462:0;yarn add react-use
+: 1606408462:0;yarn stack:docker:dev
+: 1606408462:0;yarn start
+: 1606408462:0;NODE_ENV=browser:development yarn start
+: 1606408462:0;yarn stack:docker:dev
+: 1606408462:0;NODE_ENV=browser:development yarn start
+: 1606408462:0;yarn stack:docker:dev
+: 1606408462:0;git stash
+: 1606408462:0;git co xav/scroll-by-letter
+: 1606408462:0;git co -b xav/scroll-by-letter
+: 1606408462:0;git stash apply
+: 1606408462:0;yarn test
+: 1606408462:0;git stash
+: 1606408462:0;yarn test
+: 1606408462:0;git stash apply
+: 1606408462:0;yarn test
+: 1606408462:0;cozy-scripts test src/components/ContentRework.spec.jsx
+: 1606408462:0;./node_modules/bin/cozy-scripts test src/components/ContentRework.spec.jsx
+: 1606408462:0;./node_modules/.bin/cozy-scripts test src/components/ContentRework.spec.jsx
+: 1606408462:0;./node_modules/.bin/cozy-scripts test src/components/ContentResult.spec.jsx
+: 1606408462:0;./node_modules/.bin/cozy-scripts test src/components/ContentRework.spec.jsx
+: 1606408462:0;yarn test
+: 1606408462:0;yarn remove react-use
+: 1606408462:0;yarn install
+: 1606408462:0;yarn test
+: 1606408462:0;yarn test -- -t 'ContentResult - scroll by category'
+: 1606408462:0;yarn test
+: 1606408462:0;git branch -m xav/scroll-by-category
+: 1606408462:0;git st
+: 1606408462:0;git hist
+: 1606408462:0;git ls remote
+: 1606408462:0;git remote ls
+: 1606408462:0;git remote
+: 1606408462:0;git remote -v
+: 1606408462:0;git push
+: 1606408462:0;yarn lint
+: 1606408462:0;git push
+: 1606408462:0;yarn stack:docker:dev
+: 1606408462:0;yarn start
+: 1606408462:0;NODE_ENV=browser:development yarn start
+: 1606408462:0;neofetch
+: 1606408462:0;sudo killall VDCAssistant
+: 1606408462:0;gorepo
+: 1606408462:0;npx react-native init test-wizzcad
+: 1606408462:0;npx react-native init testwizzcad
+: 1606408462:0;cd testwizzcad
+: 1606408462:0;code .
+: 1606408462:0;cp ~/.prettierrc .
+: 1606408462:0;npm i -D eslint-config-prettier eslint-plugin-prettier eslint-plugin-simple-import-sort prettier
+: 1606408462:0;npm i styled-system styled-components
+: 1606408462:0;npm install swr\
+
+: 1606408462:0;npm i react-native-responsive-screen
+: 1606408462:0;npm i react-native-fast-image
+: 1606408462:0;npm install react-native-safe-area-context\
+
+: 1606408462:0;npm i @react-navigation/native @react-navigation/stack
+: 1606408462:0;npm install --save recyclerlistview\
+\
+
+: 1606408462:0;npm start
+: 1606408462:0;npm run android
+: 1606408462:0;npm i -D json-server faker
+: 1606408462:0;npm install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view\
+
+: 1606408462:0;npm run server
+: 1606408462:0;npm start
+: 1606408462:0;npm i react-native-vector-icons
+: 1606408462:0;npm run android
+: 1606408462:0;/Users/bigx/repos/testwizzcad/node_modules/react-native/scripts/launchPackager.command ; exit;
+: 1606408462:0;adb reverse tcp:8081 tcp:8081
+: 1606408462:0;npm start
+: 1606408462:0;ifconfig
+: 1606408462:0;npm run server
+: 1606408462:0;npm test
+: 1606408462:0;npm install -g detox-cli\
+
+: 1606408462:0;npm install detox --save-dev
+: 1606408462:0;detox init -r jest
+: 1606408462:0;npm i -D jest-circus
+: 1606408462:0;npm i -d jest
+: 1606408462:0;npm i -D eslint-plugin-detox
+: 1606408462:0;npm start
+: 1606408462:0;npm i react-native-config
+: 1606408462:0;npm run android
+: 1606408462:0;/Users/bigx/repos/testwizzcad/node_modules/react-native/scripts/launchPackager.command ; exit;
+: 1606408462:0;npm start
+: 1606408462:0;npm run android
+: 1606408462:0;detox build -c ios
+: 1606408462:0;cd ios
+: 1606408462:0;pod install
+: 1606408462:0;cd -
+: 1606408462:0;detox build -c ios
+: 1606408462:0;cd ios
+: 1606408462:0;pod cache clean --all && pod install
+: 1606408462:0;cd -
+: 1606408462:0;detox build -c ios
+: 1606408462:0;detox test -c ios
+: 1606408462:0;detox build -c ios
+: 1606408462:0;detox test -c ios
+: 1606408462:0;detox build -c ios
+: 1606408462:0;detox test -c ios
+: 1606408462:0;detox build -c ios
+: 1606408462:0;detox test -c ios
+: 1606408462:0;detox build -c ios
+: 1606408462:0;detox test -c ios
+: 1606408462:0;detox build -c ios
+: 1606408462:0;detox test -c ios
+: 1606408462:0;detox build -c ios
+: 1606408462:0;detox test -c ios
+: 1606408462:0;detox build -c ios
+: 1606408462:0;detox test -c ios
+: 1606408462:0;npm run test
+: 1606408462:0;detox test -c ios
+: 1606408462:0;detox build -c ios
+: 1606408462:0;detox test -c ios
+: 1606408462:0;npm install --save-dev react-native-config-node\
+
+: 1606408462:0;detox test -c ios
+: 1606408462:0;detox build -c ios
+: 1606408462:0;detox test -c ios
+: 1606408462:0;NODE_ENV=test detox test -c ios
+: 1606408462:0;brew tap wix/brew\
+
+: 1606408462:0;[200~brew install applesimutils
+: 1606408462:0;brew install applesimutils\
+
+: 1606408462:0;npm run e2e:ios:test
+: 1606408462:0;/usr/bin/xcrun simctl spawn E15DC699-4141-4D52-B4EB-DAA7CC4B0310 log stream --level debug --style compact --predicate 'process == "testwizzcad"'
+: 1606408462:0;npm run e2e:ios:test
+: 1606408462:0;npm run server
+: 1606408462:0;npm run test
+: 1606408462:0;npm run e2e:ios:test
+: 1606408462:0;npm start
+: 1606408462:0;npm run e2e:ios:test
+: 1606408462:0;npm run server
+: 1606408462:0;npm run e2e:ios:test
+: 1606408462:0;npm run e2e:ios:build
+: 1606408462:0;npm run e2e:ios:test
+: 1606408462:0;adb reverse tcp:8081 tcp:8081
+: 1606408462:0;npm run andrid
+: 1606408462:0;npm run android
+: 1606408462:0;npm run e2e:ios:build
+: 1606408462:0;npm run e2e:ios:test
+: 1606408462:0;npm run test
+: 1606408462:0;npm run e2e:ios:test
+: 1606408462:0;npm run e2e:ios:build
+: 1606408462:0;npm run e2e:ios:test
+: 1606408462:0;npm run e2e:android:build
+: 1606408462:0;npm run e2e:android:test
+: 1606408462:0;android
+: 1606408462:0;..
+: 1606408462:0;avdmanager
+: 1606408462:0;npm run e2e:android:test
+: 1606408462:0;npm run e2e:android:build
+: 1606408462:0;npm run e2e:android:test
+: 1606408462:0;npm start
+: 1606408462:0;npm run lint
+: 1606408462:0;npm install commitizen -g\
+
+: 1606408462:0;commitizen init cz-conventional-changelog --save-dev --save-exact\
+
+: 1606408462:0;git cz
+: 1606408462:0;git init
+: 1606408462:0;git cz
+: 1606408462:0;npm run e2e:android:build
+: 1606408462:0;npm run e2e:android:test
+: 1606408462:0;npm run e2e:android:build
+: 1606408462:0;npm run e2e:android:test
+: 1606408462:0;adb devices
+: 1606408462:0;npm run e2e:android:test
+: 1606408462:0;node src/test.js
+: 1606408462:0;npm i -D unfetch
+: 1606408462:0;node src/test.js
+: 1606408462:0;npm rm unfetch
+: 1606408462:0;npm i -D node-fetch
+: 1606408462:0;node src/test.js
+: 1606408462:0;npm start
+: 1606408462:0;npm run tes
+: 1606408462:0;npm run test
+: 1606408462:0;npm run e2e:ios:build
+: 1606408462:0;npm run e2e:ios:test
+: 1606408462:0;git cz
+: 1606408462:0;hub create
+: 1606408462:0;git push
+: 1606408462:0;npm run test
+: 1606408462:0;npm run e2e:ios:test
+: 1606408462:0;git co -b xav/ci
+: 1606408462:0;npm run detox
+: 1606408462:0;npm run detox:cache
+: 1606408462:0;git add .
+: 1606408462:0;git cz
+: 1606408462:0;git push
+: 1606408462:0;git cz
+: 1606408462:0;git push
+: 1606408462:0;git rebase master
+: 1606408462:0;git stash
+: 1606408462:0;git rebase master
+: 1606408462:0;git push
+: 1606408462:0;git fetch origin
+: 1606408462:0;git rebase master
+: 1606408462:0;git push
+: 1606408462:0;git merge master
+: 1606408462:0;git pull origin/xav/ci
+: 1606408462:0;git pull origin xav/ci
+: 1606408462:0;git co master
+: 1606408462:0;git pull
+: 1606408462:0;git pull origin master
+: 1606408462:0;git merge --no-ff xav/ci
+: 1606408462:0;git push origin master
+: 1606408462:0;git add .
+: 1606408462:0;git cz
+: 1606408462:0;git push
+: 1606408462:0;npm run e2e:ios:build
+: 1606408462:0;npm run e2e:ios:test
+: 1606408462:0;npm run e2e:android:build
+: 1606408462:0;npm run e2e:android:test
+: 1606408462:0;git cz
+: 1606408462:0;git push
+: 1606408462:0;git cz
+: 1606408462:0;git push
+: 1606408462:0;npm run e2e:android:test
+: 1606408462:0;npm run e2e:android:build
+: 1606408462:0;git cz
+: 1606408462:0;git push
+: 1606408462:0;git cz
+: 1606408462:0;git push
+: 1606408462:0;npm run e2e:android:test
+: 1606408462:0;npm run e2e:android:test -- --loglevel trace
+: 1606408462:0;npm run e2e:android:build
+: 1606408462:0;npm run e2e:android:test -- --loglevel trace
+: 1606408462:0;npm run e2e:android:build
+: 1606408462:0;npm run e2e:android:test -- --loglevel trace
+: 1606408462:0;npm run e2e:android:test
+: 1606408462:0;npm run e2e:android:build
+: 1606408462:0;npm run e2e:android:test
+: 1606408462:0;npm run e2e:android:build
+: 1606408462:0;npm run e2e:android:test
+: 1606408462:0;adb devices
+: 1606408462:0;npm run e2e:android:test
+: 1606408462:0;npm run e2e:android:build
+: 1606408462:0;npm run e2e:android:test
+: 1606408462:0;npm run e2e:android:build
+: 1606408462:0;npm run e2e:android:test
+: 1606408462:0;npm run e2e:android:build
+: 1606408462:0;npm run e2e:android:test
+: 1606408462:0;npm run e2e:android:build
+: 1606408462:0;npm run e2e:android:test
+: 1606408462:0;cd android
+: 1606408462:0;./gradlew clean
+: 1606408462:0;cd -
+: 1606408462:0;npm run e2e:android:build
+: 1606408462:0;npm run e2e:android:test
+: 1606408462:0;npm run e2e:android:build
+: 1606408462:0;npm run e2e:android:test
+: 1606408462:0;git cz
+: 1606408462:0;git push
+: 1606408462:0;git cz
+: 1606408462:0;git push
+: 1606408462:0;git cz
+: 1606408462:0;git push
+: 1606408462:0;git st
+: 1606408462:0;avdmanager
+: 1606408462:0;avdmanager list device
+: 1606408462:0;avdmanager list target
+: 1606408462:0;avdmanager list device
+: 1606408462:0;emulator -list-avd
+: 1606408462:0;emulator -list-avds
+: 1606408462:0;npm rm json-server 
+: 1606408462:0;git cz
+: 1606408462:0;git push
+: 1606408462:0;avdmanager list device
+: 1606408462:0;npm run e2e:android:build
+: 1606408462:0;npm run e2e:android:test
+: 1606408462:0;avdmanager list device
+: 1606408462:0;npm run e2e:android:test
+: 1606408462:0;git push
+: 1606408462:0;emulator -list-avds
+: 1606408462:0;git co -b xav/i18n
+: 1606408462:0;npm install react-i18next i18next --save
+: 1606408462:0;npm run ios
+: 1606408462:0;adb devices
+: 1606408462:0;adb reverse tcp:8081 tcp:8081
+: 1606408462:0;npm run android
+: 1606408462:0;adb reverse tcp:8081 tcp:8081
+: 1606408462:0;adb devices
+: 1606408462:0;adb reverse tcp:8081 tcp:8081
+: 1606408462:0;npm run android
+: 1606408462:0;adb loagcat
+: 1606408462:0;adb logcat
+: 1606408462:0;cd android
+: 1606408462:0;./gradlew clean
+: 1606408462:0;cd -
+: 1606408462:0;npm run android
+: 1606408462:0;adb devices
+: 1606408462:0;adb logcat
+: 1606408462:0;adb reverse tcp:8081 tcp:8081
+: 1606408462:0;npm run ios
+: 1606408462:0;git st
+: 1606408462:0;npm test
+: 1606408462:0;npm run e2e:ios:build
+: 1606408462:0;npm run e2e:ios:test
+: 1606408462:0;npm run e2e:android:build
+: 1606408462:0;npm run e2e:android:test
+: 1606408462:0;git push
+: 1606408462:0;adb reverse tcp:8081 tcp:8081
+: 1606408462:0;ifconfig
+: 1606408462:0;adb logcat | grep React
+: 1606408462:0;rm -rf android/.gradle
+: 1606408462:0;cd android
+: 1606408462:0;./gradlew clean
+: 1606408462:0;cd -
+: 1606408462:0;npm run android
+: 1606408462:0;git co master
+: 1606408462:0;git pull
+: 1606408462:0;sudo killall VDCAssistant
+: 1606408462:0;npm run android
+: 1606408462:0;git stash
+: 1606408462:0;git co -b xav/fix-cleartext-traffic
+: 1606408462:0;git stash apply
+: 1606408462:0;git push
+: 1606408462:0;git co master
+: 1606408462:0;git pull
+: 1606408462:0;git co -b xav/pagination
+: 1606408462:0;adb reverse tcp:8081 tcp:8081
+: 1606408462:0;npm test
+: 1606408462:0;npm run e2e:ios:build
+: 1606408462:0;npm run e2e:ios:test
+: 1606408462:0;npm run e2e:ios:build
+: 1606408462:0;npm run e2e:ios:test
+: 1606408462:0;npm run e2e:ios:build
+: 1606408462:0;npm run e2e:ios:test
+: 1606408462:0;npm run e2e:android:build
+: 1606408462:0;npm run e2e:android:test
+: 1606408462:0;npm run e2e:ios:build
+: 1606408462:0;npm run e2e:ios:test
+: 1606408462:0;npm run e2e:android:build
+: 1606408462:0;npm run e2e:android:test
+: 1606408462:0;git push
+: 1606408462:0;git co master
+: 1606408462:0;git pull
+: 1606408462:0;git co -b xav/force-portrait
+: 1606408462:0;npm run e2e:android:build
+: 1606408462:0;npm run e2e:android:test
+: 1606408462:0;git st
+: 1606408462:0;git push
+: 1606408462:0;sudo killall VDCAssistant
+: 1606408462:0;git st
+: 1606408462:0;git co master
+: 1606408462:0;git pull
+: 1606408462:0;npm test
+: 1606408462:0;gorepo
+: 1606408462:0;git clone git@github.com:google/filament.git
+: 1606408462:0;cd filament
+: 1606408462:0;open .
+: 1606408462:0;cd ios/CocoaPods
+: 1606408462:0;l
+: 1606408462:0;cd ../samples/hello-gltf
+: 1606408462:0;pod init
+: 1606408462:0;l
+: 1606408462:0;pod install Filament
+: 1606408462:0;code .
+: 1606408462:0;pod install
+: 1606408462:0;../../../../testFilament
+: 1606408462:0;pod init
+: 1606408462:0;open .
+: 1606408462:0;gorepo
+: 1606408462:0;cd filament/ios/samples/hello-gltf
+: 1606408462:0;./build-resources.sh
+: 1606408462:0;../
+: 1606408462:0;..
+: 1606408462:0;l
+: 1606408462:0;./build.sh
+: 1606408462:0;./build.sh release ios
+: 1606408462:0;./build.sh release
+: 1606408462:0;gorepo
+: 1606408462:0;cd filament/ios/samples/hello-gltf
+: 1606408462:0;code .
+: 1606408462:0;pod install
+: 1606408462:0;./build.sh -p ios debug
+: 1606408462:0;gorepo
+: 1606408462:0;vue create livestorm-frontend-test
+: 1606408462:0;cd livestorm-frontend-test
+: 1606408462:0;code .
+: 1606408462:0;npm install tailwindcss\
+
+: 1606408462:0;npm install --save vue-apollo graphql apollo-boost\
+
+: 1606408462:0;git hisy
+: 1606408462:0;git hist
+: 1606408462:0;code .
+: 1606408462:0;npm run lint
+: 1606408462:0;npm install --save-dev eslint-plugin-simple-import-sort\
+
+: 1606408462:0;commitizen init cz-conventional-changelog --save-dev --save-exact\
+
+: 1606408462:0;npm install --save-dev @commitlint/{config-conventional,cli}\
+
+: 1606408462:0;npm install husky --save-dev
+: 1606408462:0;git ci -m "Husky test"
+: 1606408462:0;git add .
+: 1606408462:0;git ci -m "Husky test"
+: 1606408462:0;rm -rf commitlint.config.js
+: 1606408462:0;echo "module.exports = {extends: ['@commitlint/config-conventional']}" > commitlint.config.js\
+
+: 1606408462:0;git st
+: 1606408462:0;git ci -m "Husky test"
+: 1606408462:0;gi tadd .
+: 1606408462:0;git add .
+: 1606408462:0;git ci -m "Husky test"
+: 1606408462:0;git add .
+: 1606408462:0;git ci -m "Husky test"
+: 1606408462:0;cz
+: 1606408462:0;npm run lint
+: 1606408462:0;npm run test:e2e
+: 1606408462:0;npm run test:unit
+: 1606408462:0;sudo killall VDCAssistant
+: 1606408462:0;npm run test:e2e -- --headless
+: 1606408462:0;rm -rf .git
+: 1606408462:0;git init
+: 1606408462:0;cz
+: 1606408462:0;git co -b feat/toolbar
+: 1606408462:0;npm run dev
+: 1606408462:0;npm run serve
+: 1606408462:0;npm install vue-i18n
+: 1606408462:0;npm rm vue-i18n
+: 1606408462:0;vue add i18n
+: 1606408462:0;npm i vue-feather-icons
+: 1606408462:0;npm run serve
+: 1606408462:0;cz
+: 1606408462:0;sudo killall VDCAssistant
+: 1606408462:0;cz
+: 1606408462:0;hub create -p
+: 1606408462:0;git push
+: 1606408462:0;git co -b main
+: 1606408462:0;git co master
+: 1606408462:0;git push
+: 1606408462:0;git co feat/toolbar
+: 1606408462:0;npm run test:unit
+: 1606408462:0;cz
+: 1606408462:0;git push
+: 1606408462:0;git co master
+: 1606408462:0;git pull
+: 1606408462:0;git pull origin master
+: 1606408462:0;git co -b feat/ci
+: 1606408462:0;brew install act\
+\
+
+: 1606408462:0;npm run test:unit
+: 1606408462:0;act
+: 1606408462:0;npm test
+: 1606408462:0;act
+: 1606408462:0;ls ~/.cache/act/actions-cache@v2
+: 1606408462:0;more jest.config.js
+: 1606408462:0;ls ~/.cache/act/actions-cache@v2/jest.config.js
+: 1606408462:0;more ~/.cache/act/actions-cache@v2/jest.config.js
+: 1606408462:0;npm run test:e2e -- --headless
+: 1606408462:0;npm run test:e2e
+: 1606408462:0;npm run serve
+: 1606408462:0;npm run test:e2e
+: 1606408462:0;npm install --save-dev @cypress/webpack-preprocessor
+: 1606408462:0;npm run test:e2e -- --headless
+: 1606408462:0;npm run test:e2e
+: 1606408462:0;NODE_ENV=test npm run test:e2e
+: 1606408462:0;act
+: 1606408462:0;nvm list
+: 1606408462:0;nvm install 14.15.0 --reinstall-packages-from=v12.14.1
+: 1606408462:0;editDotfiles
+: 1606408462:0;act
+: 1606408462:0;node -v
+: 1606408462:0;npm outdated -g
+: 1606408462:0;npm update -g
+: 1606408462:0;nvm alias default v14.15.0
+: 1606408462:0;npm outdated -g
+: 1606408462:0;cz
+: 1606408462:0;git push
+: 1606408462:0;git co master
+: 1606408462:0;git pull
+: 1606408462:0;git pull origin master
+: 1606408462:0;git co -b feat/attendees
+: 1606408462:0;npm run serve
+: 1606408462:0;npm install i18n-iso-countries
+: 1606408462:0;npm rm i18n-iso-countries
+: 1606408462:0;npm run test:unit
+: 1606408462:0;cz 
+: 1606408462:0;git stash
+: 1606408462:0;git push
+: 1606408462:0;git co master
+: 1606408462:0;git pull origin master
+: 1606408462:0;git co -b feat/attendee
+: 1606408462:0;git stash aplly
+: 1606408462:0;git stash apply
+: 1606408462:0;npm run serve
+: 1606408462:0;npm run test:unit
+: 1606408462:0;cz
+: 1606408462:0;git push
+: 1606408462:0;git co master
+: 1606408462:0;git pull origin master
+: 1606408462:0;git co -b refactor/ui
+: 1606408462:0;npm run test:unit
+: 1606408462:0;npm run test:e2e
+: 1606408462:0;npm run test:e2e -- --headless
+: 1606408462:0;NODE_ENV=test npm run test:e2e -- --headless
+: 1606408462:0;cz
+: 1606408462:0;git push
+: 1606408462:0;git co master
+: 1606408462:0;git pull 
+: 1606408462:0;git pull origin master
+: 1606408462:0;git co -b feat/chart
+: 1606408462:0;npm install chart.js --save\
+
+: 1606408462:0;npm run test:unit
+: 1606408462:0;cz
+: 1606408462:0;git st
+: 1606408462:0;git add .
+: 1606408462:0;cz
+: 1606408462:0;git push
+: 1606408462:0;git co master
+: 1606408462:0;git pull origin master
+: 1606408462:0;git co -b feat/invite
+: 1606408462:0;git co master
+: 1606408462:0;git co -b refactor/graphql
+: 1606408462:0;git st
+: 1606408462:0;git stash
+: 1606408462:0;git co master
+: 1606408462:0;git co -b docs/readme
+: 1606408462:0;git stash apply
+: 1606408462:0;act
+: 1606408462:0;cz
+: 1606408462:0;git add .
+: 1606408462:0;cz
+: 1606408462:0;git push
+: 1606408462:0;git co master 
+: 1606408462:0;git pull origin master
+: 1606408462:0;git co feat/invite
+: 1606408462:0;git rebase master
+: 1606408462:0;git hist
+: 1606408462:0;git push
+: 1606408462:0;npm run build
+: 1606408462:0;git co master
+: 1606408462:0;git pull origin master
+: 1606408462:0;git co -b fix/cd
+: 1606408462:0;git add 
+: 1606408462:0;git add .
+: 1606408462:0;cz
+: 1606408462:0;git push
+: 1606408462:0;git st
+: 1606408462:0;git co master
+: 1606408462:0;git pull origin master
+: 1606408462:0;git co fix/cd
+: 1606408462:0;git rebase master
+: 1606408462:0;git st
+: 1606408462:0;git add .
+: 1606408462:0;cz
+: 1606408462:0;git push
+: 1606408462:0;git co master
+: 1606408462:0;git co -b fix/netlify
+: 1606408462:0;git add .
+: 1606408462:0;cz
+: 1606408462:0;git push
+: 1606408462:0;git co master
+: 1606408462:0;git pull origin master
+: 1606408462:0;git co feat/invite
+: 1606408462:0;git rebase master
+: 1606408462:0;git push
+: 1606408462:0;npm install vuelidate --save\
+
+: 1606408462:0;node -v
+: 1606408462:0;npm run dev
+: 1606408462:0;npm run serve
+: 1606408462:0;cz
+: 1606408462:0;npm run test:unit
+: 1606408462:0;C
+: 1606408462:0;npm run test:unit
+: 1606408462:0;D
+: 1606408462:0;npm run test:unit
+: 1606408462:0;NODE_ENV=test npm run test:e2e -- --headless
+: 1606408462:0;npm run serve
+: 1606408462:0;cz
+: 1606408462:0;git st
+: 1606408462:0;git push
+: 1606408462:0;git co master
+: 1606408462:0;git pull origin master
+: 1606408462:0;git co -b feat/filter
+: 1606408462:0;npm run test:unit
+: 1606408462:0;cz
+: 1606408462:0;git push
+: 1606408462:0;cz
+: 1606408462:0;npm run test:unit
+: 1606408462:0;git push
+: 1606408462:0;git co master
+: 1606408462:0;git pull origin master
+: 1606408462:0;git stash
+: 1606408462:0;git co -b fix/netlify
+: 1606408462:0;git co -b fix/netlify-routing
+: 1606408462:0;cz
+: 1606408462:0;git push
+: 1606408462:0;npm run build
+: 1606408462:0;git co master
+: 1606408462:0;git pull origin master
+: 1606408462:0;git add .
+: 1606408462:0;cz
+: 1606408462:0;git push
+: 1606408462:0;git add .
+: 1606408462:0;cz
+: 1606408462:0;git push
+: 1606408462:0;npm run serve
+: 1606408462:0;git stash
+: 1606408462:0;git co -b fix/invite-select
+: 1606408462:0;git stash apply
+: 1606408462:0;git st
+: 1606408462:0;git add .
+: 1606408462:0;cz
+: 1606408462:0;git push
+: 1606408462:0;git co master
+: 1606408462:0;git pull origin master
+: 1606408462:0;npm run serve
+: 1606408462:0;git co -b feat/shared-element
+: 1606408462:0;npm i v-shared-element
+: 1606408462:0;npm run test:unit
+: 1606408462:0;clear
+: 1606408462:0;npm run test:unit
+: 1606408462:0;cz
+: 1606408462:0;git push
+: 1606408462:0;git pull
+: 1606408462:0;npm version patch
+: 1606408462:0;git pull
+: 1606408462:0;sudo killall VDCAssistant
+: 1606408462:0;node -v
+: 1606408462:0;git st
+: 1606408462:0;yarn stack:docker:dev
+: 1606408462:0;NODE_ENV=browser:development yarn start
+: 1606408462:0;yarn stack:docker:dev
+: 1606408462:0;npm run test
+: 1606408462:0;npm run lint
+: 1606408462:0;cz
+: 1606408462:0;git push
+: 1606408462:0;git st
+: 1606408462:0;git pull
+: 1606408462:0;git co -b xav/responsive-fix
+: 1606408462:0;git co dev
+: 1606408462:0;git pull origin dev
+: 1606408462:0;npm i
+: 1606408462:0;npm run build
+: 1606408462:0;git st
+: 1606408462:0;git push
+: 1606408462:0;git pull
+: 1606408462:0;git merge master
+: 1606408462:0;git co dev
+: 1606408462:0;git co master
+: 1606408462:0;git st
+: 1606408462:0;git pull origin master
+: 1606408462:0;git st
+: 1606408462:0;git co dev
+: 1606408462:0;git merge master
+: 1606408462:0;git push
+: 1606408462:0;git st
+: 1606408462:0;git diff
+: 1606408462:0;git add .
+: 1606408462:0;git ci
+: 1606408462:0;git push
+: 1606408462:0;git co master
+: 1606408462:0;git pull origin master
+: 1606408462:0;git co dev
+: 1606408462:0;git pudh
+: 1606408462:0;git push
+: 1606408462:0;git merge master
+: 1606408462:0;git push
+: 1606408462:0;npm run build
+: 1606408462:0;git add .
+: 1606408462:0;git ci
+: 1606408462:0;git push
+: 1606408462:0;git co master && git pull origin master && git co dev && git merge master
+: 1606408462:0;git push
+: 1606408462:0;git add .
+: 1606408462:0;git ci
+: 1606408462:0;git push
+: 1606408462:0;npm run build
+: 1606408462:0;git ci
+: 1606408462:0;git add .
+: 1606408462:0;git ci
+: 1606408462:0;git co master && git pull origin master && git co dev && git merge master
+: 1606408462:0;npm run build
+: 1606408462:0;git st
+: 1606408462:0;git push
+: 1606408462:0;npm run build
+: 1606408462:0;git st
+: 1606408462:0;git add .
+: 1606408462:0;git ci
+: 1606408462:0;git push
+: 1606408462:0;git co master && git pull origin master && git co dev && git merge master
+: 1606408462:0;npm run build
+: 1606408462:0;git st
+: 1606408462:0;npm run build
+: 1606408462:0;git add .
+: 1606408462:0;git ci
+: 1606408462:0;git push
+: 1606408462:0;git co master && git pull origin master && git co dev && git merge master
+: 1606408462:0;git push
+: 1606408462:0;git co master
+: 1606408462:0;git pull origin master
+: 1606408462:0;git co -b feat/transition-group
+: 1606408462:0;npm run serve
+: 1606408462:0;cz
+: 1606408462:0;git push
+: 1606408462:0;npm run test:unit
+: 1606408462:0;NODE_ENV=test npm run test:e2e -- --headless
+: 1606408462:0;git co master
+: 1606408462:0;git pull origin master
+: 1606408462:0;npm run test:unit
+: 1606408462:0;NODE_ENV=production npm run build
+: 1606408462:0;git pull origin master
+: 1606408462:0;git co -b feat/purgeCSS
+: 1606408462:0;npm install @fullhuman/postcss-purgecss --save-dev\
+
+: 1606408462:0;NODE_ENV=production npm run build
+: 1606408462:0;static dist
+: 1606408462:0;serve dist
+: 1606408462:0;npx http-server dist
+: 1606408462:0;NODE_ENV=production npm run build
+: 1606408462:0;npx http-server dist
+: 1606408462:0;cz
+: 1606408462:0;git push
+: 1606408462:0;git co master
+: 1606408462:0;git upll
+: 1606408462:0;git pull
+: 1606408462:0;git pull origin master
+: 1606408462:0;sudo killall VDCAssistant
+: 1606408462:0;git st
+: 1606408462:0;git add .
+: 1606408462:0;git ci
+: 1606408462:0;git push
+: 1606408462:0;sudo killall VDCAssistant
+: 1606408462:0;gorepo
+: 1606408462:0;npx react-native init BonjourRadio --template react-native-template-typescript
+: 1606408462:0;cd BonjourRadio
+: 1606408462:0;code .
+: 1606408462:0;npm start
+: 1606408462:0;npm run ios
+: 1606408462:0;sudo killall VDCAssistant
+: 1606408462:0;gorepo
+: 1606408462:0;cd gibMacOS
+: 1606408462:0;./gibMacOS.command
+: 1606408462:0;./BuildmacOSInstallApp.command
+: 1606408462:0;gorepo
+: 1606408462:0;cd gibMacOS
+: 1606408462:0;open .
+: 1606408462:0;cd macOS\ Downloads/publicrelease/001-68446\ -\ 10.15.7\ macOS\ Catalina/
+: 1606408462:0;pwd
+: 1606408462:0;sudo ./Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/Catalina
+: 1606408462:0;sudo killall VDCAssistant
+: 1606408462:0;git pull origin master
+: 1606408462:0;npm version patch
+: 1606408462:0;git st
+: 1606408462:0;git push
+: 1606408462:0;npm version patch
+: 1606408462:0;npm run lint
+: 1606408462:0;git st
+: 1606408462:0;npm version patch
+: 1606408462:0;npm start
+: 1606408462:0;npm run ios
+: 1606408462:0;cd ios
+: 1606408462:0;pod cache clean --all && pod install
+: 1606408462:0;..
+: 1606408462:0;npm run ios
+: 1606408462:0;cd ios
+: 1606408462:0;pod cache clean --all && pod install
+: 1606408462:0;..
+: 1606408462:0;npm run ios
+: 1606408462:0;npm i @babylonjs/react-native
+: 1606408462:0;npm i @babylonjs/core
+: 1606408462:0;npm i react-native-permissions
+: 1606408462:0;cd ios
+: 1606408462:0;pod cache clean --all && pod install
+: 1606408462:0;..
+: 1606408462:0;npm run ios
+: 1606408462:0;npm start
+: 1606408462:0;npm i @react-native-community/slider\
+
+: 1606408462:0;npm start
+: 1606408462:0;cd ios
+: 1606408462:0;pod cache clean --all && pod install
+: 1606408462:0;..
+: 1606408462:0;npm run ios
+: 1606408462:0;adb devices
+: 1606408462:0;adb reverse tcp:8081 tcp:8081
+: 1606408462:0;npm run android
+: 1606408462:0;cd android
+: 1606408462:0;./gradlew clean
+: 1606408462:0;..
+: 1606408462:0;npm run android
+: 1606408462:0;neofetch
+: 1606408462:0;cd -
+: 1606408462:0;./gibMacOS.command
+: 1606408462:0;./BuildmacOSInstallApp.command
+: 1606408462:0;./gibMacOS.command
+: 1606408462:0;git pull origin master
+: 1606408462:0;./gibMacOS.command
+: 1606408462:0;cd macOS\ Downloads/publicrelease/001-79699\ -\ 11.0.1\ macOS\ Big\ Sur
+: 1606408462:0;./InstallAssistant.pkg
+: 1606408462:0;open .
+: 1606408462:0;sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/BigSur
+: 1606408462:0;sudo sync
+: 1606408462:0;gorepo
+: 1606408462:0;git clone https://github.com/corpnewt/MountEFI\
+
+: 1606408462:0;cd MountEFI\
+
+: 1606408462:0;chmod +x MountEFI.command\
+
+: 1606408462:0;./MountEFI.command
+: 1606408462:0;/Volumes/EFI 
+: 1606408462:0;pwd
+: 1606408462:0;cd
+: 1606408462:0;./MountEFI.command
+: 1606408462:0;..
+: 1606408462:0;git clone https://github.com/corpnewt/ProperTree\
+
+: 1606408462:0;cd ProperTree
+: 1606408462:0;git pull origin master
+: 1606408462:0;./ProperTree.command
+: 1606408462:0;gorepo
+: 1606408462:0;git clone https://github.com/corpnewt/GenSMBIOS\
+
+: 1606408462:0;cd GenSMBIOS\
+
+: 1606408462:0;chmod +x GenSMBIOS.command\
+
+: 1606408462:0;./GenSMBIOS.command
+: 1606408462:0;./MountEFI.command
+: 1606408462:0;./ProperTree.command
+: 1606408462:0;./GenSMBIOS.command
+: 1606408462:0;./ProperTree.command
+: 1606408462:0;./MountEFI.command
+: 1606408462:0;./ProperTree.command
+: 1606408462:0;./MountEFI.command
+: 1606408462:0;sudo killall VDCAssistant
+: 1606408462:0;dig
+: 1606408462:0;dig drangies.fr
+: 1606408462:0;git pull origin master
+: 1606408462:0;npm run lint
+: 1606408462:0;git st
+: 1606408462:0;pio run -t upload 
+: 1606408462:0;sudo killall VDCAssistant
+: 1606408462:0;pio
+: 1606408462:0;pio upgrade
+: 1606408462:0;pio update
+: 1606408462:0;git st
+: 1606408462:0;git stash
+: 1606408462:0;git pull origin master
+: 1606408462:0;npm run lint
+: 1606408462:0;git add .
+: 1606408462:0;git ci -m "Lint"
+: 1606408462:0;npm run dev
+: 1606408462:0;npm run serve
+: 1606408462:0;npm start
+: 1606408462:0;git push
+: 1606408462:0;npm version patch
+: 1606408462:0;npm run dev
+: 1606408462:0;sudo killall VDCAssistant
+: 1606408462:0;npm verrsion patch
+: 1606408462:0;npm version patch
+: 1606408462:0;npm run dev
+: 1606408462:0;./test.js
+: 1606408462:0;chmod +x test.js
+: 1606408462:0;./test.js
+: 1606408462:0;node test.js
+: 1606408462:0;static .
+: 1606408462:0;serve .
+: 1606408462:0;node-serve
+: 1606408462:0;	http-server
+: 1606408462:0;static-server
+: 1606408462:0;npm -g outdated
+: 1606408462:0;npm -v
+: 1606408462:0;node -v
+: 1606408462:0;npm i node-static -g
+: 1606408462:0;static .
+: 1606408462:0;gorepo
+: 1606408462:0;cd bmx_app
+: 1606408462:0;git st
+: 1606408462:0;cd
+: 1606408462:0;l
+: 1606408462:0;more .vuerc
+: 1606408462:0;cp ~/.prettierrc /Volumes/
+: 1606408462:0;cp ~/.prettierrc /Volumes/Backup
+: 1606408462:0;cd /Volumes/Backup
+: 1606408462:0;l
+: 1606408462:0;mv .prettierrc prettierrc
+: 1606408462:0;l
+: 1606408462:0;more .zsh_history
+: 1606408462:0;cp .zsh_history /Volumes/Backup/zsh_history
+: 1606408462:0;mv ssh .ssh
+: 1606408462:0;mv zsh_history .zsh_history
+: 1606408462:0;mv prettierrc .prettierrc
+: 1606408462:0;git
+: 1606408462:0;cd repos
+: 1606408462:0;git clone git@github.com:xseignard/dotfiles.git
+: 1606408462:0;chmod 600 ~/.ssh/config
+: 1606408462:0;chown $USER ~/.ssh/config
+: 1606408462:0;git clone git@github.com:xseignard/dotfiles.git
+: 1606408462:0;chmod 600 ~/.ssh/id_rsa
+: 1606408462:0;git clone git@github.com:xseignard/dotfiles.git
+: 1606408462:0;cd dotfiles
+: 1606408462:0;ls
+: 1606408462:0;open .
+: 1606408462:0;./dotfiles.sh
+: 1606408462:0;gorepo
+: 1606408462:0;curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.1/install.sh | bash\
+
+: 1606408462:0;nvm install node
+: 1606408462:0;nvm ls-remote
+: 1606408462:0;nvm install v14.15.1
+: 1606408462:0;sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+: 1606408412:0;gore
+: 1606408420:0;gorepo
+: 1606408428:0;more .zshrc
+: 1606408445:0;rm .zshrc
+: 1606408447:0;cd repos
+: 1606408449:0;cd dotfiles
+: 1606408450:0;ls
+: 1606408459:0;./dotfiles.sh
+: 1606408471:0;gorepo
+: 1606408535:0;git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+: 1606408560:0;git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions\
+
+: 1606408577:0;gorepo
+: 1606408607:0;cd dotfiles
+: 1606408609:0;l
+: 1606408614:0;more brew.sh
+: 1606408648:0;/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+: 1606408841:0;./brew.sh
+: 1606410753:0;compinit
+: 1606410768:0;compaudit
+: 1606412203:0;brew cask install discord
+: 1606414591:0;cd Downloads/XPS9360-macOS-master/ComboJack
+: 1606414595:0;./install.sh
+: 1606416236:0;/Users/bigx/Downloads/MountEFI-update/MountEFI.command ; exit;
+: 1606416307:0;/Users/bigx/Downloads/ProperTree-master/ProperTree.command ; exit;
+: 1606420855:0;adb
+: 1606420880:0;avdmanager list device
+: 1606420971:0;brew install watchman
+: 1606421023:0;gorepo
+: 1606421030:0;npx react-native init AwesomeProject\
+
+: 1606421207:0;cd ./AwesomeProject
+: 1606422264:0;cd ios
+: 1606422277:0;pod install
+: 1606422292:0;sudo xcodebuild -license
+: 1606422341:0;pod install
+: 1606422487:0;npm start
+: 1606422493:0;npm run ios
+: 1606423156:0;npm run android
+: 1606423354:0;env | grep ANDROID
+: 1606423398:0;cd $ANDROID_HOME
+: 1606423400:0;pwd
+: 1606423402:0;ls
+: 1606424446:0;cd -
+: 1606424449:0;npm run android
+: 1606424881:0;brew cask install adoptopenjdk/openjdk/adoptopenjdk8\
+
+: 1606424941:0;npm run android
+: 1606424993:0;$ANDROID_HOME/tools/bin/sdkmanager --licenses
+: 1606425010:0;npm run android
+: 1606469295:0;gorepo
+: 1606469301:0;rm -rf AwesomeProject
+: 1606469886:0;brew cask install karabiner-elements
+: 1606483522:0;cd
+: 1606483526:0;cd .config/karabiner
+: 1606483527:0;l
+: 1606483531:0;code ?
+: 1606483533:0;code .
+: 1606486283:0;gorepo
+: 1606486287:0;git clone git@github.com:Manu-Xav/bmx_app.git
+: 1606486297:0;cd bmx_app
+: 1606486298:0;code .
+: 1606486306:0;npm i
+: 1606486325:0;more ~/.prettierrc
+: 1606486367:0;npm run dev
+: 1606486394:0;npm run lint
+: 1606486488:0;echo "test" | gpg --clearsign
+: 1606486508:0;keybase pgp export
+: 1606486558:0;keybase pgp export -q 860CF0C808C93B08 --secret | gpg --allow-secret-key-import --import
+: 1606486766:0;keybase pgp export -q F9A085ADE302C7C1 --secret | gpg --allow-secret-key-import --import
+: 1606486861:0;keybase pgp export -q 860CF0C808C93B08 --secret | gpg --allow-secret-key-import --import
+: 1606589394:0;keybase pgp export -q 860CF0C808C93B08 | gpg --allow-secret-key-import --import
+: 1606589402:0;echo "test" | gpg --clearsign
+: 1606589527:0;editDotfiles
+: 1606589581:0;echo "test" | gpg --clearsign
+: 1606589616:0;gpg --list-secret\
+
+: 1606589622:0;gpg2 --list-secret\
+
+: 1606589659:0;keybase pgp export -q 860CF0C808C93B08 | gpg --allow-secret-key-import --import
+: 1606589672:0;gpg --list-secret\
+
+: 1606589674:0;gpg2 --list-secret\
+
+: 1606589678:0;echo "test" | gpg --clearsign
+: 1606589730:0;keybase pgp export -q 860CF0C808C93B08 | gpg --import
+: 1606589738:0;echo "test" | gpg --clearsign
+: 1606589791:0;/Users/bigx/Downloads/MountEFI-update/MountEFI.command ; exit;
+: 1606589986:0;/Users/bigx/Downloads/ProperTree-master/ProperTree.command ; exit;
+: 1606590461:0;/Users/bigx/Downloads/MountEFI-update/MountEFI.command ; exit;
+: 1606590515:0;/Users/bigx/Downloads/ProperTree-master/ProperTree.command ; exit;
+: 1606590765:0;echo "test" | gpg --clearsign
+: 1606604451:0;keybase pgp export -q 860CF0C808C93B08 | gpg --import
+: 1606604470:0;keybase pgp export -q 860CF0C808C93B08 --secret | gpg --allow-secret-key-import --import
+: 1606604569:0;echo "test" | gpg --clearsign
+: 1606604611:0;git st
+: 1606835815:0;brew cask install filezilla
+: 1606838293:0;brew cask install gimp
+: 1606978877:0;curl -X GET --header 'Accept: application/json' --header 'Authorization: Bearer 368846c453f4a45acedf0c562972621d1a774a24-VTJodmQzQmhaRUZ3YVVWNGNHeHZjbVZ5LU56WTFNUT09LU16ZzNOREk9' 'https://biomerieux.showpad.biz/api/v3/exports/events.json?startedAt=2020-10-01&endedAt=2020-12-01&pageBased=true'\
+
+: 1607087894:0;gorepo
+: 1607087903:0;git clone git@github.com:xseignard/bright.git
+: 1607087908:0;cd bright
+: 1607087909:0;code .
+: 1607092610:0;pio
+: 1607092618:0;pio run
+: 1607092786:0;rm .DS_Store
+: 1607094984:0;pio run -t upload 
+: 1607447506:0;node scripts/test.js
+: 1607582029:0;git st
+: 1607582054:0;git pull origin master
+: 1607582068:0;npm version patch
+: 1607608517:0;node scripts/test.js
+: 1607944838:0;node scripts/customEvents.js
+: 1609764379:0;cat ~/.ssh/id_rsa.pub | pbcopy
+: 1609764424:0;ssh-keygen
+: 1609764473:0;eval `ssh-agent`
+: 1609764533:0;rm wizzcad wizzcad.pub
+: 1609764537:0;ssh-keygen
+: 1609764589:0;ssh-add -K ~/.ssh/wizzcad
+: 1609764616:0;more ~/.ssh/config
+: 1609764657:0;pbcopy < ~/.ssh/wizzcad.pub
+: 1609764745:0;ssh -T git@bitbucket.org
+: 1609764767:0;cd wizzcad
+: 1609764781:0;mkdir wizzcad
+: 1609764787:0;cd wizzcad
+: 1609764811:0;git clone git@bitbucket.org:CloudCorporation/wizzcad_webapp.git
+: 1609764824:0;cd wizzcad
+: 1609764827:0;git clone git@bitbucket.org:CloudCorporation/wizzcad_common_ts.git
+: 1609764831:0;cd wizzcad_webapp
+: 1609764833:0;npm i
+: 1609764850:0;git clone git@bitbucket.org:CloudCorporation/wizzcad_common_ts.git
+: 1609764949:0;cd wizzcad
+: 1609764952:0;git clone git@bitbucket.org:CloudCorporation/wizzcad_v4_serveur.git
+: 1609764984:0;cd wizzcad
+: 1609764986:0;git clone git@bitbucket.org:CloudCorporation/wizzcad_ts.git
+: 1609764996:0;l
+: 1609765026:0;git clone git@bitbucket.org:CloudCorporation/wizzcad_common_ts.git
+: 1609765189:0;cd wizzcad
+: 1609765193:0;git clone git@bitbucket.org:CloudCorporation/wizzcad_common_ts.git
+: 1609765196:0;cd wizzcad
+: 1609765210:0;git clone git@bitbucket.org:CloudCorporation/wizzcad_v4_serveur.git
+: 1609765232:0;ssh -T git@bitbucket.org
+: 1609765401:0;cat ~/.ssh/id_rsa.pub | pbcopy
+: 1609765557:0;ssh -T git@bitbucket.org
+: 1609765564:0;git clone git@bitbucket.org:CloudCorporation/wizzcad_v4_serveur.git
+: 1609765572:0;ssh -T git@bitbucket.org
+: 1609765587:0;git clone git@bitbucket.org:CloudCorporation/wizzcad_common_ts.git
+: 1609765593:0;cd wizzcad/
+: 1609765595:0;git clone git@bitbucket.org:CloudCorporation/wizzcad_common_ts.git
+: 1609765599:0;cd wizzcad
+: 1609765610:0;git clone git@bitbucket.org:CloudCorporation/wizzcad_ts.git
+: 1609765618:0;cd wizzcad_v4_serveur
+: 1609765621:0;npm i
+: 1609765635:0;more
+: 1609765637:0;l
+: 1609765650:0;git st
+: 1609765653:0;rm package-lock.json
+: 1609765655:0;git st
+: 1609765658:0;cd Wizzcad/
+: 1609765660:0;l
+: 1609765676:0;cd wizzcad_ts
+: 1609765677:0;l
+: 1609765680:0;npm i
+: 1609765688:0;cd wizzcad_common_ts
+: 1609765690:0;npm i
+: 1609765811:0;cd wizzcad_ts
+: 1609765813:0;code .
+: 1609766247:0;nvm install v12.16.2
+: 1609766276:0;node -v
+: 1609766286:0;nvm alias default v12.16.2
+: 1609766305:0;node -v
+: 1609766309:0;npm -v
+: 1609766312:0;cd wizzcad
+: 1609766318:0;cd wizzcad_ts
+: 1609766320:0;npm i
+: 1609766660:0;npm i yarn -g
+: 1609766667:0;npm i
+: 1609767015:0;code .
+: 1609767049:0;npm start
+: 1609767071:0;cd ios
+: 1609767075:0;pod install
+: 1609767462:0;..
+: 1609767469:0;npm run android
+: 1609767704:0;npm run ios 
+: 1609769589:0;sudo killall VDCAssistant
+: 1609773086:0;npm run dev
+: 1609773157:0;adb devices
+: 1609773167:0;adb reverse tcp:8081 tcp:8081
+: 1609773616:0;instruments -s devices\
+
+: 1609773713:9;npm run ios --device "iPhone de Seignard"
+: 1609773732:0;npm run ios -- --device "iPhone de Seignard"
+: 1609773752:0;npm install -g ios-deploy
+: 1609773779:0;npm run ios -- --device "iPhone de Seignard"
+: 1609773897:0;npx react-native unlink react-native-camera react-native-date-picker react-native-sqlite-storage
+: 1609773922:0;npm run ios -- --device "iPhone de Seignard"
+: 1609773953:0;cd ios
+: 1609773960:0;pod cache clean --all && pod install
+: 1609773985:0;..
+: 1609773989:0;npm run ios -- --device "iPhone de Seignard"
+: 1609774039:0;cd ios
+: 1609774043:0;pod cache clean --all && pod install
+: 1609774060:0;..
+: 1609774066:0;npm run ios -- --device "iPhone de Seignard"
+: 1609775657:0;react-native unlink react-native-date-picker
+: 1609775661:0;npx react-native unlink react-native-date-picker
+: 1609775699:0;npx react-native unlink react-native-document-picker
+: 1609775722:0;npx react-native unlink react-native-sqlite-storage
+: 1609775737:0;npm run ios -- --device "iPhone de Seignard"
+: 1609775795:0;cd android
+: 1609775801:0;cd ../ios
+: 1609775805:0;pod cache clean --all && pod install
+: 1609775899:0;..
+: 1609775907:0;npm run ios -- --device "iPhone de Seignard"
+: 1609776170:0;cd ../wizzcad_v4_serveur
+: 1609776173:0;code .
+: 1609776344:0;cd Wizzcad
+: 1609776346:0;npm i
+: 1609776955:0;sudo killall VDCAssistant
+: 1609777165:0;npm run dev
+: 1609778379:0;brew install postgresql
+: 1609778576:0;brew install --cask postman
+: 1609778697:0;psql postgres
+: 1609778713:0;brew services start postgresql
+: 1609778915:0;psql postgres
+: 1609778977:0;pg_ctl -D wizzcad start\
+
+: 1609779234:0;npm run local
+: 1609779241:0;cd Wizzcad
+: 1609779242:0;npm run local
+: 1609779579:0;cd wizzcad
+: 1609779587:0;mkdir
+: 1609779590:0;mkdir db
+: 1609779607:0;pg_ctl -D db start
+: 1609779617:0;pg_ctl -D ./db start
+: 1609779859:0;pg_ctl -D db start
+: 1609780158:0;l
+: 1609780161:0;..
+: 1609780183:0;cd wizzcad
+: 1609780186:0;cd db
+: 1609780196:0;psql postgres
+: 1609780262:0;pg_ctl -D wizzcad start\
+
+: 1609780264:0;l
+: 1609780376:0;pwd
+: 1609780400:0;l
+: 1609780407:0;..
+: 1609780409:0;l
+: 1609780421:0;cd db
+: 1609780429:0;psql postgres
+: 1609780453:0;l
+: 1609780461:0;pg_ctl -D wizzcad start\
+
+: 1609780465:0;cd
+: 1609780466:0;l
+: 1609780475:0;cd wizzcad
+: 1609780476:0;l
+: 1609781067:0;cd db
+: 1609781085:0;pg_ctl status -D .
+: 1609781091:0;..
+: 1609781095:0;pg_ctl status -D db
+: 1609781194:0;pg_lsclusters
+: 1609781260:0;psql postgres
+: 1609781274:0;l /usr/local/var/postgres
+: 1609781335:0;brew install â€ƒ³cask dbeaver-community
+: 1609781362:0;brew install --cask dbeaver-community
+: 1609781719:0;npm run local
+: 1609837095:0;pg_ctl start\
+
+: 1609837108:0;pg_ctl -D wizzcad start\
+
+: 1609837126:0;psql postgres
+: 1609844631:0;npm run local
+: 1609844636:0;cd Wizzcad
+: 1609844638:0;npm run local
+: 1609844693:0;npm run dev
+: 1609844710:0;npm run ios -- --device "iPhone de Seignard"
+: 1609844769:0;npm run ios
+: 1609844823:0;xcrun simctl list devices
+: 1609844868:0;npm run ios -- --simulator="iPad"
+: 1609844974:0;npm run loal
+: 1609844978:0;npm run local
+: 1609844982:0;cd Wizzcad
+: 1609844987:0;npm run local
+: 1609845011:0;npm run dev
+: 1609845064:0;npm run ios -- --simulator="iPad"
+: 1609845135:0;xcrun simctl list devices
+: 1609845152:0;npm run ios -- --simulator="iPad (8th generation)"
+: 1609845797:0;cd wizzcad/wizzcad_webapp
+: 1609845801:0;code .
+: 1609845816:0;npm run dev
+: 1609846777:0;git co 1.0.23
+: 1609846792:0;git pull
+: 1609846803:0;npm run dev
+: 1609846810:0;npm i
+: 1609846822:0;npm run dev
+: 1609846844:0;npm i
+: 1609846903:0;../wizzcad_common_ts
+: 1609846929:0;code .
+: 1609846956:0;npm i
+: 1609847064:0;npm run dev
+: 1609847103:55;npm run ios -- --simulator="iPad (8th generation)"
+: 1609847253:0;npm i
+: 1609847654:0;npm run dev
+: 1609851750:0;sudo killall VDCAssistant && sudo killall AppleCameraAssistant
+: 1609852410:0;/Users/bigx/Downloads/MountEFI-update/MountEFI.command ; exit;
+: 1609856787:0;/Users/bigx/Downloads/ProperTree-master/ProperTree.command ; exit;
+: 1609856974:0;cd Desktop
+: 1609856983:0;diff
+: 1609857028:0;l
+: 1609857042:0;diff config.plist config2.plist
+: 1609857128:0;diff config.plist /Volumes/EFI/EFI/OC/config.plist
+: 1609857444:0;/Users/bigx/Downloads/MountEFI-update/MountEFI.command ; exit;
+: 1609857462:0;/Users/bigx/Downloads/ProperTree-master/ProperTree.command ; exit;
+: 1609857665:0;cd Desktop
+: 1609857668:0;diff config.plist /Volumes/EFI/EFI/OC/config.plist
+: 1609861523:0;npm run dev
+: 1609861527:0;cd Wizzcad
+: 1609861531:0;npm run dev
+: 1609861613:0;npm run ios -- --device "iPhone de Seignard"
+: 1609862257:0;sudo killall VDCAssistant && sudo killall AppleCameraAssistant
+: 1609862300:0;sudo killall VDCAssistant
+: 1609862624:0;npm run ios -- --simulator="iPad (8th generation)"
+: 1609864095:0;ifconfig
+: 1609864404:0;npm run dev
+: 1609864457:0;/Users/bigx/Downloads/USBMap-master/USBMap.command ; exit;
+: 1609865751:0;/Users/bigx/Downloads/MountEFI-update/MountEFI.command ; exit;
+: 1609865910:0;/Users/bigx/Downloads/ProperTree-master/ProperTree.command ; exit;
+: 1609865963:0;diff config.plist /Volumes/EFI/EFI/OC/config.plist
+: 1609865971:0;cd Desktop
+: 1609865973:0;diff config.plist /Volumes/EFI/EFI/OC/config.plist
+: 1609866038:0;cp /Volumes/EFI/EFI/OC/config.plist .
+: 1609866041:0;diff config.plist /Volumes/EFI/EFI/OC/config.plist
+: 1609866063:0;/Users/bigx/Downloads/ProperTree-master/ProperTree.command ; exit;
+: 1609866648:0;/Users/bigx/Downloads/USBMap-master/USBMap.command ; exit;
+: 1609866938:0;/Users/bigx/Downloads/MountEFI-update/MountEFI.command ; exit;
+: 1609867149:0;editDotfiles
+: 1609867325:0;/Users/bigx/Downloads/MountEFI-update/MountEFI.command ; exit;
+: 1609867401:0;/Users/bigx/Downloads/ProperTree-master/ProperTree.command ; exit;
+: 1609867422:0;cd Desktop
+: 1609867424:0;diff config.plist /Volumes/EFI/EFI/OC/config.plist
+: 1609867612:0;/Users/bigx/Downloads/MountEFI-update/MountEFI.command ; exit;
+: 1609873973:0;/Users/bigx/Downloads/ProperTree-master/ProperTree.command ; exit;
+: 1609874050:0;cd Desktop
+: 1609874052:0;diff config.plist /Volumes/EFI/EFI/OC/config.plist
+: 1609874319:0;/Users/bigx/Downloads/USBMap-master/USBMap.command ; exit;
+: 1609874655:0;/Users/bigx/Downloads/MountEFI-update/MountEFI.command ; exit;
+: 1609875369:0;/Users/bigx/Downloads/ProperTree-master/ProperTree.command ; exit;
+: 1609875417:0;cd ~/Desktop && diff config.plist /Volumes/EFI/EFI/OC/config.plist
+: 1609875765:0;sudo killall VDCAssistant
+: 1609876049:0;/Users/bigx/Downloads/MountEFI-update/MountEFI.command ; exit;
+: 1609876112:0;/Users/bigx/Downloads/ProperTree-master/ProperTree.command ; exit;
+: 1609876133:0;cd ~/Desktop && diff config.plist /Volumes/EFI/EFI/OC/config.plist
+: 1609876847:0;/Users/bigx/Downloads/MountEFI-update/MountEFI.command ; exit;
+: 1609918480:0;Open System Preferences/Sound/Input
+: 1609919988:0;sudo pmset -a hibernatemode 0\
+
+: 1609920531:0;/Users/bigx/Downloads/MountEFI-update/MountEFI.command ; exit;
+: 1609921936:0;/Users/bigx/Downloads/USBMap-master/USBMap.command ; exit;
+: 1609922347:0;/Users/bigx/Downloads/MountEFI-update/MountEFI.command ; exit;
+: 1609923509:0;npm run dev
+: 1609923516:0;cd Wizzcad
+: 1609923519:0;npm run dev
+: 1609923558:0;npm run ios -- --simulator="iPad (8th generation)"
+: 1609926190:0;gorepo
+: 1609926212:0;hub clone git@github.com:mpvite/readymade.git
+: 1609926259:0;cd readymade
+: 1609926261:0;code .
+: 1609926534:0;npm run test
+: 1609927239:0;npm run android
+: 1609927700:0;adb reverse tcp:8089 tcp:8089
+: 1609928456:0;npm run android
+: 1609928517:0;adb devices
+: 1609928897:0;npm run android
+: 1609929068:0;adb reverse tcp:8089 tcp:8089
+: 1609931557:0;git st
+: 1609931565:0;git pull
+: 1609931588:0;git pull origin 1.0.23
+: 1609931939:0;npm run dev
+: 1609932098:0;npm i
+: 1609932445:0;npm run dev
+: 1609932726:0;npm run build
+: 1609932800:0;npm run dev
+: 1609933437:0;git pull origin 1.0.23
+: 1609933547:0;npm run dev
+: 1609933735:0;npm i
+: 1609933867:0;adb reverse tcp:8089 tcp:8089
+: 1609933904:0;npm run dev
+: 1609933973:0;git pull origin 1.0.23
+: 1609933981:0;npm i
+: 1609934001:0;npm run build
+: 1609934028:0;npm run dev
+: 1609934192:0;npm run local
+: 1609939844:0;adb reverse tcp:8089 tcp:8089
+: 1609939887:0;git co dev
+: 1609939901:0;git pull origin dev
+: 1609939934:0;npm i
+: 1609939952:0;git co dev
+: 1609939961:0;git pull origin dev
+: 1609939970:0;npm i
+: 1609939992:0;git co dev
+: 1609939999:0;git pull origin dev
+: 1609940017:0;npm i
+: 1609940047:0;npm run local
+: 1609940156:0;npm run dev
+: 1609940172:0;npm run android
+: 1609949554:0;git co 1.0.23
+: 1609949562:0;git pull origin 1.0.23
+: 1609949661:0;git co 1.0.23
+: 1609949666:0;git pull origin 1.0.23
+: 1609949681:0;git co 1.0.23
+: 1609949688:0;git pull origin 1.0.23
+: 1609949692:0;npm i
+: 1609949704:0;npm run local
+: 1609949723:0;npm run dev
+: 1609949769:0;git co -b xav/global-exception-handler
+: 1609949972:0;npm i react-native-exception-handler --save\
+\
+
+: 1609950600:0;npm install --save @react-native-firebase/app\
+
+: 1609952249:0;npm i @react-native-firebase/crashlytics --save
+: 1610009623:0;/Users/bigx/Downloads/MountEFI-update/MountEFI.command ; exit;
+: 1610009926:0;/Users/bigx/Downloads/ProperTree-master/ProperTree.command ; exit;
+: 1610011654:0;diff android/app/src/release/google-services.json android/app/src/release/google-services2.json
+: 1610011906:0;cd ios
+: 1610011911:0;pod cache clean --all && pod install
+: 1610012000:0;..
+: 1610012010:0;npm run dev
+: 1610012033:4;avdmanager list device
+: 1610012074:0;emulator -list-avds
+: 1610012102:0;emulator -avd Pixel_C_API_29
+: 1610012570:0;npm run adroid
+: 1610012577:0;npm run android
+: 1610012808:0;adb reverse tcp:8089 tcp:8089
+: 1610012840:0;npm run android
+: 1610012901:0;npm run android --help
+: 1610013022:0;adb logcat | grep wizzcad
+: 1610013203:0;adb logcat | grep firebase
+: 1610013523:0;npm run android 
+: 1610014336:0;adb logcat | grep firebase
+: 1610014389:0;adb reverse tcp:8089 tcp:8089
+: 1610014428:0;git pull origin 1.0.23
+: 1610014474:0;npm i
+: 1610014543:0;npm run local
+: 1610014549:0;cd  Wizzcad
+: 1610014560:0;npm run local
+: 1610015899:0;npm run dev
+: 1610016214:0;adb logcat | grep firebase
+: 1610016224:0;npm run android 
+: 1610016251:0;adb logcat | grep firebase
+: 1610025594:0;npm run dev
+: 1610025709:0;/Users/bigx/Downloads/MountEFI-update/MountEFI.command ; exit;
+: 1610025589:0;adb reverse tcp:8089 tcp:8089
+: 1610026146:0;npm run android 
+: 1610026728:0;adb logcat | grep firebase
+: 1610028263:0;npm run local
+: 1610028275:0;npm run dev
+: 1610028283:0;npm run android
+: 1610028462:0;adb logcat | grep firebase
+: 1610028662:0;diff android/app/src/release/google-services.json android/app/src/debug/google-services.json
+: 1610029438:0;diff android/app/src/release/google-services.json android/app/src/releaseRecette/google-services.json
+: 1610030306:0;diff android/app/src/release/google-services.json android/app/src/debug/google-services.json
+: 1610030319:0;diff android/app/src/release/google-services.json android/app/src/debug/google-services (1).json
+: 1610030328:0;diff android/app/src/release/google-services.json android/app/src/debug/google-services\ (1).json
+: 1610030666:0;npm run android
+: 1610030947:0;adb reverse tcp:8089 tcp:8089
+: 1610031147:0;emulator -avd Pixel_C_API_29
+: 1610031166:0;emulator -avd Pixel_C_API_29&
+: 1610031174:0;npm run android
+: 1610031240:0;adb logcat | grep firebase
+: 1610031253:0;adb reverse tcp:8089 tcp:8089
+: 1610031655:0;npm run android
+: 1610031725:0;adb logcat | grep firebase
+: 1610031885:0;cd android
+: 1610031891:0;./gradlew clean
+: 1610031972:0;..
+: 1610031978:0;npm run android
+: 1610032865:0;npm run android --debug
+: 1610032878:0;npm run android -- --debug
+: 1610032885:0;npm run android
+: 1610032890:0;cd android
+: 1610032894:0;./gradlew clean
+: 1610032911:0;..
+: 1610032919:0;npm run android
+: 1610032967:0;npm run dev
+: 1610032982:0;npm run android
+: 1610033221:0;adb logcat | grep firebase
+: 1610033604:0;npm run android
+: 1610033805:0;rm -rf android/build
+: 1610033809:0;cd android
+: 1610033814:0;./gradlew clean
+: 1610033835:0;npm run android
+: 1610035578:0;adb logcat | grep firebase
+: 1610036701:0;npm run android -- --appId com.wizzcad.debug
+: 1610037118:0;npm run local
+: 1610039392:0;npm run android
+: 1610039921:0;adb reverse tcp:8089 tcp:8089
+: 1610041010:0;npm run android
+: 1610041014:0;npm run dev
+: 1610041025:0;/Users/bigx/wizzcad/wizzcad_ts/node_modules/react-native/scripts/launchPackager.command ; exit;
+: 1610041031:0;adb logcat | grep firebase
+: 1610045982:0;editDotfiles
+: 1610046169:0;cp ~/.zsh_history .

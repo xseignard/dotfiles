@@ -11,7 +11,7 @@ dir=~/repos/dotfiles
 olddir=~/dotfiles_old
 
 ## list of files/folders to symlink in homedir
-files='zshrc aliases exports gitconfig bash_profile'
+files='zshrc zsh_history aliases exports gitconfig bash_profile'
 
 ######################################
 ## create dotfiles_old in homedir
