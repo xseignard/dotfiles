@@ -1,5 +1,5 @@
 #!/bin/bash
-brew cask install iterm2 \
+brew install --cask install iterm2 \
 keybase \
 slack \
 discord \
