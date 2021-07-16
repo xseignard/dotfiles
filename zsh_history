@@ -1541,3 +1541,4231 @@
 : 1610041031:0;adb logcat | grep firebase
 : 1610045982:0;editDotfiles
 : 1610046169:0;cp ~/.zsh_history .
+: 1610046180:0;mv .zsh_history zsh_history
+: 1610047021:0;more $ZSH/oh-my-zsh.sh
+: 1610047242:0;node -v
+: 1611172600:0;gorea
+: 1611172609:0;gorepo
+: 1611172616:0;git clone git@github.com:withjour/technical-challenge.git
+: 1611172623:0;cd technical-challenge
+: 1611172668:0;yarn install
+: 1611172727:0;gorea
+: 1611172730:0;gorepo
+: 1611172766:0;npx react-native init MyApp --template react-native-template-typescript\
+
+: 1611172775:0;code .
+: 1611172818:0;yarn start
+: 1611173206:0;rm -rf MyApp
+: 1611173227:0;npx react-native init testjour --template react-native-template-typescript\
+
+: 1611173286:0;../testjour/
+: 1611173289:0;code .
+: 1611174239:0;npm install --save-dev eslint-config-prettier\
+
+: 1611174332:0;npm start
+: 1611174467:0;react-native
+: 1611174567:0;npm uninstall -g react-native-cli
+: 1611174575:0;npm start
+: 1611174588:0;npm run android
+: 1611174813:0;adb devices
+: 1611174857:0;npm i -D eslint-plugin-prettier prettier eslint-plugin-simple-import-sort
+: 1611174982:0;npm i -D eslint-plugin-detox
+: 1611175311:0;adb devices
+: 1611175337:0;npm start
+: 1611175342:0;npm run android
+: 1611175650:0;npm run lint
+: 1611177017:0;commitizen init cz-conventional-changelog --save-dev --save-exact
+: 1611177022:0;node -v
+: 1611177046:0;nvm install v14.15.4
+: 1611177076:0;nvm alias default v14.15.4
+: 1611177081:0;node -v
+: 1611177110:0;npm i commitizen -g
+: 1611177137:0;commitizen init cz-conventional-changelog --save-dev --save-exact
+: 1611177172:0;npm i eslint -D
+: 1611177247:0;npm run lint
+: 1611177261:0;adb devices
+: 1611177265:0;npm start
+: 1611177324:0;npm test
+: 1611177450:0;npm i husky -D
+: 1611177481:0;git init
+: 1611177487:0;npm i husky -D
+: 1611177685:0;npm install --save-dev @commitlint/cli\
+
+: 1611177770:0;npm install --save-dev @commitlint/config-conventional\
+
+: 1611177804:0;git ci -m "first commit"
+: 1611177826:0;git cz
+: 1611178000:0;npm i commitizen -g
+: 1611178020:0;git cz
+: 1611178052:0;commitizen init cz-conventional-changelog --save-dev --save-exact
+: 1611178127:0;git cz
+: 1611178183:0;npm run lint
+: 1611178239:0;git cz
+: 1611178280:0;git st
+: 1611178312:0;git ci --ammend
+: 1611178318:0;git ci --amend
+: 1611178326:0;git st
+: 1611178403:0;git branch -m master main
+: 1611178416:0;git branch
+: 1611178802:0;npm i styled-components styled-system
+: 1611178865:0;npm i react-native-responsive-screen
+: 1611179273:0;npm i react-native-vector-icons
+: 1611179444:0;npm start
+: 1611180220:0;npm run ios -- --simulator="iPhone 6s"
+: 1611180235:0;cd ios
+: 1611180240:0;pod cache clean --all && pod install
+: 1611180266:0;..
+: 1611180271:0;npm run ios -- --simulator="iPhone 6s"
+: 1611180849:0;npm run ios -- --simulator="iPhone 8"
+: 1611181134:0;npm install @react-navigation/native
+: 1611181157:0;npm install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+: 1611181174:0;cd ios
+: 1611181179:0;pod cache clean --all && pod install
+: 1611181230:0;npm start
+: 1611182036:0;npm i @react-navigation/stack
+: 1611182060:0;npm start
+: 1611182194:0;cd io
+: 1611182198:0;cd ios
+: 1611182203:0;pod cache clean --all && pod install
+: 1611182217:0;..
+: 1611182221:0;npm run ios
+: 1611185407:0;npm start
+: 1611185856:0;npm run lint
+: 1611185971:0;npm i -D @typescript-eslint/parser @typescript-eslint/eslint-plugin
+: 1611186117:0;npm run lint
+: 1611251296:0;npm i -D @bam.tech/react-native-make
+: 1611251349:0;npm run lint
+: 1611251545:0;git cz
+: 1611251634:0;npm run lint
+: 1611251734:0;git cz
+: 1611251863:0;npm run icons
+: 1611251955:0;npm i react-native-splash-screen --save\
+\
+
+: 1611254806:0;npm run splash
+: 1611255391:0;npm install eslint-plugin-react --save-dev
+: 1611255430:0;npm install eslint-plugin-react-hooks --save-dev\
+
+: 1611255660:0;npm run lint
+: 1611255929:0;adb devices
+: 1611255933:0;npm run start
+: 1611255939:0;npm run android
+: 1611256877:0;npm install --save react-native-bootsplash
+: 1611256912:0;npm rm react-native-splash-screen\
+\
+
+: 1611257022:0;npm run start
+: 1611257026:0;npm run android
+: 1611257510:0;npm run splash
+: 1611257568:0;npm run android
+: 1611258040:0;npm run splash
+: 1611258048:0;npm run android
+: 1611258178:0;npm run icons
+: 1611258201:0;npm run android
+: 1611258907:0;npm run icons
+: 1611258914:0;npm run android
+: 1611259056:0;npm run icons
+: 1611259063:0;npm run android
+: 1611259520:0;npm run icons
+: 1611259527:0;npm run android
+: 1611259709:0;cd ios
+: 1611259714:0;podd cache clean --all && pod install
+: 1611259721:0;pod cache clean --all && pod install
+: 1611259792:0;cd ..
+: 1611259801:0;npm run ios -- --simulator="iPhone 8"
+: 1611260268:0;npm run icons
+: 1611261553:0;npm run ios -- --device "iPhone de Seignard"
+: 1611261577:0;npm install -g ios-deploy
+: 1611261595:0;npm run ios -- --device "iPhone de Seignard"
+: 1611262749:0;npm run android
+: 1611264731:0;npm run icons
+: 1611264739:0;npm run android
+: 1611265414:0;npm i react-native-svg
+: 1611265462:0;npm run android
+: 1611265627:0;npm run ios -- --device "iPhone de Seignard"
+: 1611265689:0;npm run splash
+: 1611265702:0;cd ios
+: 1611265706:0;pod install
+: 1611265745:0;..
+: 1611265758:0;npm run ios -- --device "iPhone de Seignard"
+: 1611270643:0;npm run android
+: 1611330314:0;xcrun simctl list devices
+: 1611330523:0;adb reverse tcp:8081 tcp:8081
+: 1611330530:0;adb devices
+: 1611330549:0;adb reverse tcp:8081 tcp:8081
+: 1611330587:0;npm run android
+: 1611335962:0;npm install react-native-anchor-point\
+
+: 1611336289:0;npm run start
+: 1611395825:0;npm install @react-native-community/hooks\
+
+: 1611395850:0;npm run start
+: 1611396796:0;npm rm @react-native-community/hooks\
+
+: 1611396883:0;adb devices
+: 1611396908:0;npm run android
+: 1611398896:0;npm install --save recyclerlistview\
+\
+
+: 1611399880:0;npm i swr
+: 1611402088:0;npm run start
+: 1611405351:0;npm i unfetch
+: 1611405371:0;npm run start
+: 1611425327:0;npm i @react-native-community/async-storage
+: 1611425384:0;cd ios
+: 1611425389:0;pod innstall
+: 1611425673:0;npm run start
+: 1611425680:0;.;
+: 1611425681:0;..
+: 1611425687:0;npm run ios -- --device "iPhone de Seignard"
+: 1611425704:0;cd ios
+: 1611425709:0;pod install
+: 1611425955:0;..
+: 1611425959:0;npm run ios -- --device "iPhone de Seignard"
+: 1611426042:0;npm run start
+: 1611426122:0;npm run start -- --reset-cache
+: 1611426167:0;npm i @react-native-community/async-storage
+: 1611426200:0;npm run start -- --reset-cache
+: 1611426328:0;npm i @react-native-async-storage/async-storage
+: 1611426354:0;npm rm @react-native-community/async-storage
+: 1611426367:0;cd ios
+: 1611426372:0;pod cache clean --all && pod install
+: 1611426389:0;..
+: 1611426394:0;npm run ios -- --device "iPhone de Seignard"
+: 1611427244:0;npm install @welldone-software/why-did-you-render --save\
+
+: 1611428510:0;npm run start -- --reset-cache
+: 1611430827:0;npm i date-fns
+: 1611480462:0;npm run typecheck
+: 1611491593:0;node test.js
+: 1611503771:0;npm i --save-dev @types/styled-system
+: 1611503844:0;npm install --save @types/react-native-vector-icons\
+\
+
+: 1611504352:0;npm run typecheck
+: 1611504565:0;npm install --save @types/styled-components\
+\
+
+: 1611504738:0;npm install --save @types/styled-components-react-native\
+\
+
+: 1611505013:0;npm rm @types/styled-components\
+\
+
+: 1611505033:0;npm install --save @types/styled-components-react-native -D\
+\
+
+: 1611505148:0;npm run typecheck -- src
+: 1611505157:0;npm run typecheck -- src/**
+: 1611505178:0;npm run typecheck -- src/**/*
+: 1611505254:0;npm run typecheck
+: 1611506088:0;npm start
+: 1611506103:0;npm run ios -- --device "iPhone de Seignard"
+: 1611506381:0;npm start
+: 1611520965:0;npm run typecheck
+: 1611524441:0;git cz
+: 1611525713:0;hub create -p
+: 1611525850:0;git remote -v
+: 1611525916:0;git remote add origin git@github.com:xseignard/testjour.git
+: 1611525932:0;git push origin main
+: 1611526909:0;git cz
+: 1611526951:0;git push
+: 1611527442:0;git co -b xav/error-boundary
+: 1611528717:0;git co main
+: 1611528721:0;git st
+: 1611528736:0;rm src/components/ErrorBoundary.tsx
+: 1611528740:0;git st
+: 1611528754:0;git co -b xav/error-handler
+: 1611528783:0;npm i react-native-exception-handler react-native-restart
+: 1611529388:0;npm rm react-native-restart
+: 1611529703:0;npm run typecheck
+: 1611529802:0;git cz
+: 1611529864:0;git push
+: 1611529875:0;git co main
+: 1611565314:0;git co xav/readme-updates
+: 1611565324:0;git co -b xav/readme-updates
+: 1611565473:0;git cz
+: 1611565515:0;git push
+: 1611642043:0;npm run adroid
+: 1611642050:0;npm run android
+: 1611642057:0;npm start
+: 1611686890:0;cd Downloads/MountEFI-update
+: 1611686895:0;l
+: 1611686901:0;./MountEFI.command
+: 1611687044:0;/Users/bigx/Downloads/OCConfigCompare-master/OCConfigCompare.command ; exit;
+: 1611687742:0;/Users/bigx/Downloads/ProperTree-master/ProperTree.command ; exit;
+: 1611687788:0;/Users/bigx/Downloads/ProperTree-master 
+: 1611687792:0;./ProperTree.command
+: 1611687847:0;/Users/bigx/Downloads/ProperTree-master/ProperTree.command ; exit;
+: 1611687953:0;python -v
+: 1611687970:0;l
+: 1611687973:0;ls
+: 1611687975:0;ll
+: 1611687978:0;..
+: 1611687982:0;cd ProperTree-master
+: 1611687983:0;ls
+: 1611687987:0;cd Scripts
+: 1611687987:0;ls
+: 1611688054:0;python3 run.py
+: 1611688063:0;..
+: 1611688182:0;cd ProperTree-master
+: 1611688190:0;python3 ProperTree.command
+: 1611688996:0;/Users/bigx/Downloads/MountEFI-update/MountEFI.command ; exit;
+: 1611762588:0;npm run typecheck
+: 1611768839:0;/Users/bigx/Downloads/MountEFI-update/MountEFI.command ; exit;
+: 1611854684:0;/Users/bigx/Downloads/OCConfigCompare-master/OCConfigCompare.command ; exit;
+: 1612340075:0;gorepo
+: 1612340095:0;git clone git@gitlab.com:collectif-pow/pow-led.git
+: 1612340101:0;cd pow-led
+: 1612340131:0;git remote rm origin
+: 1612340135:0;git remote add origin git@github.com:collectif-pow/pow-led.git
+: 1612340138:0;git push
+: 1612340265:0;code .
+: 1612342927:0;pio run
+: 1612343216:0;git st
+: 1612343276:0;cd .git
+: 1612343278:0;l
+: 1612343291:0;more config
+: 1612343453:0;code .
+: 1612343609:0;git submodule deinit -f ./libs/ArtNode
+: 1612343616:0;git submodule deinit -f ./libs/Ethernet
+: 1612343625:0;git submodule deinit -f ./lib/ArtNode
+: 1612343631:0;git submodule deinit -f ./lib/Ethernet
+: 1612343648:0;git submodule deinit -f ./lib/OctoWS2811
+: 1612343658:0;git submodule deinit -f ./lib/TeensyMAC
+: 1612343745:0;git push
+: 1612343814:0;pio run
+: 1612344071:0;platformio
+: 1612344307:0;pio
+: 1612424681:0;pio run -t upload 
+: 1612424705:0;pio device monitor
+: 1612424719:0;pio
+: 1612424726:0;pio upgrade
+: 1612424738:0;pio device monitor
+: 1612425058:0;codesign --remove-signature /Applications/Visual\ Studio\ Code.app/Contents/Frameworks/Code\ Helper\ \(Renderer\).app
+: 1612425102:0;pio device monitor
+: 1612425282:0;pio run -t upload 
+: 1612425298:0;pio device monitor
+: 1612425893:0;pio run -t upload 
+: 1612425900:0;pio device monitor
+: 1612425923:0;pio run -t upload 
+: 1612425929:0;pio device monitor
+: 1612425983:0;pio run -t upload 
+: 1612425994:0;pio device monitor
+: 1612426750:0;pio run -t upload 
+: 1612426763:0;pio device monitor
+: 1612427042:0;pio run -t upload 
+: 1612427057:0;pio device monitor
+: 1612427103:0;pio run -t upload 
+: 1612427108:0;pio device monitor
+: 1612427134:0;pio run -t upload 
+: 1612427138:0;pio device monitor
+: 1612429172:0;pio run -t upload 
+: 1612866203:0;gorepo
+: 1612866220:0;git clone git@github.com:xseignard/wss.git
+: 1612866226:0;cd wss
+: 1612866230:0;code .
+: 1612866317:0;git st
+: 1612866320:0;npm run build
+: 1612866330:0;npm i
+: 1612866746:0;npm run build
+: 1612972056:0;gorepo
+: 1612972073:0;mkdir bandit-manchot
+: 1612972077:0;cd bandit-manchot
+: 1612972082:0;pio init
+: 1612972088:0;code .
+: 1612972481:0;pio run
+: 1612972567:0;pio run -t upload 
+: 1612972725:0;pio run
+: 1612974034:0;pio run -t upload 
+: 1612975243:0;pio device monitor
+: 1612975287:0;pio run -t upload 
+: 1612975306:0;pio device monitor
+: 1612975922:0;pio run -t upload 
+: 1612975959:0;pio device monitor
+: 1612976241:0;pio run -t upload 
+: 1612976337:0;pio device monitor
+: 1612976407:0;pio run -t upload 
+: 1612976493:0;pio device monitor
+: 1612976514:0;pio run -t upload 
+: 1612976544:0;pio device monitor
+: 1612976559:0;pio run -t upload 
+: 1612976588:0;pio device monitor
+: 1612976629:0;pio run -t upload 
+: 1613037768:0;pio run
+: 1613038701:0;pio run -t upload 
+: 1613044820:0;pio device monitor
+: 1613044876:0;pio run -t upload 
+: 1613044931:0;pio device monitor
+: 1613044986:0;pio run -t upload 
+: 1613045800:0;pio device monitor
+: 1613045814:0;pio run -t upload 
+: 1613049545:0;sudo pip install pillow
+: 1613049556:0;pip install pillow
+: 1613049570:0;python -v
+: 1613049589:0;pip3 install pillow
+: 1613049607:0;cd lib/FabGL-1.0.2/tools
+: 1613049622:0;cd img2bitmap
+: 1613049726:0;python3 img2bitmap.py /Users/bigx/Downloads/Distrib150px.png > test.c
+: 1613049756:0;python img2bitmap.py /Users/bigx/Downloads/Distrib150px.png > test.c
+: 1613049763:0;pip
+: 1613049797:0;curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py\
+
+: 1613049805:0;python get-pip.py\
+
+: 1613049844:0;rm get-pip.py
+: 1613049871:0;wget https://bootstrap.pypa.io/2.7/get-pip.py
+: 1613049892:0;curl https://bootstrap.pypa.io/2.7/get-pip.py -o get-pip.py
+: 1613049897:0;python get-pip.py\
+
+: 1613049910:0;rm get-pip.py
+: 1613049915:0;python img2bitmap.py /Users/bigx/Downloads/Distrib150px.png > test.c
+: 1613049924:0;pip install pillow
+: 1613049929:0;pip
+: 1613050003:0;curl https://bootstrap.pypa.io/2.7/get-pip.py -o get-pip.py
+: 1613050011:0;sudo python get-pip.py\
+
+: 1613050027:0;pip
+: 1613050036:0;pip install pillow
+: 1613050046:0;python img2bitmap.py /Users/bigx/Downloads/Distrib150px.png > test.c
+: 1613051153:0;gorepo
+: 1613051156:0;cd bandit-manchot
+: 1613051160:0;pio run -t upload 
+: 1613051204:0;pio device monitor
+: 1613051227:0;cd lib/FabGL-1.0.2/tools/img2bitmap
+: 1613051243:0;cd -
+: 1613051295:0;python lib/FabGL-1.0.2/tools/img2bitmap/img2bitmap.py /Users/bigx/Downloads/Distrib150px.png -s 64 64 > test.c
+: 1613051326:0;pio run -t upload 
+: 1613051632:0;pio device monitor
+: 1613051704:0;pio run -t upload 
+: 1613051839:0;pio device monitor
+: 1613051872:0;pio run -t upload 
+: 1613054054:0;pio device monitor
+: 1613054102:0;pio device monitor -b 115200
+: 1613054241:0;pio run -t upload 
+: 1613054250:0;pio device monitor -b 115200
+: 1613054274:0;pio run -t upload 
+: 1613054523:0;pio device monitor -b 115200
+: 1613054911:0;pio run -t upload 
+: 1613054922:0;pio device monitor -b 115200
+: 1613055117:0;pio run -t upload 
+: 1613055128:0;pio device monitor -b 115200
+: 1613055214:0;pio run -t upload 
+: 1613055224:0;pio device monitor -b 115200
+: 1613055268:0;pio run -t upload 
+: 1613055279:0;pio device monitor -b 115200
+: 1613055304:0;pio run -t upload 
+: 1613055317:0;pio device monitor -b 115200
+: 1613055682:0;pio run -t upload 
+: 1613055692:0;pio device monitor -b 115200
+: 1613055901:0;pio run -t upload 
+: 1613055911:0;pio device monitor -b 115200
+: 1613056370:0;pio run -t upload 
+: 1613056382:0;pio device monitor -b 115200
+: 1613056428:0;pio run -t upload 
+: 1613056442:0;pio device monitor -b 115200
+: 1613056619:0;pio run -t upload 
+: 1613056630:0;pio device monitor -b 115200
+: 1613057020:0;pio run -t upload 
+: 1613057031:0;pio device monitor -b 115200
+: 1613058209:0;pio run -t upload 
+: 1613058227:0;pio device monitor -b 115200
+: 1613058308:0;pio run -t upload 
+: 1613058361:0;pio device monitor -b 115200
+: 1613058682:0;pio run -t upload 
+: 1613058693:0;pio device monitor -b 115200
+: 1613059482:0;pio run -t upload 
+: 1613059497:0;pio device monitor -b 115200
+: 1613059528:0;pio run -t upload 
+: 1613059554:0;pio device monitor -b 115200
+: 1613060481:0;pio run -t upload 
+: 1613060492:0;pio device monitor -b 115200
+: 1613060519:0;pio run -t upload 
+: 1613060530:0;pio device monitor -b 115200
+: 1613060723:0;pio run -t upload 
+: 1613060754:0;pio device monitor -b 115200
+: 1613060852:0;pio run -t upload 
+: 1613060863:0;pio device monitor -b 115200
+: 1613061311:0;pio run -t upload 
+: 1613061320:0;pio device monitor -b 115200
+: 1613061333:0;pio run -t upload 
+: 1613061342:0;pio device monitor -b 115200
+: 1613061385:0;pio run -t upload 
+: 1613061395:0;pio device monitor -b 115200
+: 1613062566:0;pio run -t upload 
+: 1613062585:0;pio device monitor -b 115200
+: 1613062646:0;pio run -t upload 
+: 1613063069:0;pio device monitor -b 115200
+: 1613063142:0;pio run -t upload 
+: 1613063156:0;pio device monitor -b 115200
+: 1613065010:0;pio run -t upload 
+: 1613065039:0;pio device monitor -b 115200
+: 1613065100:0;pio run -t upload 
+: 1613065122:0;pio device monitor -b 115200
+: 1613065181:0;pio run -t upload 
+: 1613065192:0;pio device monitor -b 115200
+: 1613065212:0;pio run -t upload 
+: 1613065226:0;pio device monitor -b 115200
+: 1613065305:0;pio run -t upload 
+: 1613065315:0;pio device monitor -b 115200
+: 1613065500:0;pio run -t upload 
+: 1613065510:0;pio device monitor -b 115200
+: 1613065626:0;pio run -t upload 
+: 1613065637:0;pio device monitor -b 115200
+: 1613066122:0;pio run -t upload 
+: 1613066134:0;pio device monitor -b 115200
+: 1613066169:0;pio run -t upload 
+: 1613066317:0;pio device monitor -b 115200
+: 1613066442:0;pio run -t upload 
+: 1613066452:0;pio device monitor -b 115200
+: 1613066471:0;pio run -t upload 
+: 1613066481:0;pio device monitor -b 115200
+: 1613066575:0;pio run -t upload 
+: 1613066585:0;pio device monitor -b 115200
+: 1613066828:0;pio run -t upload 
+: 1613066839:0;pio device monitor -b 115200
+: 1613066886:0;pio run -t upload 
+: 1613066897:0;pio device monitor -b 115200
+: 1613124144:0;pio run -t upload 
+: 1613124163:0;pio device monitor -b 115200
+: 1613125554:0;pio run -t upload 
+: 1613126267:0;pio device monitor -b 115200
+: 1613126978:0;pio run -t upload 
+: 1613126989:0;pio device monitor -b 115200
+: 1613127062:0;pio run -t upload 
+: 1613127074:0;pio device monitor -b 115200
+: 1613129658:0;pio run -t upload 
+: 1613129673:0;pio device monitor -b 115200
+: 1613131385:0;pio run -t upload 
+: 1613131425:0;pio device monitor -b 115200
+: 1613131564:0;pio run -t upload 
+: 1613131575:0;pio device monitor -b 115200
+: 1613131626:0;pio run -t upload 
+: 1613131637:0;pio device monitor -b 115200
+: 1613131733:0;pio run -t upload 
+: 1613131744:0;pio device monitor -b 115200
+: 1613131958:0;pio run -t upload 
+: 1613131981:0;pio device monitor -b 115200
+: 1613131997:0;pio run -t upload 
+: 1613132016:0;pio device monitor -b 115200
+: 1613132157:0;pio run -t upload 
+: 1613132181:0;pio device monitor -b 115200
+: 1613132466:0;pio run -t upload 
+: 1613132492:0;pio device monitor -b 115200
+: 1613132573:0;pio run -t upload 
+: 1613132598:0;pio device monitor -b 115200
+: 1613132638:0;pio run -t upload 
+: 1613132662:0;pio device monitor -b 115200
+: 1613132794:0;pio run -t upload 
+: 1613132819:0;pio device monitor -b 115200
+: 1613133053:0;pio run -t upload 
+: 1613133078:0;pio device monitor -b 115200
+: 1613133108:0;pio run -t upload 
+: 1613133134:0;pio device monitor -b 115200
+: 1613133540:0;pio run -t upload 
+: 1613133764:0;pio device monitor -b 115200
+: 1613134482:0;pio run -t upload 
+: 1613134534:0;pio device monitor -b 115200
+: 1613134712:0;pio run -t upload 
+: 1613134747:0;pio device monitor -b 115200
+: 1613134891:0;pio run -t upload 
+: 1613134957:0;pio device monitor -b 115200
+: 1613135138:0;pio run -t upload 
+: 1613135163:0;pio device monitor -b 115200
+: 1613137590:0;pio run -t upload 
+: 1613137654:0;pio device monitor -b 115200
+: 1613137697:0;pio run -t upload 
+: 1613137812:0;pio device monitor -b 115200
+: 1613137890:0;pio run -t upload 
+: 1613137900:0;pio device monitor -b 115200
+: 1613137943:0;pio run -t upload 
+: 1613137953:0;pio device monitor -b 115200
+: 1613138462:0;pio run -t upload 
+: 1613138474:0;pio device monitor -b 115200
+: 1613138532:0;pio run -t upload 
+: 1613138564:0;pio device monitor -b 115200
+: 1613138626:0;pio run -t upload 
+: 1613138636:0;pio device monitor -b 115200
+: 1613138809:0;pio run -t upload 
+: 1613138829:0;pio device monitor -b 115200
+: 1613138864:0;pio run -t upload 
+: 1613138889:0;pio device monitor -b 115200
+: 1613138924:0;pio run -t upload 
+: 1613138969:0;pio device monitor -b 115200
+: 1613138988:0;pio run -t upload 
+: 1613139007:0;pio device monitor -b 115200
+: 1613139691:0;pio run -t upload 
+: 1613139787:0;pio device monitor -b 115200
+: 1613139803:0;pio run -t upload 
+: 1613139824:0;pio device monitor -b 115200
+: 1613139845:0;pio run -t upload 
+: 1613139865:0;pio device monitor -b 115200
+: 1613140158:0;pio run -t upload 
+: 1613140191:0;pio device monitor -b 115200
+: 1613140206:0;pio run -t upload 
+: 1613140231:0;pio device monitor -b 115200
+: 1613140774:0;pio run -t upload 
+: 1613140800:0;pio device monitor -b 115200
+: 1613140973:0;pio run -t upload 
+: 1613141009:0;pio device monitor -b 115200
+: 1613141157:0;pio run -t upload 
+: 1613141369:0;pio device monitor -b 115200
+: 1613141859:0;pio run -t upload 
+: 1613141892:0;pio device monitor -b 115200
+: 1613141960:0;pio run -t upload 
+: 1613141986:0;pio device monitor -b 115200
+: 1613142962:0;pio run -t upload 
+: 1613142992:0;pio device monitor -b 115200
+: 1613143046:0;pio run -t upload 
+: 1613143072:0;pio device monitor -b 115200
+: 1613144187:0;pio run -t upload 
+: 1613144291:0;pio device monitor -b 115200
+: 1613144326:0;pio run -t upload 
+: 1613144356:0;pio device monitor -b 115200
+: 1613144400:0;pio run -t upload 
+: 1613144430:0;pio device monitor -b 115200
+: 1613144622:0;pio run -t upload 
+: 1613144662:0;pio device monitor -b 115200
+: 1613144673:0;pio run -t upload 
+: 1613146349:0;pio device monitor -b 115200
+: 1613146459:0;pio run -t upload 
+: 1613146493:0;pio device monitor -b 115200
+: 1613146983:0;pio run -t upload 
+: 1613147034:0;pio device monitor -b 115200
+: 1613147293:0;pio run -t upload 
+: 1613153230:0;pio device monitor -b 115200
+: 1613153282:0;pio run -t upload 
+: 1613153358:0;pio device monitor -b 115200
+: 1613153397:0;pio run -t upload 
+: 1613153523:0;pio device monitor -b 115200
+: 1613483183:0;pio run -t upload 
+: 1613483887:0;pio run -t upload -e ttgo
+: 1613484541:0;pio device monitor -b 115200
+: 1613484914:0;pio run -t upload -e ttgo
+: 1613486671:0;pio device monitor -b 115200
+: 1613486673:0;pio run -t upload -e ttgo
+: 1613554943:0;take jour
+: 1613554946:0;pwd
+: 1613555938:0;brew install redis postgresql
+: 1613555998:0;cd jour
+: 1613556000:0;git clone git@github.com:withjour/jour-server.git
+: 1613556015:0;brew upgrade postgresql
+: 1613556077:0;cd jour-server
+: 1613556081:0;yarn
+: 1613556102:0;brew services start redis
+: 1613556108:0;brew services start postgresql
+: 1613556133:0;brew services restart postgresql
+: 1613556144:0;brew install tableplus yarn
+: 1613556172:0;cd jour
+: 1613556174:0;git clone git@github.com:withjour/jour-app.git
+: 1613556278:0;yarn
+: 1613556489:0;yarn db:up
+: 1613556509:0;yarn db:generate-client
+: 1613556520:0;yarn dev
+: 1613556550:0;cd jour-server
+: 1613556553:0;code .
+: 1613556968:0;cd jour-app
+: 1613557049:0;yarn
+: 1613557142:0;cd ios
+: 1613557146:0;pod install
+: 1613557217:0;gem update cocoapods
+: 1613557235:0;gem install cocoapods
+: 1613557251:0;sudo gem install cocoapods
+: 1613557350:0;pod install
+: 1613557449:0;pod cache clean --all && pod install
+: 1613557522:0;code .
+: 1613557534:0;code .;
+: 1613557542:0;code ..
+: 1613557832:0;sudo gem uninstall cocoapods\
+
+: 1613557870:0;sudo gem list cocoapods
+: 1613557902:0;sudo gem install cocoapods -v 1.10.0\
+
+: 1613557983:0;brew uninstall cocoapods
+: 1613558050:0;sudo gem install cocoapods
+: 1613558070:0;pod install
+: 1613558123:0;pod install --repo-update
+: 1613558745:0;yarn start
+: 1613558782:0;yarn build
+: 1613560265:0;yarn build --scheme 'Jour Local'
+: 1613560303:0;brew install frpc
+: 1613560339:0;code /usr/local/etc/frp/frpc.ini
+: 1613560408:0;brew services start frpc
+: 1613560429:0;curl -I https://xavier.frp.jour.work/health/ping
+: 1613560969:0;yarn db:up
+: 1613561087:0;psql postgres
+: 1613561202:0;yarn db:up
+: 1613561501:0;yarn start
+: 1613561508:0;yarn build --scheme 'Jour Local'
+: 1613561712:0;curl -I https://xavier.frp.jour.work/health/ping
+: 1613561734:0;brew services status frpc
+: 1613561755:0;brew services restart frpc
+: 1613561769:0;curl -I https://xavier.frp.jour.work/health/ping
+: 1613561794:0;code /usr/local/etc/frp/frpc.ini
+: 1613561987:0;brew services start frpc
+: 1613561999:0;clear
+: 1613562001:0;brew services start frpc
+: 1613562011:0;clear
+: 1613562020:0;more /usr/local/etc/frp/frpc.ini
+: 1613562024:0;brew services start frpc
+: 1613562034:0;curl -I https://xavier.frp.jour.work/health/ping
+: 1613562073:0;yarn dev
+: 1613562092:0;curl -I https://xavier.frp.jour.work/health/ping
+: 1613568861:0;brew install --cask flipper
+: 1613569072:0;yarn build --scheme 'Jour Local'
+: 1613569657:0;git pull
+: 1613569663:0;yarn
+: 1613569683:0;cd ios
+: 1613569689:0;pod install
+: 1613569724:0;..
+: 1613569727:0;yarn build --scheme 'Jour Local'
+: 1613571744:0;git pull
+: 1613571750:0;git co -b xavier/dev-513-update-copy-on-final-breakthrough-screen
+: 1613573047:0;..
+: 1613573053:0;git clone https://github.com/withjour/jour-admin/
+: 1613573093:0;cd jour-admin
+: 1613573097:0;yarn
+: 1613573108:0;..
+: 1613573113:0;cd jour-admin
+: 1613573114:0;code .
+: 1613573151:0;yarn start
+: 1613573172:0;yarn dev
+: 1613576070:0;git push
+: 1613576296:0;npm un test
+: 1613576305:0;yarn test
+: 1613576385:0;git co master
+: 1613576457:0;git co -b xavier/dev-460-new-splash-screen
+: 1613583157:0;yarn build --scheme 'Jour Local'
+: 1613584743:0;git stash
+: 1613584750:0;yarn build --scheme 'Jour Local'
+: 1613585028:0;git stash apply
+: 1613585033:0;yarn build --scheme 'Jour Local'
+: 1613638022:0;brew install --cask imageoptim
+: 1613638816:0;yarn build --scheme 'Jour Local'
+: 1613639628:0;git push
+: 1613640038:0;git co master
+: 1613640042:0;git pull
+: 1613640100:0;yarn install
+: 1613640141:0;git co -b xavier/dev-513-update-copy-on-final-breakthrough-screen
+: 1613640166:0;git co -b xavier/dev-489-journal-typo-repeated-intro-screens
+: 1613640284:0;yarn build --scheme 'Jour Local'
+: 1613640350:0;cd ios
+: 1613640352:0;pod install
+: 1613640393:0;..
+: 1613640396:0;yarn build --scheme 'Jour Local'
+: 1613641247:0;git push
+: 1613641326:0;git co master
+: 1613641329:0;git pull
+: 1613641338:0;git co -b xavier/dev-463-new-touch-face-id-ui
+: 1613645168:0;yarn 
+: 1613645173:0;yarn start
+: 1613645975:0;git push
+: 1613646311:0;git co master
+: 1613646314:0;git pull
+: 1613646347:0;git co -b xavier/dev-54-entries-tab-empty-state
+: 1613654176:0;git stash
+: 1613654190:0;git co xavier/dev-463-new-touch-face-id-ui
+: 1613655408:0;git push
+: 1613655658:0;git co xavier/dev-54-entries-tab-empty-state
+: 1613655688:0;git stash apply
+: 1613657487:0;git st
+: 1613657490:0;git push
+: 1613658688:0;git co master
+: 1613658695:0;git pull origin master
+: 1613658723:0;yarn
+: 1613658747:0;yarn start
+: 1613659396:0;git stash
+: 1613659407:0;git co -b xavier/dev-70-title-overflow-on-reflect
+: 1613659412:0;git stash apply
+: 1613660018:0;giti stash
+: 1613660021:0;git stash
+: 1613660024:0;git co master
+: 1613660030:0;git co -b xavier/dev-556-typo-in-calm-a-busy-mind-journey
+: 1613660068:0;git push
+: 1613662137:0;git co master
+: 1613662163:0;git co xavier/dev-70-title-overflow-on-reflect
+: 1613663250:0;git co master
+: 1613663255:0;git pull
+: 1613663264:0;git co -b xavier/dev-75-adding-predictive-answers-to-some
+: 1613664967:0;git push
+: 1613672040:0;git co master
+: 1613672042:0;git pul
+: 1613672044:0;git pull
+: 1613723174:0;git co -b xavier/dev-469-updating-copy-on-1st-breakthrough-screen
+: 1613724520:0;git pull
+: 1613724527:0;git co -b xavier/dev-469-updating-copy-on-1st-breakthrough-screen
+: 1613725118:0;git push
+: 1613727836:0;git co master
+: 1613727840:0;git pull
+: 1613727859:0;git co -b xavier/dev-495-home-tab-turn-your-selection-into-card
+: 1613729346:0;git co master ter
+: 1613729348:0;git co master
+: 1613729352:0;git pull
+: 1613729379:0;git co -b xavier/dev-448-insights-tab-todays-quote
+: 1613729591:0;xcrun simctl help status_bar
+: 1613731680:0;yarn start
+: 1613738908:0;git st
+: 1613738911:0;git push
+: 1613745188:0;git co xavier/dev-495-home-tab-turn-your-selection-into-card
+: 1613745414:0;yarn build --scheme 'Jour Local'
+: 1613745472:0;cd ios
+: 1613745475:0;pod install
+: 1613745539:0;..
+: 1613745542:0;pod install
+: 1613745546:0;cd ios
+: 1613745548:0;pod install
+: 1613745575:0;..
+: 1613745580:0;yarn build --scheme 'Jour Local'
+: 1613919403:0;yarn start
+: 1613919406:0;yarn build --scheme 'Jour Local'
+: 1613919505:0;yarn dev
+: 1613815611:0;pio run -t upload -e ttgo
+: 1613838024:0;gorepo
+: 1613838113:0;git clone git clone git@bitbucket.org:manu_lechat/id4car.git
+: 1613838121:0;git clone git@bitbucket.org:manu_lechat/id4car.git
+: 1613838196:0;pbcopy < ~/.ssh/id_rsa.pub
+: 1613838357:0;git clone git@bitbucket.org:manu_lechat/id4car.git
+: 1613838397:0;cd id4car
+: 1613838399:0;npm i
+: 1613838447:0;gorepo
+: 1613838448:0;cd id4car
+: 1613838450:0;code .
+: 1613838475:0;npm run serve
+: 1613922583:0;npm i dexie
+: 1613923853:0;vue add pwa
+: 1613924062:0;npm i register-service-worker
+: 1613924153:0;vue add pwa
+: 1613924173:0;npm install -g @vue/cli\
+
+: 1613924448:0;vue add pwa
+: 1613924938:0;git st
+: 1613924943:0;npm run build
+: 1613925601:0;git push
+: 1613981185:0;yarn build --scheme 'Jour Local'
+: 1613981379:0;git stash
+: 1613981385:0;git co master
+: 1613981404:0;git co xavier/dev-448-insights-tab-todays-quote
+: 1613981962:0;git push
+: 1613982268:0;git co xavier/dev-495-home-tab-turn-your-selection-into-card
+: 1613982275:0;git stash apply
+: 1613998080:0;git push
+: 1614000210:0;git stash
+: 1614000223:0;git co master
+: 1614000226:0;git pull
+: 1614000240:0;yarn
+: 1614000312:0;cd ios && pod install && cd -
+: 1614000550:0;yarn start
+: 1614000553:0;yarn build --scheme 'Jour Local'
+: 1614000774:0;git co -b xavier/dev-542-replace-educational-gif-by-lottie
+: 1614001113:0;yarn add lottie-react-native\
+
+: 1614001137:0;yarn add lottie-ios@3.1.8\
+
+: 1614001167:0;cd ios && pod install && cd -
+: 1614001427:0;yarn build --scheme 'Jour Local'
+: 1614006223:0;yarn add lottie-ios@3.1.9\
+
+: 1614006251:0;cd ios
+: 1614006268:0;pod install
+: 1614006312:0;..
+: 1614006316:0;yarn build --scheme 'Jour Local'
+: 1614010159:0;git st
+: 1614010165:0;git push
+: 1614010764:0;git st
+: 1614010767:0;git co master
+: 1614010783:0;git co xavier/dev-448-insights-tab-todays-quote
+: 1614011668:0;git push
+: 1614069112:0;yarn start
+: 1614070806:0;git co master
+: 1614070809:0;git pull
+: 1614070817:0;yarn
+: 1614070850:0;yarn dev
+: 1614070865:0;cd ios && pod install && cd -
+: 1614071172:0;yarn build --scheme 'Jour Local'
+: 1614072164:0;git co -b xavier/dev-540-jour-stickers
+: 1614085731:0;yarn build --scheme 'Jour Local' --simulator 'iPad'
+: 1614085823:0;yarn build --scheme 'Jour Local'
+: 1614086236:0;yarn react-native run-ios --device "iPhone de Seignard"
+: 1614086279:0;yarn react-native run-ios --device 'iPhone de Seignard' --scheme 'Jour Local'
+: 1614094646:0;cd jour/jour-server
+: 1614094651:0;yarn dev
+: 1614094695:0;yarn start
+: 1614094703:0;yarn build --scheme 'Jour Local'
+: 1614149899:0;yarn build:tablet --scheme 'Jour Local'
+: 1614151318:0;yarn build --scheme 'Jour Local'
+: 1614160684:0;git push
+: 1614160865:0;git st
+: 1614161173:0;git co xavier/dev-495-home-tab-turn-your-selection-into-card
+: 1614161191:0;yarn
+: 1614161245:0;yarn start
+: 1614161329:0;yarn build --scheme 'Jour Local'
+: 1614161450:0;cd ios && pod install && cd -
+: 1614161481:0;yarn build --scheme 'Jour Local'
+: 1614161680:0;yarn start
+: 1614161777:0;yarn start --reset-cache
+: 1614162158:0;git st
+: 1614162161:0;git push
+: 1614162327:0;git co master ter
+: 1614162331:0;git co master
+: 1614163141:0;git co xavier/dev-540-jour-stickers
+: 1614163153:0;yarn build --scheme 'Jour Local'
+: 1614163166:0;cd ios && pod install && cd -
+: 1614163189:0;yarn build --scheme 'Jour Local'
+: 1614163363:0;yarn
+: 1614163420:0;cd ios && pod install && cd -
+: 1614163470:0;yarn build --scheme 'Jour Local'
+: 1614172013:0;git push
+: 1614172844:0;yarn build:tablet --scheme 'Jour Local'
+: 1614176074:0;git push
+: 1614176230:0;git stash thrive
+: 1614176251:0;git stash -m thrive
+: 1614176302:0;git stash push -m thrive
+: 1614176314:0;git co master
+: 1614176316:0;git pull
+: 1614176605:0;git co xavier/dev-540-jour-stickers
+: 1614176643:0;yarn build --scheme 'Jour Local'
+: 1614177260:0;yarn build:tablet --scheme 'Jour Local'
+: 1614177823:0;git push
+: 1614177988:0;git co master
+: 1614178043:0;yarn build --scheme 'Jour Local'
+: 1614178507:0;git co -b xavier/dev-148-weird-layout-on-encryption-key-submit
+: 1614179004:0;cd ios
+: 1614179016:0;bundle install
+: 1614179040:0;bundle update --bundler
+: 1614179053:0;gem install bundler:2.0.2
+: 1614179059:0;sudo gem install bundler:2.0.2
+: 1614179069:0;fastlane match
+: 1614179072:0;cd fastlane
+: 1614179074:0;fastlane match
+: 1614179079:0;..
+: 1614179090:0;sudo gem install bundler:2.0.2
+: 1614189273:0;git stash
+: 1614235200:0;yarn start
+: 1614236863:0;git stash
+: 1614236868:0;git co master
+: 1614236894:0;git co xavier/dev-495-home-tab-turn-your-selection-into-card
+: 1614236966:0;git push
+: 1614237066:0;git co master
+: 1614237070:0;git pull
+: 1614237213:0;git co xavier/dev-540-jour-stickers
+: 1614237220:0;yarn start
+: 1614243007:0;yarn build:tablet --scheme 'Jour Local'
+: 1614243339:0;git st
+: 1614243342:0;git push
+: 1614250388:0;git co master
+: 1614250774:0;yarn dev
+: 1614254851:0;yarn add @magic-ext/oauth
+: 1614258610:0;yarn dev
+: 1614260021:0;git stash
+: 1614260037:0;git co -b xavier/dev-231-admin-set-up-google-authentication
+: 1614260043:0;git stash apply
+: 1614260108:0;git st
+: 1614260111:0;git push
+: 1614260282:0;git pull
+: 1614260299:0;git pull origin
+: 1614260325:0;git pull origin xavier/dev-231-admin-set-up-google-authentication
+: 1614261770:0;git pull
+: 1614261793:0;git co -b xavier/dev-519-new-check-in-congrats-screen
+: 1614264457:0;git co master
+: 1614264477:0;git co xavier/dev-540-jour-stickers
+: 1614267539:0;git push
+: 1614273185:0;git co xavier/dev-148-weird-layout-on-encryption-key-submit
+: 1614273631:0;git push
+: 1614322402:0;git co xavier/dev-540-jour-stickers
+: 1614325627:0;yarn lint:check
+: 1614326780:0;yarn dev
+: 1614327521:0;yarn build --scheme 'Jour Local'
+: 1614328810:0;yarn start
+: 1614328867:0;yarn build --scheme 'Jour Local'
+: 1614330667:0;git st
+: 1614330671:0;git push
+: 1614332006:0;git co master
+: 1614332009:0;git pull
+: 1614332020:0;cd ios && pod install && cd -
+: 1614332050:0;yarn build --scheme 'Jour Local'
+: 1614332163:0;yarn
+: 1614332183:0;cd ios && pod install && cd -
+: 1614332219:0;yarn build --scheme 'Jour Local'
+: 1614333697:0;git stash
+: 1614333707:0;git co -b xavier/dev-572-fix-breakthrough-cta-text-styling
+: 1614333711:0;git stash apply
+: 1614333721:0;git push
+: 1614333878:0;git co master
+: 1614333881:0;git pull
+: 1614333995:0;psql postgres
+: 1614335370:0;git pull
+: 1614335379:0;git co xavier/dev-540-jour-stickers
+: 1614335446:0;git co master
+: 1614335471:0;git co -b xavier/dev-530-sequence-check-in-congratscomplete
+: 1614346848:0;yarn build:tablet --scheme 'Jour Local'
+: 1614358036:0;git st
+: 1614358039:0;git push
+: 1614358177:0;git co master
+: 1614358186:0;git co xavier/dev-540-jour-stickers
+: 1614358633:0;git push
+: 1614358869:0;git co master
+: 1614358872:0;git pull
+: 1614358889:0;git co -b xavier/dev-490-journal-typo-in-intro-screens
+: 1614359012:0;git push
+: 1614359107:0;git co master
+: 1614360885:0;git pull
+: 1614586591:0;git co xavier/dev-530-sequence-check-in-congratscomplete
+: 1614592284:0;git push
+: 1614592296:0;git co master
+: 1614592299:0;git pull
+: 1614592346:0;yarn && cd ios && pod install && cd -
+: 1614593100:0;git co -b xavier/dev-516-invite-a-friend-improvement
+: 1614595816:0;git co master
+: 1614595819:0;git pull
+: 1614595833:0;git co -b xavier/dev-516-invite-a-friend-improvement
+: 1614595836:0;yarn
+: 1614595896:0;yarn dev
+: 1614596196:0;yarn test
+: 1614596353:0;psql postgres
+: 1614596379:0;yarn test
+: 1614596838:0;yarn db:setup
+: 1614596939:0;NODE_ENV=test yarn db:up
+: 1614596951:0;yarn test
+: 1614597321:0;NODE_ENV=test TZ=UTC jest routes/user.test.js
+: 1614597331:0;NODE_ENV=test TZ=UTC yarn jest routes/user.test.js
+: 1614597425:0;NODE_ENV=test TZ=UTC yarn jest routes/auth.test.js
+: 1614597639:0;yarn test
+: 1614597895:0;yarn test --detectOpenHandles
+: 1614598193:0;git st
+: 1614598197:0;git push
+: 1614598379:0;yarn test
+: 1614598525:0;yarn jest app/DailySelection/helpers.test.ts
+: 1614598781:0;git push
+: 1614607680:0;git co master
+: 1614607683:0;git pull
+: 1614607702:0;git co tim/dev-532-sequence-make-check-ins-use-new
+: 1614608862:0;yarn start
+: 1614610102:0;git st
+: 1614610122:0;git co master
+: 1614610126:0;git pull
+: 1614610273:0;git co -b xavier/dev-239-detect-and-track-screenshots
+: 1614610828:0;yarn add react-native-detector\
+
+: 1614610847:0;cd ios && pod install && cd -
+: 1614611208:0;yarn add expo-screen-capture
+: 1614611227:0;cd ios && pod install && cd -
+: 1614611315:0;yarn build --scheme 'Jour Local'
+: 1614613118:0;cd ios
+: 1614613125:0;pod cache clean --all && pod install
+: 1614613277:0;yarn why unimodules-core
+: 1614613312:0;yarn why expo-local-authentication
+: 1614613394:0;yarn why @unimodules/core
+: 1614613516:0;yarn add react-native-unimodules
+: 1614613535:0;cd ios && pod install && cd -
+: 1614613538:0;l
+: 1614613544:0;pod cache clean --all && pod install
+: 1614613720:0;..
+: 1614613888:0;yarn add expo-screen-capture@^2.0.0
+: 1614613911:0;cd ios && pod install && cd -
+: 1614613984:0;yarn build --scheme 'Jour Local'
+: 1614614309:0;git push
+: 1614670629:0;git st
+: 1614670634:0;git co master
+: 1614670637:0;git pull
+: 1614670646:0;yarn
+: 1614670685:0;cd ios
+: 1614670688:0;..
+: 1614670692:0;cd ios && pod install && cd -
+: 1614670773:0;yarn build --scheme 'Jour Local'
+: 1614670944:0;yarn 
+: 1614670959:0;NODE_ENV=test TZ=UTC yarn jest routes/a
+: 1614670973:0;NODE_ENV=test TZ=UTC yarn jest services/users/referral.test.ts
+: 1614671976:0;NODE_ENV=test TZ=UTC yarn jest services/decorateUserOrDeviceForApi.test.ts
+: 1614672458:0;yarn test
+: 1614672778:0;yarn start
+: 1614674457:0;NODE_ENV=test TZ=UTC yarn jest services/decorateUserOrDeviceForApi.test.ts
+: 1614678156:0;cd jour
+: 1614678160:0;git clone git@github.com:withjour/jour-web.git
+: 1614678173:0;cd jour-web
+: 1614678179:0;yarn
+: 1614678246:0;cd jour/jour-web
+: 1614678249:0;ode .
+: 1614678251:0;code .
+: 1614679971:0;yarn dev
+: 1614679997:0;git co master
+: 1614680001:0;git pull
+: 1614680027:0;yarn dev
+: 1614680445:0;NODE_ENV=test TZ=UTC yarn jest services/decorateUserOrDeviceForApi.test.ts
+: 1614680599:0;git st
+: 1614681096:0;yarn dev
+: 1614691811:0;git co -b xavier/dev-516-invite-a-friend-improvement
+: 1614691838:0;git st
+: 1614691842:0;git push
+: 1614692716:0;yarn test:e2e
+: 1614695160:0;git push
+: 1614696341:0;yarn test:e2e
+: 1614697028:0;yarn dev
+: 1614697227:0;yarn start
+: 1614697270:0;yarn build --scheme 'Jour Local'
+: 1614697318:0;yarn start
+: 1614697551:0;brew services start frpc
+: 1614697560:0;brew services restart frpc
+: 1614697575:0;more /usr/local/etc/frp/frpc.ini
+: 1614697591:0;curl -I https://xavier.frp.jour.work/health/ping
+: 1614697629:0;curl -I http://localhost:2000/health/ping
+: 1614697709:0;more /usr/local/etc/frp/frpc.ini
+: 1614698374:0;yarn build --scheme 'Jour Local'
+: 1614698383:0;yarn start
+: 1614699146:0;NODE_ENV=test TZ=UTC yarn jest web-api/routes/guest-passes.test.ts
+: 1614697449:2539;yarn dev
+: 1614699989:0;yarn dev
+: 1614700018:0;git st
+: 1614700139:0;NODE_ENV=test TZ=UTC yarn jest web-api/routes/guest-passes.test.ts
+: 1614702535:0;git push
+: 1614702740:0;git st
+: 1614702751:0;git co xavier/dev-516-invite-a-friend-improvement
+: 1614703357:0;git push
+: 1614703934:0;git st
+: 1614703947:0;yarn test
+: 1614704301:0;NODE_ENV=test TZ=UTC yarn jest routes/auth.test.js
+: 1614704324:0;git push
+: 1614761636:0;NODE_ENV=test TZ=UTC yarn jest services/decorateUserOrDeviceForApi.test.ts
+: 1614762395:0;yarn test
+: 1614763173:0;git push
+: 1614764052:0;git st
+: 1614764073:0;git co xavier/dev-530-sequence-check-in-congratscomplete
+: 1614764151:0;yarn start
+: 1614764180:0;cd ios && pod install && cd -
+: 1614764217:0;git st
+: 1614764234:0;yarn
+: 1614764246:0;cd ios && pod install && cd -
+: 1614764318:0;yarn build --scheme 'Jour Local'
+: 1614764332:0;curl -I http://localhost:2000/health/ping
+: 1614764358:0;yarn dev
+: 1614764367:0;curl -I http://localhost:2000/health/ping
+: 1614764383:0;curl -I https://xavier.frp.jour.work/health/ping
+: 1614764525:0;yarn build --scheme 'Jour Local'
+: 1614764563:0;curl -I http://xavier.frp.jour.work/health/ping
+: 1614764571:0;curl -I https://xavier.frp.jour.work/health/ping
+: 1614764603:0;yarn build --scheme 'Jour Local'
+: 1614767527:0;yarn build:tablet --scheme 'Jour Local'
+: 1614770847:0;git stash
+: 1614770913:0;git co master
+: 1614770935:0;git pull
+: 1614770944:0;yarn
+: 1614770956:0;yarn start
+: 1614770976:0;cd ios && pod install && cd -
+: 1614771044:0;yarn build:tablet --scheme 'Jour Local'
+: 1614771049:0;yarn build --scheme 'Jour Local'
+: 1614771066:0;git co -b xavier/dev-483-re-organizing-journals-tab
+: 1614771073:0;yarn build --scheme 'Jour Local'
+: 1614781087:0;yarn lint:check
+: 1614781593:0;git st
+: 1614781595:0;clear
+: 1614785202:0;yarn dev
+: 1614785227:0;yarn start
+: 1614787873:0;git st
+: 1614787877:0;git push
+: 1614874577:0;git co master ter
+: 1614874579:0;git co master
+: 1614874628:0;git co -b xavier/dev-526-insights-locked-screen-fix-copy
+: 1615050836:0;git push
+: 1615051046:0;git co xavier/dev-516-invite-a-friend-improvement
+: 1615051152:0;yarn dev
+: 1615051246:0;NODE_ENV=test TZ=UTC yarn jest services/decorateUserOrDeviceForApi.test.ts
+: 1615051331:0;git push
+: 1614792412:0;git co xavier/dev-483-re-organizing-journals-tab
+: 1614792448:0;yarn test
+: 1614794709:0;git st
+: 1614794712:0;git push
+: 1614794868:0;git pull
+: 1614794887:0;git pull origin xavier/dev-483-re-organizing-journals-tab
+: 1614794985:0;yarn start
+: 1614796357:0;yarn lint:types
+: 1614796383:0;yarn test
+: 1614796408:0;git push
+: 1614814542:0;git co xavier/dev-526-insights-locked-screen-fix-copy
+: 1614815332:0;yarn build --scheme 'Jour Local'
+: 1615015852:0;ps aux | grep 'eslintServer' | awk '{print $2}'
+: 1615015861:0;kill $(ps aux | grep 'eslintServer' | awk '{print $2}')\
+
+: 1615015938:0;yarn start
+: 1614846311:0;yarn build --scheme 'Jour Local'
+: 1615020789:0;ps aux | grep 'eslintServer'
+: 1615020797:0;top 
+: 1615020885:0;ps aux | grep 'eslintServer' | awk '{print $2}'
+: 1615022095:0;git st
+: 1615022098:0;git push
+: 1615022674:0;yarn build --scheme 'Jour Local'
+: 1615023062:0;git pull origin xavier/dev-516-invite-a-friend-improvement
+: 1615023120:0;yarn dev
+: 1615023149:0;yanr test
+: 1615023153:0;yarn test
+: 1615023279:0;git push
+: 1614853879:0;yarn dev
+: 1614854196:0;git stash
+: 1614854214:0;git co -b xavier/dev-516-hotfix
+: 1614854219:0;git stash apply
+: 1614854252:0;git push
+: 1614854298:0;git co master
+: 1614854300:0;git pull
+: 1614854322:0;git co -b xavier/dev-516-catch-error-hotfix
+: 1614854326:0;git stash apply
+: 1614854357:0;git st
+: 1614854360:0;git push
+: 1614854715:0;git st
+: 1614854720:0;git co master
+: 1614854722:0;git pull
+: 1614854758:0;git co tp/sequence-checkin-predictions
+: 1614854844:0;yarn jest app/SequenceCheckIn/helpers/journeyToSequence.test.ts
+: 1614855581:0;git co master ter
+: 1614855583:0;git co master
+: 1614855586:0;git pull
+: 1614855604:0;git co xavier/dev-530-sequence-check-in-congratscomplete
+: 1614855633:0;git merge master
+: 1614855643:0;yarn
+: 1614855861:0;cd ios && pod install && cd -
+: 1614856048:0;yarn build --scheme 'Jour Local'
+: 1614861757:0;yarn build:tablet --scheme 'Jour Local'
+: 1614924393:0;yarn lint:types
+: 1614924708:0;yarn jest app/SequenceCheckIn/helpers/journeyToSequence.test.ts
+: 1614924812:0;git push
+: 1614924985:0;git co xavier/dev-483-re-organizing-journals-tab
+: 1614926087:0;git push
+: 1614926301:0;git co xavier/dev-526-insights-locked-screen-fix-copy
+: 1614933192:0;node test.js
+: 1614936518:0;yarn dev
+: 1614855670:0;yarn start
+: 1614937778:0;cd jour/jour-server
+: 1614937784:0;yarn dev
+: 1614937838:0;yarn start
+: 1614937912:0;yarn build --scheme 'Jour Local'
+: 1614938065:0;yarn test
+: 1614938384:0;git push
+: 1614939691:0;git co master
+: 1614939695:0;git pull
+: 1614939703:0;git co tim/dev-578-unsent-letter-edit-journey-so
+: 1614940015:0;yarn jest app/Session/helpers.test.ts
+: 1614940425:0;git co master
+: 1614940552:0;git co tim/dev-578-unsent-letter-edit-journey-so
+: 1614942663:0;git co master
+: 1614942666:0;git pull
+: 1615115959:0;git stash
+: 1615115988:0;git co -b xavier/dev-516-correct-wording
+: 1615115997:0;git stash apply
+: 1615118352:0;yarn test app/Session/components/DailyComplete/components/GuestPass/helpers.test.ts
+: 1615118399:0;yarn jest app/Session/components/DailyComplete/components/GuestPass/helpers.test.ts
+: 1615118769:0;git st
+: 1615118773:0;git push
+: 1614948501:0;git st
+: 1614948721:0;git co master
+: 1614948725:0;git pull
+: 1614951141:0;yarn lint:check
+: 1614952524:0;git st
+: 1614952550:0;git pull
+: 1614952555:0;git co tp/timeouts
+: 1614953098:0;git co master
+: 1614953580:0;yarn dev
+: 1614954050:0;git co master
+: 1615194629:0;git pull
+: 1615195720:0;git stash
+: 1615195734:0;git co -b xavier/dev-587-unlocking-breakthrough-card
+: 1615195739:0;git stash apply
+: 1615195754:0;git push
+: 1615199758:0;git co master
+: 1615199760:0;git pull
+: 1615199770:0;git co -b xavier/dev-588-new-entry-card-ui
+: 1615201031:0;git co master
+: 1615201034:0;git pull
+: 1615201040:0;git co -b xavier/dev-589-day-grouping-entry-tab
+: 1615284932:0;yarn ts-node stuff.ts
+: 1615284990:0;npx ts-node stuff.ts
+: 1615285055:0;npm install -g typescript ts-node\
+
+: 1615285077:0;ts-node stuff.ts
+: 1615285130:0;node stuff.ts
+: 1615285145:0;node stuff
+: 1615293531:0;node test.js
+: 1615293766:0;yarn jest app/Entries/components/helpers.test.ts
+: 1615295027:0;node test.js
+: 1615295263:0;yarn jest app/Entries/components/helpers.test.ts
+: 1615295881:0;node test.js
+: 1615296468:0;yarn jest app/Entries/components/helpers.test.ts
+: 1615297071:0;git st
+: 1615297074:0;git push
+: 1615297658:0;yarn jest app/Entries/components/helpers.test.ts
+: 1615297985:0;git push
+: 1615300697:0;git co xavier/dev-588-new-entry-card-ui
+: 1615302476:0;yarn
+: 1615302795:0;yarn build --scheme 'Jour Local'
+: 1615302872:0;cd ios
+: 1615302874:0;pod cache clean --all && pod install
+: 1615303148:0;yarn build --scheme 'Jour Local'
+: 1615303151:0;..
+: 1615303153:0;yarn build --scheme 'Jour Local'
+: 1615303347:0;yarn start
+: 1615303771:0;yarn start --reset-cache
+: 1615303786:0;yarn build --scheme 'Jour Local'
+: 1615304140:0;yarn start --reset-cache
+: 1615311540:0;npm start
+: 1615368035:0;yarn start
+: 1615386745:0;yarn run lint
+: 1615386750:0;yarn lint
+: 1615386765:0;yarn lint:check
+: 1615386861:0;yarn start --reset-cache
+: 1615386980:0;yarn build --scheme 'Jour Local'
+: 1615387125:0;git s
+: 1615387129:0;git st
+: 1615387560:0;git co xavier/dev-589-day-grouping-entry-tab
+: 1615391941:0;yarn jest -t .journalIsDailyJour
+: 1615391994:0;yarn jest app/common/helpers.test.ts -t .journalIsDailyJour
+: 1615393056:0;yarn test app/Entries/components/helpers.test.ts
+: 1615393074:0;yarn jest app/Entries/components/helpers.test.ts
+: 1615393156:0;node tset.js
+: 1615396614:0;yarn jest app/Entries/components/helpers.test.ts
+: 1615396692:0;node tset.js
+: 1615396767:0;yarn jest app/Entries/components/helpers.test.ts
+: 1615397705:0;node tset.js
+: 1615397782:0;yarn jest app/Entries/components/helpers.test.ts
+: 1615399404:0;node tset.js
+: 1615399457:0;yarn jest app/Entries/components/helpers.test.ts
+: 1615399523:0;yarn jest app/Entries/components/helpers.test.ts -t computes indication correctly for days NOT in the same week AND in different years
+: 1615399552:0;yarn jest app/Entries/components/helpers.test.ts -t="computes indication correctly for days NOT in the same week AND in different years"
+: 1615399603:0;node tset.js
+: 1615399715:0;yarn jest app/Entries/components/helpers.test.ts -t="computes indication correctly for days NOT in the same week AND in different years"
+: 1615399784:0;node tset.js
+: 1615399841:0;yarn jest app/Entries/components/helpers.test.ts -t="computes indication correctly for days NOT in the same week AND in different years"
+: 1615400131:0;yarn jest app/Entries/components/helpers.test.ts
+: 1615400850:0;git st
+: 1615400852:0;git push
+: 1615401362:0;git co xavier/dev-588-new-entry-card-ui
+: 1615465005:0;yarn start --reset-cache
+: 1615476516:0;git push
+: 1615536550:0;yarn scripts/jour/createFakeUser.js
+: 1615536560:0;node scripts/jour/createFakeUser.js
+: 1615536575:0;git co master
+: 1615536579:0;node scripts/jour/createFakeUser.js
+: 1615536615:0;ts-node scripts/jour/createFakeUser.js
+: 1615537989:0;git pull
+: 1615537997:0;yarn
+: 1615538023:0;yarn dev
+: 1615538575:0;yarn build --scheme 'Jour Local'
+: 1615542234:0;npm install --save recyclerlistview\
+\
+
+: 1615542326:0;yarn add recyclerlistview
+: 1615544127:0;yarn dev
+: 1615544149:0;yarn start
+: 1615544154:0;yarn build --scheme 'Jour Local'
+: 1615546672:0;git push
+: 1615547551:0;yarn jest app/Entries/components/JournalPreview/helpers.test.ts
+: 1615548157:0;yarn lint:deadcode
+: 1615548439:0;git push
+: 1615548481:0;git pull
+: 1615548495:0;git merge master
+: 1615548499:0;git co master
+: 1615548504:0;git pull
+: 1615548515:0;git co xavier/dev-588-new-entry-card-ui
+: 1615548525:0;git merge master
+: 1615548616:0;git st
+: 1615548650:0;git push
+: 1615554311:0;git co -b xavier/generate-user
+: 1615554431:0;yarn add -D prompts ora
+: 1615554896:0;ts-node scripts/jour/generateUser.ts
+: 1615555862:0;yarn start
+: 1615556106:0;yarn build --scheme 'Jour Local'
+: 1615556881:0;yarn start
+: 1615556884:0;yarn build --scheme 'Jour Local'
+: 1615556933:0;cd  ios
+: 1615556936:0;pod cache clean --all && pod install
+: 1615556959:0;..
+: 1615556961:0;yarn
+: 1615556979:0;cd ios && pod install && cd -
+: 1615557056:0;..
+: 1615557061:0;yarn
+: 1615557065:0;cd ios/
+: 1615557067:0;pod cache clean --all && pod install
+: 1615557182:0;..
+: 1615557186:0;yarn
+: 1615557191:0;cd ios
+: 1615557194:0;pod cache clean --all && pod install
+: 1615557763:0;..
+: 1615557766:0;yarn
+: 1615557794:0;cd ios && pod cache clean --all && pod install && cd -
+: 1615557807:0;pod install --repo-update
+: 1615557854:0;..
+: 1615557856:0;yarn build --scheme 'Jour Local'
+: 1615558075:0;git push
+: 1615558391:0;git co xavier/dev-589-day-grouping-entry-tab
+: 1615558535:0;git fetch origin
+: 1615558541:0;git merge master
+: 1615558582:0;git st
+: 1615558590:0;yarn start
+: 1615558624:0;git co master
+: 1615558633:0;git pull
+: 1615558640:0;git co xavier/dev-589-day-grouping-entry-tab
+: 1615558642:0;git merge master
+: 1615558863:0;yarn build --scheme 'Jour Local'
+: 1615558964:0;git st
+: 1615559116:0;git push
+: 1615560484:0;git co master
+: 1615560486:0;git pull
+: 1615560500:0;git co tp/entries-tab-perfs
+: 1615561601:0;yarn start --reset-cache
+: 1615561607:0;yarn build --scheme 'Jour Local'
+: 1615562050:0;npm install -g react-devtools\
+
+: 1615562142:0;react-devtools
+: 1615563929:0;git co master
+: 1615563931:0;git pull
+: 1615563954:0;git co tp/entries-section-perfs
+: 1615563973:0;react-devtools
+: 1615565009:0;git pull
+: 1615565069:0;git st
+: 1615565088:0;git co master
+: 1615565095:0;git pull
+: 1615565305:0;git branch -d tp/entries-section-perfs
+: 1615565311:0;git branch -D tp/entries-section-perfs
+: 1615565323:0;git pull
+: 1615565335:0;git co tp/entries-section-perfs
+: 1615565338:0;git pull
+: 1615792360:0;git co master
+: 1615792367:0;git pull
+: 1615792386:0;git co -b xavier/dev-603-bobbys-feedback-on-new-ui-entry-card
+: 1615792393:0;yarn build --scheme 'Jour Local'
+: 1615794778:0;bundle install
+: 1615794783:0;cd ios
+: 1615794787:0;bundle install
+: 1615794939:0;bundle exec fastlane match
+: 1615797694:0;yarn dev
+: 1615797732:0;yarn star
+: 1615797734:0;yarn start
+: 1615803154:0;git push
+: 1615803218:0;yarn test app/Entries/components/helpers.test.ts
+: 1615803240:0;yarn jest app/Entries/components/JournalPreview/helpers.test.ts
+: 1615803393:0;yarn lint:types
+: 1615803589:0;git push
+: 1615803942:0;cd ios
+: 1615803961:0;bundle exec fastlane match
+: 1615804173:0;yarn react-native run-ios --device 'iPhone de Seignard' --scheme 'Jour Local'
+: 1615804587:0;Users/bigx/Library/MobileDevic  |\
+|                     | opment_profile-path              | e/Provisioning 
+: 1615804622:0;open Users/bigx/Library
+: 1615804630:0;open /Users/bigx/Library
+: 1615805171:0;yarn react-native run-ios --device 'iPhone de Seignard' --scheme 'Jour Local'
+: 1615805582:0;git st
+: 1615805586:0;git co master
+: 1615805708:0;Y
+: 1615805714:0;ts-node scripts/jour/generateUser.ts
+: 1615812339:0;yarn add -D yargs
+: 1615812748:0;ts-node scripts/jour/generateUser.ts
+: 1615812845:0;ts-node scripts/jour/generateUser.ts -d
+: 1615813732:0;bundle exec fastlane match
+: 1615813840:0;fastlane match -a com.ofhuman.jour-app.stickers,com.ofhuman.jour-app.widget
+: 1615813929:0;yarn react-native run-ios --device 'iPhone de Seignard' --scheme 'Jour Local'
+: 1615815076:0;node scripts/jour/createFakeUser.js
+: 1615815081:0;ts-node scripts/jour/createFakeUser.js
+: 1615816442:0;ts-node scripts/jour/generateUser.ts -d
+: 1615816600:0;ts-node scripts/jour/generateUser.ts --help
+: 1615816686:0;ts-node scripts/jour/generateUser.ts -d
+: 1615822835:0;git push
+: 1615823192:0;ts-node scripts/jour/generateUser.ts -d
+: 1615823229:0;yarn dev
+: 1615823242:0;ts-node scripts/jour/generateUser.ts -d
+: 1615824539:0;yarn dev
+: 1615824550:0;ts-node scripts/jour/generateUser.ts -d
+: 1615824576:0;yarn dev
+: 1615824591:0;ts-node scripts/jour/generateUser.ts -d
+: 1615824749:0;brew services start postgresql
+: 1615824755:0;brew services restart postgresql
+: 1615824783:0;ts-node scripts/jour/generateUser.ts -d
+: 1615825092:0;yarn fakeUser
+: 1615825231:0;yarn fakeUser:default
+: 1615825300:0;git push
+: 1615825973:0;yarn fakeUser:default
+: 1615826285:0;git pull
+: 1615826291:0;..
+: 1615826294:0;git pull
+: 1615826305:0;yarn
+: 1615826321:0;cd ios && pod cache clean --all && pod install && cd -
+: 1615826414:0;yarn start
+: 1615826420:0;yarn build --scheme 'Jour Local'
+: 1615826615:0;git co -b xavier/dev-599-add-back-attachments-to-new-entry-card
+: 1615826984:0;git push
+: 1615876430:0;Users/bigx/Downloads/MountEFI-update/MountEFI.command ; exit;
+: 1615876463:0;/Users/bigx/Downloads/MountEFI-update/MountEFI.command ; exit;
+: 1615876484:0;/Users/bigx/Downloads/ProperTree-master/ProperTree.command ; exit;
+: 1615876713:0;cd Downloads/ProperTree-master
+: 1615876721:0;python -v
+: 1615876736:0;cd Scripts
+: 1615876737:0;l
+: 1615876747:0;./buildapp-python2.command
+: 1615876752:0;..
+: 1615876755:0;./ProperTree.
+: 1615876757:0;./ProperTree.command
+: 1615876773:0;python3 -c
+: 1615876776:0;python3 -v
+: 1615876783:0;cd Scripts
+: 1615876795:0;python3 ./buildapp-python3.command
+: 1615876798:0;..
+: 1615876810:0;python3 ./ProperTree.command
+: 1615876827:0;code .
+: 1615876846:0;./ProperTree.command
+: 1615876982:0;brew install tcl-tk
+: 1615877237:0;brew update
+: 1615877258:0;brew upgrade python3
+: 1615877320:0;xcode-select --install
+: 1615877861:0;yarn fakeUser
+: 1615877926:0;brew upgrade python3
+: 1615878013:0;python3 -v
+: 1615878020:0;./ProperTree.command
+: 1615879187:0;yarn fakeUser:default
+: 1615880115:0;ts-node scripts/jour/try.ts
+: 1615881589:0;sudo kill -9 34386
+: 1615881670:0;ts-node scripts/jour/try.ts
+: 1615881989:0;yarn fakeUser:default
+: 1615882729:0;git push
+: 1615884095:0;yarn fakeUser:default
+: 1615884162:0;git push
+: 1615885440:0;yarn fakeUser:default
+: 1615885512:0;git push
+: 1615891782:0;yarn fakeUser:default
+: 1615824770:67065;yarn dev
+: 1615891852:8;brew services restart postgresql
+: 1615891866:0;yarn dev
+: 1615891873:0;yarn fakeUser:default
+: 1615898652:0;git push
+: 1615902184:0;yarn fakeUser:default
+: 1615902438:0;git push
+: 1615903258:0;yarn seed:fake-user:default
+: 1615903380:0;git push
+: 1615904696:0;git pull
+: 1615904708:0;git pull origin xavier/generate-user
+: 1615904712:0;yarn
+: 1615904773:0;yarn seed:fake-user
+: 1615905055:0;git push
+: 1615912993:0;yarn seed:fake-user:default
+: 1615913161:0;git push
+: 1615913350:0;git st
+: 1615913363:0;git pull origin xavier/dev-599-add-back-attachments-to-new-entry-card
+: 1615913910:0;react-devtools
+: 1615964027:0;yarn lint:types
+: 1615964258:0;git push
+: 1615966551:0;git stash
+: 1615966554:0;git co master
+: 1615966573:0;git stash
+: 1615966584:0;git pull
+: 1615966641:0;yarn && cd ios && pod install && cd - && yarn build --scheme 'Jour Local'
+: 1615967175:0;git co -b xavier/dev-609-entries-tab-basic-search
+: 1615967390:0;yarn add fuse.js
+: 1615979069:0;git push
+: 1615990265:0;yarn jest app/Entries/components/JournalPreview/helpers.test.ts
+: 1615990291:0;yarn jest app/Entries/components/helpers.test.ts
+: 1615991764:0;git push
+: 1615997377:0;yarn add lodash.debounce
+: 1615998742:0;git push
+: 1616052894:0;yarn add -D @types/lodash.debounce
+: 1616053012:0;git push
+: 1616053665:0;yarn jest app/Entries/components/hooks.test.ts
+: 1616053803:0;yarn jest app/Entries/components/helpers.test.ts
+: 1616053967:0;yarn jest app/Entries/components/hooks.test.ts
+: 1616054169:0;git stash
+: 1616054195:0;git st
+: 1616054327:0;git co master
+: 1616054359:0;git pull
+: 1616054370:0;yarn
+: 1616054388:0;git co -b xavier/dev-610-remove-app-store-option-in-onboarding
+: 1616054598:0;yarn test
+: 1616055059:0;git push
+: 1616055259:0;git co master
+: 1616055262:0;git pull
+: 1616055284:0;git co -b xavier/dev-598-add-new-stories-new-workflow
+: 1616055584:0;git co master
+: 1616055608:0;git co -b xavier/dev-609-test-fuser
+: 1616055655:0;yarn jest app/Entries/components/hooks.test.ts
+: 1616056374:0;git push
+: 1616056676:0;yarn jest app/Entries/components/hooks.test.ts
+: 1616057837:0;git push
+: 1616057962:0;yarn jest app/Entries/components/hooks.test.ts
+: 1616061935:0;yarn add -D ts-jest
+: 1616061954:0;yarn ts-jest config:init
+: 1616061968:0;mv jest.config.js jest.config.jsd
+: 1616061970:0;yarn ts-jest config:init
+: 1616062098:0;yarn jest app/Entries/components/hooks.test.ts
+: 1616062475:0;node jest.config.js
+: 1616062859:0;yarn jest app/Entries/components/hooks.test.ts
+: 1616064246:0;yarn jest app/Entries/components/helpers.test.ts
+: 1616065755:0;git push
+: 1616072217:0;git co xavier/dev-598-add-new-stories-new-workflow
+: 1616072962:0;git co master
+: 1616072965:0;git pull
+: 1616072972:0;yarn
+: 1616073052:0;yarn db:up
+: 1616073081:0;yarn db:generate-client
+: 1616073115:0;yarn lint:types
+: 1616073188:0;brew tap heroku/brew && brew install heroku\
+
+: 1616073400:0;heroku run yarn seed:fake-user:default -a jour-server-stg
+: 1616073851:0;heroku config:get NODE_OPTIONS -a jour-server-stg
+: 1616073884:0;heroku config -a jour-server-stg
+: 1616074437:0;yarn dev
+: 1616074478:0;git co master
+: 1616074482:0;git pull
+: 1616074504:0;git co -b xavier/dev-609-search-by-year
+: 1616074513:0;yarn start
+: 1616074751:0;yarn jest app/Entries/components/helpers.test.ts
+: 1616075122:0;git push
+: 1616075771:0;git co master
+: 1616075775:0;git pull
+: 1616075784:0;git co xavier/dev-598-add-new-stories-new-workflow
+: 1616080063:0;yarn lint:check
+: 1616083841:0;git push
+: 1616085911:0;cd app/assets/images/stories
+: 1616085912:0;l
+: 1616085917:0;mkdir how-to-calm-stress-fast how-to-strengthen-your-relationship if-friends-make-you-feel-left-out when-faced-with-anxiety why-do-monks-seem-so-happy youre-more-than-your-work
+: 1616085919:0;l
+: 1616085926:0;cd -
+: 1616086269:0;cd app/assets/images/stories
+: 1616086275:0;[200~for file in *.MP4.mov; do j=`echo $file | cut -d . -f 1`;j=$j".mov";echo mv \"$file\" \"$j\"; done
+: 1616086321:0;for file in photo-1-ipad*.png; do j=`echo $file | cut -d . -f 1`;j=$j".mov";echo mv \"$file\" \"$j\"; done\
+
+: 1616086338:0;cd how-to-calm-stress-fast
+: 1616086345:0;for file in photo-1-ipad*.png; do j=`echo $file | cut -d . -f 1`;j=$j".mov";echo mv \"$file\" \"$j\"; done\
+
+: 1616086423:0;for file in photo-1-ipad*.png; do j=`echo $file | cut -d @ -f 1`;j="card-iphone-ipad"$j;echo mv \"$file\" \"$j\"; done\
+
+: 1616086541:0;rename
+: 1616086551:0;brew install rename\
+
+: 1616086604:0;rename --dry-run 's/photo-1-ipad/card-iphone-ipad/' *png
+: 1616086798:0;..
+: 1616086800:0;rename --dry-run 's/photo-1-ipad/card-iphone-ipad/' *png
+: 1616087093:0;rename --dry-run 's/photo-1-ipad/card-iphone-ipad/' **/*png
+: 1616087142:0;rename 's/photo-1-ipad/card-iphone-ipad/' **/*png
+: 1616088071:0;/Users/bigx/Desktop/cloudfront 
+: 1616088113:0;rm **/card-iphone-ipad.png **/card-iphone-ipad@2x.png
+: 1616088158:0;rename --dry-run 's/card-iphone-ipad@3x/photo-1/' **/*png
+: 1616088273:0;rename --dry-run 's/card-iphone-ipad\@3x/photo-1/' **/*png
+: 1616088286:0;rename 's/card-iphone-ipad\@3x/photo-1/' **/*png
+: 1616137252:0;cd ../..
+: 1616137254:0;..
+: 1616137263:0;git st
+: 1616137276:0;git push
+: 1616150067:0;yarn lint:deadcode
+: 1616150427:0;git push
+: 1616150596:0;git pull
+: 1616150615:0;git pull origin xavier/dev-598-add-new-stories-new-workflow
+: 1616151687:0;git stash
+: 1616151692:0;git co master
+: 1616151694:0;git pull
+: 1616151712:0;git co -b xavier/dev-615-jour-radio-move-card-down
+: 1616151719:0;git stash apply
+: 1616151805:0;git push
+: 1616166205:0;git co master
+: 1616166220:0;git st
+: 1616166224:0;git pull
+: 1616166260:0;git co -x xavier/dev-609-cancel-button
+: 1616166266:0;git co -b xavier/dev-609-cancel-button
+: 1616167291:0;git push
+: 1616395179:0;git st
+: 1616395183:0;git co master
+: 1616395200:0;git co -b xavier/dev-609-clear-button
+: 1616395261:0;git co master
+: 1616395282:0;git branch -D xavier/dev-609-clear-button
+: 1616395288:0;git pull
+: 1616395311:0;yarn && cd ios && pod install && cd - && yarn build --scheme 'Jour Local'
+: 1616395374:0;pod install --repo-update
+: 1616395644:0;..
+: 1616395651:0;yarn build --scheme 'Jour Local'
+: 1616395665:0;git stash
+: 1616395671:0;git co -b xavier/dev-609-clear-button
+: 1616395675:0;git stash apply
+: 1616395678:0;yarn build --scheme 'Jour Local'
+: 1616396996:0;git push
+: 1616397119:0;git co master
+: 1616397130:0;git co -b xavier/dev-602-fix-copy-on-dailyselectioncard
+: 1616397272:0;yarn dev
+: 1616397571:0;git pull
+: 1616397585:0;yarn
+: 1616397605:0;yarn dev
+: 1616397643:0;yarn build
+: 1616397684:0;NODE_ENV=development yarn build
+: 1616397711:0;yarn dev
+: 1616398268:0;git pull
+: 1616398278:0;yarn dev
+: 1616398352:0;brew services restart redis
+: 1616398360:0;yarn dev
+: 1616400549:0;git push
+: 1616400567:0;git co master
+: 1616400571:0;git pull
+: 1616400580:0;yarn && cd ios && pod install && cd - && yarn build --scheme 'Jour Local'
+: 1616400726:0;git co -b xavier/dev-605-flaky-test-app-gettitlecontent-failing
+: 1616314365:0;yarn jest app/Insights/components/DateSelector/helpers.test.ts
+: 1616491882:0;yarn test
+: 1616492198:0;yarn jest app/components/MoodTracker/helpers.test.ts
+: 1616492539:0;yarn test
+: 1616492655:0;git push
+: 1616319873:0;yarn jest app/Insights/components/DateSelector/helpers.test.ts
+: 1616319881:0;yarn test
+: 1616406326:0;git co master
+: 1616406395:0;yarn jest services/breakthrough/getBreakthrough.test.ts
+: 1616406469:0;yarn test:file services/breakthrough/getBreakthrough.test.ts
+: 1616392876:0;git push
+: 1616392902:0;git stash
+: 1616392919:0;git co -b xavier/dev-604-flaky-test-server-getbreakthrough-test
+: 1616392925:0;git stash apply
+: 1616392930:0;yarn test:file services/breakthrough/getBreakthrough.test.ts
+: 1616392946:0;git push
+: 1616409131:0;git co -b xavier/dev-598-fix-stories
+: 1616411851:0;yarn jest app/content/stories/index.test.ts
+: 1616412008:0;yarn test:file app/content/stories/index.test.ts
+: 1616412863:0;git push
+: 1616413197:0;git co master
+: 1616413199:0;git pull
+: 1616413212:0;git co -b xavier/dev-601-cant-unlock-new-breakthrough
+: 1616420976:0;git co master
+: 1616420994:0;git co xavier/dev-605-flaky-test-app-gettitlecontent-failing
+: 1616334887:0;yarn jest app/Insights/components/DateSelector/helpers.test.ts
+: 1616335182:0;yarn test
+: 1616335311:0;git push
+: 1616335335:0;git push -f
+: 1616335418:0;git co master
+: 1616335421:0;git pull
+: 1616335469:0;git co -b xavier/dev-589-isoweek-grouping
+: 1616422739:0;yarn test app/Entries/components/helpers.test.ts
+: 1616422750:0;yarn jest app/Entries/components/helpers.test.ts
+: 1616423202:0;git push
+: 1616424127:0;git co master
+: 1616424144:0;git co xavier/dev-602-fix-copy-on-dailyselectioncard
+: 1616425304:0;ts-node app/Breakthrough/components/DailySelectionCard/truc.ts
+: 1616425394:0;ts-node app/truc.ts
+: 1616426566:0;git st
+: 1616426569:0;git push
+: 1616426650:0;git co master
+: 1616427252:0;git co -b xavier/dev-593-inspect-getdailyjourcount-selector-usage
+: 1616428873:0;git co master
+: 1616428875:0;git pull
+: 1616428992:0;react-devtools
+: 1616482210:0;git co -b xavier/entries-perf
+: 1616482254:0;yarn add -D @welldone-software/why-did-you-render\
+
+: 1616486487:0;brew install --cask flipper
+: 1616486563:0;brew cask upgrade flipper
+: 1616486572:0;brew --help
+: 1616486593:0;brew upgrade --cask flipper
+: 1616487822:0;yarn start
+: 1616487833:0;yarn build --scheme 'Jour Local'
+: 1616488331:0;more .flipper/config.json
+: 1616488349:0;cd
+: 1616488357:0;mkdir "~/Flipper/custom-plugins/"
+: 1616488363:0;mkdir -p "~/Flipper/custom-plugins/"
+: 1616488370:0;code .flipper/config.json
+: 1616488409:0;l
+: 1616488450:0;cd Flipper/custom-plugins
+: 1616488457:0;npx flipper-pkg init
+: 1616488862:0;cd flipper-plugin-console-log
+: 1616488864:0;code .
+: 1616489154:0;code .flipper/config.json
+: 1616489173:0;../
+: 1616489176:0;pwd
+: 1616489277:0;yarn watch
+: 1616491040:0;yarn
+: 1616491047:0;yarn watch
+: 1616491348:0;yarn
+: 1616491360:0;yarn watch
+: 1616491752:0;/Users/bigx/Flipper/custom-plugins/flipper-plugin-tree-metro-logger 
+: 1616491754:0;yarn
+: 1616491800:0;yarn watch
+: 1616491908:0;cd flipper-plugin-tree-metro-logger
+: 1616491910:0;code .
+: 1616492068:0;yarn watch
+: 1616493589:0;yarn
+: 1616493806:0;yarn watch
+: 1616495794:0;..
+: 1616495798:0;npx flipper-pkg init
+: 1616495937:0;cd flipper-plugin-console-log
+: 1616495940:0;code .
+: 1616496070:0;yarn watch
+: 1616502871:0;npm start
+: 1616502895:0;npm run ios -- --simulator="iPhone X"
+: 1616503345:0;npm start --reset-cache
+: 1616503656:0;yarn add traverse
+: 1616503990:0;yarn start
+: 1616504756:0;yarn prepack
+: 1616504774:0;yarn pack
+: 1616504847:0;yarn -D @types/traverse
+: 1616504854:0;yarn add -D @types/traverse
+: 1616505080:0;yarn publish
+: 1616505213:0;yarn login
+: 1616505234:0;npm login
+: 1616505253:0;yarn login
+: 1616505261:0;yarn login --hrlp
+: 1616505264:0;yarn login --help
+: 1616505303:0;more ~/.yarnrc
+: 1616505316:0;rm ~/.yarnrc
+: 1616505320:0;yarn login
+: 1616505338:0;yarn publish
+: 1616505416:0;npm publish
+: 1616505713:0;yarn publish
+: 1616505848:0;npm run pack
+: 1616505853:0;yanr pack
+: 1616505857:0;yarn pack
+: 1616506988:0;yarn start
+: 1616509633:0;git stash
+: 1616509637:0;git co master
+: 1616509760:0;react-devtools
+: 1616518765:0;git st
+: 1616518811:0;git pull
+: 1616519130:0;npm run ev
+: 1616519132:0;npm run dev
+: 1616519684:0;npm i -D dotenv
+: 1616519775:0;npm run watchTrad
+: 1616521718:0;npm run dev
+: 1616522467:0;npm run watchTrad
+: 1616566803:0;yarn start
+: 1616566935:0;yarn build --scheme 'Jour Local'
+: 1616566973:0;yarn
+: 1616566983:0;yarn && cd ios && pod install && cd - && yarn build --scheme 'Jour Local'
+: 1616567169:0;yarn build --scheme 'Jour Local'
+: 1616567190:0;yarn start
+: 1616567206:0;git co master
+: 1616567209:0;git pull
+: 1616567217:0;yarn
+: 1616567252:0;yarn dev
+: 1616567357:0;yarn start --reset-cache
+: 1616567551:0;yarn dev
+: 1616567577:0;yarn start --reset-cache
+: 1616567582:0;yarn build --scheme 'Jour Local'
+: 1616570249:0;react-devtools
+: 1616572190:0;yarn seed:fake-user:default
+: 1616573010:0;yarsetup
+: 1616573018:0;yarn db:setup
+: 1616573043:0;yarn db:generate-client
+: 1616573066:0;yarn db:up
+: 1616573081:0;yarn dev
+: 1616573087:0;yarn seed:fake-user:default
+: 1616580078:0;git stash
+: 1616580099:0;git co -b xavier/better-entries
+: 1616580104:0;git stash apply
+: 1616581452:0;git push
+: 1616581689:0;git co master
+: 1616581694:0;git pull
+: 1616581895:0;git co tim/dev-612-sequence-use-sequence-for-every-check-in
+: 1616581902:0;git pull
+: 1616582591:0;hub create
+: 1616582594:0;hub create -p
+: 1616582636:0;git init
+: 1616582639:0;hub create
+: 1616582730:0;git remote add origin git@github.com:xseignard/flipper-plugin-console-log.git\
+
+: 1616582743:0;git branch -M main\
+
+: 1616582769:0;git add .
+: 1616582771:0;git ci
+: 1616582784:0;git branch -M main\
+
+: 1616582793:0;git push 
+: 1616584522:0;git co xavier/better-entries
+: 1616584670:0;yarn jest app/Entries/components/helpers.test.ts
+: 1616585109:0;git push
+: 1616590358:0;git co master
+: 1616590360:0;git pull
+: 1616590929:0;git co -b xavier/dev-618-sequence-implement-audio-step
+: 1616596804:0;yarn add -D eslint-plugin-i18next
+: 1616596967:0;yarn lint:check
+: 1616601448:0;git push
+: 1616602097:0;git co xavier/better-entries
+: 1616602265:0;git co xavier/dev-618-sequence-implement-audio-step
+: 1616603270:0;git co master
+: 1616603289:0;git co -b xavier/stories-typos
+: 1616603463:0;git push
+: 1616606239:0;git co xavier/better-entries
+: 1616606902:0;git push
+: 1616654942:0;git st
+: 1616654956:0;git co xavier/dev-602-fix-copy-on-dailyselectioncard
+: 1616656967:0;yarn jest app/Breakthrough/helpers.test.ts
+: 1616657189:0;yarn dev
+: 1616657795:0;git push
+: 1616658616:0;git co xavier/better-entries
+: 1616660983:0;react-devtools
+: 1616661937:0;yarn seed:fake-user:default
+: 1616662175:0;git stash
+: 1616662201:0;git co -b xavier/update-fake-user-script
+: 1616662207:0;git stash apply
+: 1616662281:0;git push
+: 1616663549:0;git stash
+: 1616663652:0;git co master
+: 1616663655:0;git pull
+: 1616663676:0;yarn && cd ios && pod install && cd - && yarn build --scheme 'Jour Local'
+: 1616664032:0;git co xavier/dev-609-analytics
+: 1616664038:0;git co -b xavier/dev-609-analytics
+: 1616666110:0;git push
+: 1616666227:0;git co master
+: 1616666240:0;git co -b xavier/better-search
+: 1616666251:0;git stash apply
+: 1616671600:0;yarn test app/Entries/components/helpers.test.ts
+: 1616671610:0;yarn est app/Entries/components/helpers.test.ts
+: 1616671613:0;yarn jest app/Entries/components/helpers.test.ts
+: 1616671856:0;yarn jest app/Entries/components/helpers.test.ts --verbose=false
+: 1616672480:0;git push
+: 1616674770:0;yarn jest app/Entries/components/helpers.test.ts --verbose=false
+: 1616675170:0;git stash
+: 1616675186:0;yarn jest app/Entries/components/helpers.test.ts --verbose=false
+: 1616675223:0;git stash apply
+: 1616675264:0;yarn jest app/Entries/components/helpers.test.ts --verbose=false
+: 1616676441:0;yarn rm fuse.js
+: 1616676450:0;yarn --help
+: 1616676476:0;yarn remove fuse.js
+: 1616676790:0;git push
+: 1616678267:0;git co master
+: 1616678282:0;git co xavier/dev-618-sequence-implement-audio-step
+: 1616679263:0;git co xavier/b
+: 1616679272:0;git co xavier/better-search
+: 1616679285:0;git stash
+: 1616679287:0;git co xavier/better-search
+: 1616679326:0;yarn add lodash.memoize
+: 1616679489:0;yarn start --reset-cache
+: 1616679817:0;yarn add -D @types/lodash.memoize
+: 1616680098:0;git push
+: 1616680167:0;yarn jest app/Entries/components/helpers.test.ts --verbose=false
+: 1616680566:0;git co xavier/dev-609-analytics
+: 1616680569:0;git pull
+: 1616680589:0;git pull origin xavier/dev-609-analytics
+: 1616681888:0;git co xavier/dev-618-sequence-implement-audio-step
+: 1616681895:0;git stash apply
+: 1616681934:0;yarn add fuse.js
+: 1616681948:0;yarn start 
+: 1616690131:0;git push
+: 1616708829:0;yarn lint:deadcode
+: 1616741263:0;yarn lint:types
+: 1616746545:0;yarn lint:deadcode
+: 1616747266:0;yarn lint:check
+: 1616747387:0;git push
+: 1616747394:0;git co master
+: 1616747398:0;git pull
+: 1616835335:0;git co xavier/dev-618-sequence-implement-audio-step
+: 1616836209:0;git co master
+: 1617005914:0;yarn react-native run-ios --device 'iPhone de Seignard' --scheme 'Jour Local'
+: 1617005967:0;fastlane match -a com.ofhuman.jour-app.stickers,com.ofhuman.jour-app.widget
+: 1617006056:0;cd ios
+: 1617006061:0;bundle exec fastlane match development --readonly
+: 1617006073:0;..
+: 1617006085:0;yarn react-native run-ios --device 'iPhone de Seignard' --scheme 'Jour Local'
+: 1617006134:0;cd ios
+: 1617006141:0;bundle exec fastlane match -a com.ofhuman.jour-app.stickers,com.ofhuman.jour-app.widget
+: 1617006163:0;bundle exec fastlane match -a com.ofhuman.jour-app
+: 1617006187:0;..
+: 1617006190:0;yarn react-native run-ios --device 'iPhone de Seignard' --scheme 'Jour Local'
+: 1617006226:0;yarn react-native run-ios --device 'iPhone de Seignard' --scheme 'Jour Local' -allowProvisioningUpdates
+: 1617006235:0;yarn react-native run-ios --device 'iPhone de Seignard' --scheme 'Jour Local' --allowProvisioningUpdates
+: 1617007908:0;yarn build --scheme 'Jour Local'
+: 1616752786:0;git co -b xavier/dev-536-sequence-analytics-for-check-in-journeys
+: 1616754413:0;git stash
+: 1616754419:0;git co master
+: 1616754437:0;git co -b xavier/film-fix
+: 1616755066:0;yarn dev
+: 1616759740:0;git stash
+: 1616759743:0;git co master
+: 1616759746:0;git pull
+: 1616759752:0;yarn
+: 1616759779:0;git co -b xavier/film-fix
+: 1616759787:0;git stash apply
+: 1616760767:0;git push
+: 1616782069:0;git co xavier/dev-536-sequence-analytics-for-check-in-journeys
+: 1616782082:0;git sta
+: 1616782084:0;git stash apply
+: 1616836379:0;cd Downloads/MountEFI-update
+: 1616836405:0;./MountEFI.command
+: 1616836579:0;/Volumes/EFI\ 1/EFI 
+: 1616836582:0;pwd
+: 1616836595:0;/Volumes/EFI/EFI 
+: 1616836616:0;cd
+: 1616836646:0;../ProperTree-master
+: 1616836653:0;python3 ./ProperTree.command
+: 1616836662:0;./ProperTree.command
+: 1616836908:0;cd
+: 1616836911:0;cd Downloads/MountEFI-update
+: 1616836914:0;./MountEFI.command
+: 1616836962:0;./ProperTree.command
+: 1616837383:0;cd Downloads/MountEFI-update
+: 1616837387:0;./MountEFI.command
+: 1616837406:0;../
+: 1616837409:0;../ProperTree-master
+: 1616837417:0;./ProperTree-master
+: 1616837422:0;./ProperTree.command
+: 1616837788:0;cd Downloads/MountEFI-update
+: 1616837791:0;./MountEFI.command
+: 1616839049:0;cd Downloads/OCConfigCompare-master
+: 1616839055:0;./OCConfigCompare.command
+: 1616839364:0;../ProperTree-master
+: 1616839370:0;./ProperTree.command
+: 1616839881:0;cd Downloads/ProperTree-master
+: 1616839885:0;./ProperTree.command
+: 1616841574:0;/Users/bigx/Downloads/ProperTree-master/ProperTree.command ; exit;
+: 1616841786:0;./ProperTree.command
+: 1616842204:0;cd Downloads/MountEFI-update
+: 1616842207:0;./MountEFI.command
+: 1616843009:0;brew install youtube-dl\
+
+: 1616843148:0;cd Desktop
+: 1616843158:0;mkdir videos_jeanne
+: 1616843160:0;cd videos_jeanne
+: 1616843165:0;code .
+: 1616843223:0;youtube-dl -a list.txt
+: 1616912554:0;sudo killall VDCAssistant
+: 1616913860:0;/Users/bigx/repos/xps9360 
+: 1616913866:0;hub create -p
+: 1616913869:0;git init
+: 1616913870:0;hub create -p
+: 1616913992:0;brew update hub
+: 1616914002:0;brew upgrade hub
+: 1616914261:0;hub create -p
+: 1616914285:0;git add .
+: 1616914292:0;git ci
+: 1616914307:0;git push
+: 1616914476:0;echo .DS_Store > .gitignore
+: 1616914485:0;git rm .DS_Store
+: 1616914490:0;git st
+: 1616914494:0;git add .
+: 1616914497:0;git ci
+: 1616914509:0;git push
+: 1616914625:0;brew install gh
+: 1616914712:0;gh login
+: 1616914723:0;gh auth login
+: 1616914813:0;gh repo view
+: 1616914892:0;../readymade
+: 1616914895:0;code .
+: 1617002042:0;yarn dev
+: 1617002153:0;yarn start 
+: 1617002177:0;yarn
+: 1617002189:0;yarn start 
+: 1617002187:156;yarn build --scheme 'Jour Local'
+: 1617005195:0;git stash
+: 1617005225:0;git co xavier/dev-618-sequence-implement-audio-step
+: 1617005242:0;yarn
+: 1617005274:0;yarn dev
+: 1617005280:0;yarn start
+: 1617006587:0;yarn lint:check
+: 1617007945:0;yarn lint:types
+: 1617009221:0;git st
+: 1617009224:0;git push
+: 1617009575:0;yarn lint:types
+: 1617009624:0;yarn lint:check
+: 1617009794:0;git push
+: 1617082139:0;yarn dev
+: 1617082218:0;yarn start
+: 1617082227:0;yarn lint:types
+: 1617085654:0;git st
+: 1617085657:0;git push
+: 1617086010:0;git pull
+: 1617086025:0;git pull origin xavier/dev-618-sequence-implement-audio-step
+: 1617086291:0;git push
+: 1617086348:0;yarn build --scheme 'Jour Local'
+: 1617086354:0;yarn
+: 1617086372:0;cd ios && pod cache clean --all && pod install && cd -
+: 1617086402:0;pod install --repo-update
+: 1617086497:0;..
+: 1617086501:0;yarn build --scheme 'Jour Local'
+: 1617087381:0;yarn lint:types
+: 1617087415:0;yarn lint:check
+: 1617087530:0;yarn test
+: 1617087847:0;git push
+: 1617088141:0;git co master
+: 1617088144:0;git pull
+: 1617088181:0;git co -b xavier/dev-627-i18n-set-up-i18n-in-app-and-extract-ui
+: 1617088829:0;yarn add i18n react-i18next react-native-localize
+: 1617089298:0;yarn remove i18n
+: 1617089344:0;yanr add i18next
+: 1617089350:0;yarn add i18next
+: 1617099663:0;yarn lint:types
+: 1617099729:0;git push
+: 1617100185:0;npm install -g i18next-parser\
+
+: 1617100267:0;i18n app/**/*.{ts,tsx,js,jsx}
+: 1617100285:0;i18next 'app/**/*.{ts,tsx,js,jsx}'
+: 1617100706:0;yarn add -D eslint-plugin-i18next
+: 1617112331:0;i18next 'app/**/*.{ts,tsx,js,jsx}'
+: 1617113302:0;tsc -p tsconfig.i18n.json
+: 1617113730:0;tsc -p tsconfig.i18n.json app/You/index.tsx
+: 1617113739:0;tsc -p tsconfig.i18n.json
+: 1617115039:0;ts-node scripts/i18n/transformer.ts
+: 1617116209:0;yarn add -D ts-morph
+: 1617116396:0;ts-node scripts/i18n/transformer.ts
+: 1617116524:0;git stash
+: 1617116663:0;ts-node scripts/i18n/transformer.ts
+: 1617117378:0;yarn add -D prompts
+: 1617118283:0;ts-node scripts/i18n/transformer.ts
+: 1617172556:0;yarn add -D ora
+: 1617172858:0;yarn add -D ts-morph
+: 1617173310:0;yarn add -D chalk
+: 1617173788:0;ts-node scripts/i18n/transformer.ts
+: 1617178331:0;yarn add -D lodash.set
+: 1617178522:0;ts-node scripts/i18n/transformer.ts
+: 1617184092:0;yarn add -D lodash.isequal
+: 1617184140:0;ts-node scripts/i18n/transformer.ts
+: 1617189396:0;ts-node scripts/i18n/test.ts
+: 1617194691:0;ts-node scripts/i18n/transformer.ts
+: 1617197774:0;yanr add -D @types/prompts @types/lodash.set
+: 1617197786:0;yarn remove lodash.isequal
+: 1617197812:0;yarn add -D @types/prompts @types/lodash.set
+: 1617198002:0;git push
+: 1617199396:0;cd jour/jour-app
+: 1617199402:0;ts-node scripts/i18n/transformer.ts
+: 1617199636:0;ps aux | grep transformer
+: 1617199646:0;killall 29__3
+: 1617199650:0;killall 29883
+: 1617199666:0;kill -9  29883
+: 1617200116:0;clear
+: 1617200121:0;ts-node scripts/i18n/transformer.ts
+: 1617200429:0;ps aux | grep transformer
+: 1617200437:0;kill -9  30090
+: 1617200945:0;ts-node scripts/i18n/transformer.ts
+: 1617201007:0;ps aux | grep transformer
+: 1617201022:0;kill -9  30258
+: 1617201061:0;clear
+: 1617201083:0;ts-node scripts/i18n/transformer.ts
+: 1617201112:0;ps aux | grep transformer
+: 1617201118:0;kill -9  30339
+: 1617201406:0;ts-node scripts/i18n/transformer.ts
+: 1617203004:0;yarn start
+: 1617203129:0;ts-node scripts/i18n/transformer.ts
+: 1617211333:0;git push
+: 1617257039:0;clear
+: 1617257046:0;ts-node scripts/i18n/transformer.ts
+: 1617259582:0;git push
+: 1617260064:0;git pull
+: 1617260078:0;git pull origin xavier/dev-627-i18n-set-up-i18n-in-app-and-extract-ui
+: 1617260124:0;git st
+: 1617260136:0;git ci
+: 1617260144:0;git push
+: 1617260192:0;ts-node scripts/i18n/transformer.ts
+: 1617262427:0;git push
+: 1617262468:0;ts-node scripts/i18n/transformer.ts
+: 1617262992:0;git push
+: 1617263009:0;clear
+: 1617263016:0;git push
+: 1617263019:0;ts-node scripts/i18n/transformer.ts
+: 1617264223:0;clear
+: 1617264226:0;git push
+: 1617264231:0;ts-node scripts/i18n/transformer.ts
+: 1617265208:0;ps aux | grep transformer
+: 1617265217:0;kill -9 39984
+: 1617266540:0;ts-node scripts/i18n/transformer.ts
+: 1617271751:0;node scripts/i18n/testfs.js
+: 1617278576:0;yarn test
+: 1617278762:0;yarn jest app/Breakthrough/helpers.test.ts
+: 1617279269:0;yarn add -D lodash.get
+: 1617279329:0;yarn add -D @types/lodash.get
+: 1617279367:0;yarn jest app/Breakthrough/helpers.test.ts
+: 1617280996:0;yarn tes
+: 1617280998:0;yarn test
+: 1617281169:0;yarn jest app/Auth/components/AuthStep/helpers.test.ts
+: 1617281190:0;yarn lint:types
+: 1617281277:0;yarn lint:check
+: 1617281522:0;git push
+: 1617282197:0;ts-node scripts/i18n/transformer.ts
+: 1617283151:0;yarn start
+: 1617289237:0;ts-node scripts/i18n/transformer.ts
+: 1617344581:0;git push
+: 1617344623:0;git pull origin xavier/dev-627-i18n-set-up-i18n-in-app-and-extract-ui
+: 1617344720:0;yarn && cd ios && pod install && cd - && yarn build --scheme 'Jour Local'
+: 1617344952:0;pod install
+: 1617346701:0;git co master
+: 1617346703:0;git pull
+: 1617346713:0;..
+: 1617346775:0;git pull
+: 1617346784:0;git co -b xavier/dev-634-remove-alice-face-from-stories
+: 1617347743:0;git push
+: 1617347823:0;git co master
+: 1617347828:0;git co -b xavier/dev-646-your-selection-card-justice
+: 1617349728:0;git st
+: 1617349776:0;git push
+: 1617349846:0;git co master
+: 1617349859:0;git co -b xavier/dev-646-your-selection-card-justice
+: 1617350157:0;git st
+: 1617350782:0;git co -b xavier/dev-645-user-feedback-injustice-icon-is-too
+: 1617350787:0;git stash apply
+: 1617350812:0;git st
+: 1617350814:0;git push
+: 1617351102:0;git co xavier/dev-627-i18n-set-up-i18n-in-app-and-extract-ui
+: 1617351989:0;git push
+: 1617352519:0;git st
+: 1617352522:0;git push
+: 1617357634:0;git co master
+: 1617357653:0;git pull
+: 1617357850:0;git co -b xavier/dev-668-i18n-entries
+: 1617357881:0;clear
+: 1617357891:0;ts-node scripts/i18n/transformer.ts
+: 1617368355:0;git push
+: 1617369096:0;git co master
+: 1617369125:0;git co -b xavier/fix-family-and-friends-activity-icon
+: 1617369430:0;git push
+: 1617370058:0;git co master
+: 1617370064:0;git pull
+: 1617370316:0;yarn
+: 1617370338:0;yarn start
+: 1617370516:0;git co -b xavier/dev-669-i18n-errorboundary
+: 1617370529:0;clear
+: 1617370532:0;ts-node scripts/i18n/transformer.ts
+: 1617371249:0;git push
+: 1617371582:0;git st
+: 1617371585:0;git co master
+: 1617371588:0;git pull
+: 1617371604:0;git co -b xavier/dev-670-i18n-explore
+: 1617371617:0;clear
+: 1617371619:0;ts-node scripts/i18n/transformer.ts
+: 1617377757:0;git push
+: 1617688192:0;git st
+: 1617688492:0;git co master
+: 1617688497:0;git pull
+: 1617688520:0;git co -b xavier/dev-674-i18n-home
+: 1617688551:0;clear
+: 1617688570:0;ts-node scripts/i18n/transformer.ts
+: 1617692934:0;yarn jest app/Home/helpers.test.ts
+: 1617700875:0;git stash
+: 1617713462:0;git push
+: 1617718349:0;git st
+: 1617718351:0;git push
+: 1617718369:0;git co xavier/dev-668-i18n-entries
+: 1617718557:0;yarn && cd ios && pod install && cd - && yarn build --scheme 'Jour Local'
+: 1617718707:0;yarn start
+: 1617718976:0;git push
+: 1617719397:0;git co xavier/dev-674-i18n-home
+: 1617719507:0;yarn start
+: 1617719585:0;yarn && cd ios && pod install && cd - && yarn build --scheme 'Jour Local'
+: 1617720889:0;git push
+: 1617720978:0;yarn test
+: 1617721830:0;git co master
+: 1617721833:0;git pul
+: 1617721834:0;git pull
+: 1617721846:0;yarn && cd ios && pod install && cd - && yarn build --scheme 'Jour Local'
+: 1617722304:0;git co xavier/dev-668-i18n-entries
+: 1617722343:0;yarn jest app/Entries/components/helpers.test.ts
+: 1617726375:0;yarn test
+: 1617726571:0;yarn jest app/Entries/components/helpers.test.ts
+: 1617726812:0;yarn test
+: 1617726856:0;git push
+: 1617726863:0;git pull
+: 1617726875:0;git pull origin xavier/dev-668-i18n-entries
+: 1617726892:0;git push
+: 1617776857:0;git st
+: 1617776905:0;git co xavier/dev-670-i18n-explore
+: 1617784731:0;yarn start
+: 1617784744:0;yarn jest app/Explore/helpers.test.ts
+: 1617785855:0;yarn dev
+: 1617785952:0;git co master
+: 1617785957:0;git pull
+: 1617785962:0;yarn
+: 1617786003:0;yarn db:generate-client
+: 1617786020:0;yarn db:up
+: 1617786036:0;brew services restart postgresql
+: 1617786048:0;yarn db:up
+: 1617786081:0;brew services stop postgresql
+: 1617786091:0;brew services start postgresql
+: 1617786204:0;yarn db:setup
+: 1617786229:0;yarn dev
+: 1617786383:0;more /usr/local/var/postgres/postmaster.pid
+: 1617786401:0;rm -f /usr/local/var/postgres/postmaster.pid
+: 1617786404:0;yarn dev
+: 1617786741:0;git push
+: 1617787316:0;git co -b xavier/more-filming-cases
+: 1617787657:0;git push
+: 1617788037:0;git co master
+: 1617788187:0;git co xavier/dev-670-i18n-explore
+: 1617789522:0;yarn jest app/Explore/helpers.test.ts
+: 1617791798:0;git push
+: 1617792329:0;git pull
+: 1617792343:0;git pull origin xavier/dev-670-i18n-explore
+: 1617792354:0;yarn jest app/Explore/helpers.test.ts
+: 1617792666:0;git co xavier/dev-674-i18n-home
+: 1617801331:0;yarn jest app/Home/helpers.test.ts
+: 1617801998:0;yarn jest app/Home/constants.test.ts
+: 1617802068:0;git push
+: 1617802075:0;git co xavier/dev-670-i18n-explore
+: 1617802225:0;yarn
+: 1617802243:0;yarn start
+: 1617802340:0;yarn jest app/Explore/helpers.test.ts
+: 1617802363:0;git push
+: 1617802452:0;yarn jest app/Explore/helpers.test.ts
+: 1617802472:0;git push
+: 1617804142:0;git co xavier/dev-674-i18n-home
+: 1617810725:0;git push
+: 1617811509:0;git co xavier/dev-670-i18n-explore
+: 1617812152:0;yarn jest app/Explore/helpers.test.ts
+: 1617815893:0;git push
+: 1617865203:0;yarn ts-node
+: 1617867769:0;git st
+: 1617867772:0;git push
+: 1617867778:0;git co xavier/dev-674-i18n-home
+: 1617870100:0;git push
+: 1617871248:0;git co master
+: 1617871253:0;git pull
+: 1617871260:0;yarn && cd ios && pod install && cd - && yarn build --scheme 'Jour Local'
+: 1617871479:0;brew upgrade --cask flipper
+: 1617871870:0;git co -b xavier/flipper-reactotron
+: 1617871896:0;yarn add -D reactotron-react-native
+: 1617872287:0;yarn add -D reactotron-redux
+: 1617872381:0;yarn add -D reactotron-redux-saga
+: 1617874637:0;yarn start
+: 1617874642:0;yarn && cd ios && pod install && cd - && yarn build --scheme 'Jour Local'
+: 1617874883:0;pod install --repo-update
+: 1617874957:0;..
+: 1617874965:0;yarn build --scheme 'Jour Local'
+: 1617875305:0;yarn add -D react-native-flipper
+: 1617875362:0;yarn start
+: 1617875431:0;yarn && cd ios && pod install && cd - && yarn build --scheme 'Jour Local'
+: 1617876946:0;git co master
+: 1617876954:0;git stash
+: 1617877018:0;yarn add -D @welldone-software/why-did-you-render\
+
+: 1617877037:0;git stash
+: 1617877049:0;git co -b xavier/wdyr
+: 1617877053:0;git stash apply
+: 1617877738:0;yarn && cd ios && pod install && cd - && yarn build --scheme 'Jour Local'
+: 1617878288:0;yarn start
+: 1617878329:0;yarn && cd ios && pod install && cd - && yarn build --scheme 'Jour Local'
+: 1617879943:0;pwd
+: 1617879952:0;cd 
+: 1617879957:0;cd .flipper/installed-plugins
+: 1617879958:0;l
+: 1617879961:0;..
+: 1617879995:0;l
+: 1617880001:0;code config.json
+: 1617880117:0;yarn watch
+: 1617880135:0;cd .flipper/installed-plugins
+: 1617880137:0;l
+: 1617880154:0;cd ~/.flipper/installed-plugins
+: 1617880155:0;l
+: 1617880160:0;l flipper-plugin-console-log
+: 1617880280:0;cd -
+: 1617880288:0;yarn add console-feed\
+
+: 1617882624:0;yarn
+: 1617883778:0;yarn watch
+: 1617883807:0;yarn dev
+: 1617883850:0;yarn start
+: 1617887439:0;yarn
+: 1617887490:0;yarn watch
+: 1617887595:0;yarn
+: 1617887629:0;yarn watch
+: 1617887888:3;git push
+: 1617887903:0;git co master
+: 1617888012:0;git co -b xavier/dev-656-home-card
+: 1617888018:0;git co master
+: 1617888027:0;git branch -D xavier/dev-656-home-card
+: 1617888031:0;git pull
+: 1617888056:0;git co -b xavier/dev-656-home-card
+: 1617889820:0;yarn add i18next-intervalplural-postprocessor
+: 1617893044:0;yarn remove i18next-intervalplural-postprocessor
+: 1617897116:0;yarn start
+: 1617953636:0;git push
+: 1617954175:0;git co master
+: 1617954193:0;git co -b xavier/dev-659-welcome-modal
+: 1617954758:0;git co master
+: 1617954767:0;git branch -D xavier/dev-659-welcome-modal
+: 1617956568:0;git co xavier/dev-656-home-card
+: 1617956755:0;git push
+: 1617956803:0;git co master
+: 1617956804:0;git pull
+: 1617956830:0;git co -b xavier/dev-659-welcome-modal
+: 1617962197:0;git push
+: 1617972248:0;git co master
+: 1617972252:0;git pull
+: 1617972280:0;git co -b xavier/dev-660-new-message-modal
+: 1617973671:0;git stash
+: 1617973675:0;git co master
+: 1617973685:0;git co -b xavier/dev-684-new-illustrations-for-in-app-articles
+: 1617974544:0;rename --dry-run 's/photo-1-ipad/card-iphone-ipad/' **/*png
+: 1617974610:0;l
+: 1617975036:0;rm ./**/photo-1-ihone**.png
+: 1617975045:0;rm ./**/photo-1-iphone**.png
+: 1617975059:0;rename --dry-run 's/photo-1-ipad/card-iphone-ipad/' **/*png
+: 1617975082:0;rename 's/photo-1-ipad/card-iphone-ipad/' **/*png
+: 1620658047:0;git st
+: 1620658049:0;git push
+: 1617983374:0;rm ./** card-iphone-ipad@2x.png card-iphone-ipad.png
+: 1617983402:0;rm ./**/card-iphone-ipad@2x.png
+: 1617983406:0;rm ./**/card-iphone-ipad.png
+: 1617983427:0;rename 's/card-iphone-ipad\@3x/photo-1/' **/*png
+: 1617984732:0;git push
+: 1618159135:0;ssh root@159.89.20.86
+: 1618159225:0;gorepo
+: 1618159231:0;mkdir test
+: 1618159234:0;cd test
+: 1618159262:0;ssh dokku@159.89.20.86
+: 1618159327:0;git remote add dokku dokku@dokku.drangies.fr:test
+: 1618159334:0;git init
+: 1618159336:0;git remote add dokku dokku@dokku.drangies.fr:test
+: 1618159414:0;npm init
+: 1618159429:0;npm i express
+: 1618159483:0;code .
+: 1618159633:0;git push dokku master
+: 1618159645:0;git push dokku
+: 1618159702:0;git remote add dokku dokku@dokku.drangies.fr:test
+: 1618159705:0;git push dokku
+: 1618159731:0;git add .
+: 1618159733:0;git ci
+: 1618159749:0;git push dokku master
+: 1618159901:0;git add .
+: 1618159904:0;git ci
+: 1618159916:0;git push
+: 1618159918:0;git push dokku master
+: 1618208068:0;git co master
+: 1618208074:0;git pull
+: 1618208092:0;yarn db:up
+: 1618208110:0;yarn dev
+: 1618208195:0;yarn db:generate-client
+: 1618208248:0;yarn dev
+: 1618208580:0;yarn seed:fake-friends-and-nudges
+: 1618208626:0;git co master
+: 1618208635:0;git co -b xavier/dev-660-new-message-modal
+: 1618208655:0;git co xavier/dev-660-new-message-modal
+: 1618208672:0;git stash apply
+: 1618208702:0;clear
+: 1618208706:0;yarn start
+: 1618209375:0;git stash
+: 1618209385:0;git co xavier/dev-659-welcome-modal
+: 1618209770:0;git push
+: 1618209780:0;git co xavier/dev-660-new-message-modal
+: 1618209821:0;git stash apply
+: 1618213506:0;yarn jest app/CloseFriends/helpers.test.ts
+: 1618222632:0;git push
+: 1618222883:0;git co master
+: 1618222886:0;git pull
+: 1618222896:0;git co -b xavier/dev-663-force-nickname
+: 1618223031:0;git co master
+: 1618223034:0;git co -b xavier/dev-658-send-logic
+: 1618223283:0;git co xavier/dev-660-new-message-modal
+: 1618227917:0;git push
+: 1618231069:0;yarn start
+: 1618233588:0;yarn start --reset-cache
+: 1618234154:0;yarn jest app/CloseFriends/helpers.test.ts
+: 1618234195:0;git push
+: 1618235777:0;git pull
+: 1618235797:0;git pull origin xavier/dev-660-new-message-modal
+: 1618236754:0;git push
+: 1618237482:0;yarn start --reset-cache
+: 1618242700:0;git push
+: 1618248302:0;npm install -g @sanity/cli\
+\
+
+: 1618248336:0;gorepo
+: 1618248339:0;mkdir jeanne
+: 1618248343:0;cd jeanne
+: 1618248347:0;sanity init
+: 1618248534:0;sanity start\
+\
+
+: 1618248606:0;gorepo
+: 1618248608:0;cd jeanne
+: 1618248609:0;code .
+: 1618295106:0;git co master
+: 1618295121:0;git pull
+: 1618296054:0;git stash
+: 1618296076:0;git branch -D  xavier/dev-663-force-nickname
+: 1618296086:0;git co -b xavier/dev-663-force-nickname
+: 1618296091:0;git stash apply
+: 1618296434:0;yarn start
+: 1618300110:0;xcrun simctl openurl booted jour://You
+: 1618300222:0;xcrun simctl openurl booted jour://entries
+: 1618300250:0;xcrun simctl openurl booted jour://Entries
+: 1618300817:0;xcrun simctl openurl booted jour://entries
+: 1618300847:0;xcrun simctl openurl booted https://jour.com/entries
+: 1618300909:0;xcrun simctl openurl booted jourapp://entries
+: 1618306459:0;xcrun simctl openurl booted jourapp://forgot
+: 1618306479:0;xcrun simctl openurl booted jourapp://password
+: 1618317826:0;yarn dev
+: 1618317938:0;yanr start
+: 1618317942:0;yarn start
+: 1618376320:0;git st
+: 1618376325:0;git co master
+: 1618376328:0;git pull
+: 1618376341:0;git co xavier/dev-663-force-nickname
+: 1618376344:0;git merge master
+: 1618376732:0;git st
+: 1618380070:0;git push
+: 1618383310:0;git co -b xavier/dev-658-send-logic
+: 1618383322:0;git branch -D  xavier/dev-658-send-logic
+: 1618383328:0;git co master
+: 1618383367:0;git pull
+: 1618383380:0;git co -b xavier/dev-658-send-logic
+: 1618407952:0;yarn start
+: 1618408055:0;yarn start --reset-cache
+: 1618408648:0;git push
+: 1618408854:0;git st
+: 1618408857:0;git stash
+: 1618408868:0;git co -b xavier/dev-658-send-logic
+: 1618408874:0;git stash apply
+: 1618408910:0;git push
+: 1618409056:0;git co xavier/dev-663-force-nickname
+: 1618409738:0;git push
+: 1618409872:0;git co xavier/dev-658-send-logic
+: 1618409900:0;git push
+: 1618411322:0;git co master
+: 1618411329:0;git pull
+: 1618411352:0;git co xavier/dev-658-send-logic
+: 1618411355:0;git merge master
+: 1618411640:0;git st
+: 1618411667:0;yarn start
+: 1618411825:0;git push
+: 1618412362:0;git st
+: 1618412409:0;git push
+: 1618412710:0;yarn test:file routes/nudge.test.ts
+: 1618412757:0;yarn db:setup
+: 1618412770:0;yarn db:up
+: 1618412782:0;yarn test:file routes/nudge.test.ts
+: 1618412914:0;git push
+: 1618412986:0;yarn db:generate-client
+: 1618412994:0;yarn test:file routes/nudge.test.ts
+: 1618413066:0;NODE_ENV=test yarn db:up
+: 1618413075:0;yarn test:file routes/nudge.test.ts
+: 1618413259:0;yarn test:file routes/friendship.t
+: 1618413262:0;yarn test:file routes/friendship.test.ts
+: 1618413314:0;yarn test
+: 1618413488:0;git push
+: 1618470296:0;git co master
+: 1618471318:0;git pull
+: 1618471623:0;yarn
+: 1618471673:0;git co -b xavier/dev-667-limit-number-of-message-you-can-send-per
+: 1618471899:0;git co master
+: 1618471901:0;git pull
+: 1618471920:0;git co -b xavier/dev-667-limit-number-of-message-you-can-send-per
+: 1618478015:0;git push
+: 1618478774:0;yarn test:file routes/nudge.test.ts
+: 1618479320:0;git st
+: 1618479324:0;git push
+: 1618480160:0;git co master
+: 1618480167:0;git co -b xavier/dev-661-in-app-invite-logic
+: 1618491609:0;xcrun simctl openurl booted jourapp://invite-close-friend
+: 1618491937:0;xcrun simctl openurl booted jourapp://invite-close-friend/test
+: 1618493519:0;yarn start
+: 1618493561:0;xcrun simctl openurl booted jourapp://invite-close-friend/test
+: 1618493582:0;yarn start --reset-cache
+: 1618493592:0;xcrun simctl openurl booted jourapp://invite-close-friend/test
+: 1618498475:0;xcrun simctl openurl booted jourapp://close-friend/test
+: 1618498870:0;git push
+: 1618502155:0;xcrun simctl openurl booted https://jour.com/close-friend/test
+: 1618502351:0;xcrun simctl openurl booted https://staging.jour.com/close-friends/foobar
+: 1618502799:0;xcrun simctl openurl booted jourapp://close-friends/test
+: 1618505941:0;xcrun simctl openurl booted jourapp://close-friends?friendId=test&nickname=Xavier
+: 1618505960:0;xcrun simctl openurl booted 'jourapp://close-friends?friendId=test&nickname=Xavier'
+: 1618506507:0;xcrun simctl openurl booted 'jourapp://close-friends?friendId=test&nickname=Xavier2'
+: 1618506520:0;xcrun simctl openurl booted 'jourapp://close-friends?friendId=test2&nickname=Xavier2'
+: 1618507146:0;xcrun simctl openurl booted 'jourapp://close-friends?friendId=ckm1t2deu11690ogu4oekdxoex&nickname=TestXav'
+: 1618507581:0;git push
+: 1618554859:0;xcrun simctl openurl booted 'jourapp://close-friends?friendId=test&nickname=Xavier2'
+: 1618554908:0;xcrun simctl openurl booted 'jourapp://close-friends?friendId=ckmakl7ps00082cwe9tr1poro'
+: 1618554926:0;xcrun simctl openurl booted 'jourapp://close-friends?friendId=ckmakl7ps00082cwe9tr1poro&nickname=Test'
+: 1618559088:0;xcrun simctl openurl booted 'jourapp://close-friends?friendId=ckmakl7ps00082cwe9tr1poro&nickname=Test2'
+: 1618559115:0;xcrun simctl openurl booted 'jourapp://close-friends?friendId=ckm60siab000078u4bmucznna&nickname=Test2'
+: 1618559740:0;git stash
+: 1618559743:0;git co master
+: 1618559745:0;git pull
+: 1618559784:0;git co -b xavier/dev-661-sorted-friends
+: 1618559789:0;git stash apply
+: 1618559815:0;yarn test:file services/friendships/index.test.ts
+: 1618560573:0;yarn test:file routes/friendship.test.ts
+: 1618560628:0;git push
+: 1618560744:0;xcrun simctl openurl booted 'jourapp://close-friends?friendId=ckm60siab000078u4bmucznna&nickname=Test2'
+: 1618560753:0;xcrun simctl openurl booted 'jourapp://close-friends?friendId=ckm60siab000078u4bmucznna&nickname=Alice'
+: 1618560881:0;git push
+: 1618560888:0;git pull
+: 1618560897:0;git push
+: 1618560915:0;git pull origin xavier/dev-661-in-app-invite-logic
+: 1618561018:0;xcrun simctl openurl booted 'jourapp://close-friends?friendId=ckm60siab000078u4bmucznna&nickname=Alice'
+: 1618561036:0;git push
+: 1618562328:0;xcrun simctl openurl booted staging.jour.com/close-friends?friendId=test&nickname=gnegne
+: 1618562353:0;xcrun simctl openurl booted https://staging.jour.com/close-friends?friendId=test&nickname=gnegne
+: 1618562398:0;xcrun simctl openurl booted 'https://staging.jour.com/close-friends\?friendId\=test\&nickname\=gnegne'
+: 1618562417:0;xcrun simctl openurl booted 'https://staging.jour.com/close-friends?friendId=test&nickname=gnegne'
+: 1618569011:0;git stash
+: 1618817795:0;yarn dev
+: 1618817860:0;git stash
+: 1618817866:0;git pull
+: 1618817871:0;git pull origin xavier/dev-661-in-app-invite-logic
+: 1618818770:0;git push
+: 1618818944:0;yarn start
+: 1618819766:0;brew install --cask dbeaver-community
+: 1618819820:0;brew upgrade --cask dbeaver-community
+: 1618820235:0;xcrun simctl openurl booted jourapp://close-friends/ckmakl7ps00082cwe9tr1poro
+: 1618846715:0;git push
+: 1618847733:0;yarn test
+: 1618849495:0;git push
+: 1618849585:0;yarn test:file services/friendships/index.test.ts
+: 1618849666:0;git push
+: 1618850762:0;git co -b xavier/dev-712-close-friends-animate-new-nudge-modal
+: 1618850772:0;git co master
+: 1618850779:0;git branch -D xavier/dev-712-close-friends-animate-new-nudge-modal
+: 1618850784:0;git pull
+: 1618850793:0;git co -b xavier/dev-712-close-friends-animate-new-nudge-modal
+: 1618850799:0;git stash apply
+: 1618851179:0;git co master
+: 1618851215:0;git stash apply
+: 1618895274:0;git co master
+: 1618895278:0;git branch -D xavier/dev-712-close-friends-animate-new-nudge-modal
+: 1618895284:0;git pull
+: 1618895294:0;git co -b xavier/dev-712-close-friends-animate-new-nudge-modal
+: 1618895679:0;git stash apply
+: 1618903519:0;git push
+: 1618905875:0;git co master
+: 1618905921:0;git co -b xavier/dev-716-close-friends-open-modal-when-user-taps
+: 1618907320:0;git push
+: 1618907583:0;git co master
+: 1618907592:0;git co -b xavier/dev-707-close-friends-analytics
+: 1618912070:0;git stash
+: 1618912073:0;git co master
+: 1618912082:0;git co -b xavier/dev-707-close-friends-analytics
+: 1618912090:0;git stash ap
+: 1618912092:0;git stash apply
+: 1618925474:0;git push
+: 1618927037:0;git co master
+: 1618927040:0;git pull
+: 1618927052:0;git co xavier/dev-707-close-friends-analytics
+: 1618927055:0;git merge master
+: 1618927862:0;git st
+: 1618928092:0;yarn start
+: 1618930206:0;git push
+: 1618982335:0;gorepo
+: 1618982347:0;mkdir alan-questions
+: 1618982349:0;cd alan-questions
+: 1618982352:0;code .
+: 1618982976:0;git cz
+: 1618982991:0;gh
+: 1618983002:0;gh repo
+: 1618983031:0;gh repo create --help
+: 1618998356:0;git pull
+: 1618998392:0;npm run dev
+: 1618999196:0;git push
+: 1619001125:0;..
+: 1619001132:0;mkdir testRemotion
+: 1619001135:0;cd testRemotion
+: 1619001136:0;yarn create video
+: 1619001197:0;brew install ffmpeg
+: 1619001203:0;cd my-video
+: 1619001207:0;code .
+: 1619001292:0;yarn start
+: 1619005391:0;xcode-select --install
+: 1619011583:0;git pull
+: 1619011856:0;git add .
+: 1619011860:0;git ci 
+: 1619011885:0;git push
+: 1619011913:0;npm run dev
+: 1619012287:0;git push
+: 1619012294:0;git pull
+: 1619012304:0;git push
+: 1619012346:0;npm run dev
+: 1619013441:0;git co xavier/dev-712-close-friends-animate-new-nudge-modal
+: 1619013446:0;git co master
+: 1619013448:0;git pull
+: 1619013457:0;git co xavier/dev-712-close-friends-animate-new-nudge-modal
+: 1619013461:0;git merge master
+: 1619013664:0;git st
+: 1619013666:0;git push
+: 1619020691:0;git co master
+: 1619020694:0;git pull
+: 1619020705:0;git co -b xavier/dev-727-close-friends-uiux-issues-reported
+: 1619072970:0;gh repo create --help
+: 1619072984:0;git init
+: 1619072988:0;echo .DS_Store > .gitignore
+: 1619073001:0;git cz
+: 1619073011:0;git add .
+: 1619073013:0;git cz
+: 1619073132:0;npx cz
+: 1619073199:0;commitizen init cz-conventional-changelog --yarn --dev --exact\
+
+: 1619073224:0;echo node_modules >> .gitignore
+: 1619073252:0;git cz
+: 1619073297:0;git st
+: 1619073365:0;git cz
+: 1619073415:0;git add ?
+: 1619073418:0;git add .
+: 1619073420:0;git cz
+: 1619073483:0;gh repo create --help
+: 1619073511:0;gh repo create --private
+: 1619073572:0;git branch -m master main
+: 1619073577:0;git st
+: 1619073590:0;git push -u origin main
+: 1619073603:0;git push origin --delete master
+: 1619073885:0;git add .
+: 1619073888:0;git cz
+: 1619073920:0;git push
+: 1619074077:0;git add 
+: 1619074079:0;git add ?
+: 1619074081:0;git add .
+: 1619074083:0;git cz
+: 1619074116:0;git push
+: 1619085683:0;git stash
+: 1619085687:0;git co master
+: 1619085690:0;git pull
+: 1619085699:0;git co -b xavier/dev-729-close-friends-open-sharing-modal-once
+: 1619085707:0;git stash apply
+: 1619085770:0;git push
+: 1619096871:0;yarn dev
+: 1619097030:0;yarn start
+: 1619097926:0;git co master
+: 1619097939:0;git co -b xavier/dev-728-close-friends-dont-show-the-next-new
+: 1619099379:0;ts-node scripts/jour/nudges.ts
+: 1619105770:0;git st
+: 1619105778:0;git co master
+: 1619105787:0;git co xavier/dev-727-close-friends-uiux-issues-reported
+: 1619118221:0;yarn add @gorhom/bottom-sheet
+: 1619121302:0;git st
+: 1619121320:0;git stash
+: 1619121323:0;git push
+: 1619121333:0;git stash aplly
+: 1619121336:0;git stash apply
+: 1619166487:0;git stash
+: 1619166546:0;git co -b xavier/dev-727-new-bottom-sheet
+: 1619166596:0;git stash apply
+: 1619166649:0;git push
+: 1619167769:0;git co xavier/dev-727-close-friends-uiux-issues-reported
+: 1619167909:0;git push
+: 1619172725:0;git co xavier/dev-727-new-bottom-sheet
+: 1619172886:0;git pull origin xavier/dev-727-new-bottom-sheet
+: 1619173021:0;git push
+: 1619173065:0;git co master
+: 1619173067:0;git pull
+: 1619173415:0;git co matthias/dev-728-close-friends-after-replying-carry-on
+: 1619173419:0;git merge master
+: 1619175499:0;yarn start
+: 1619177645:0;git st
+: 1619178650:0;git push
+: 1619180730:0;git co master
+: 1619180735:0;git pull
+: 1619180767:0;git co -b xavier/close-friends-pull-to-refresh
+: 1619181982:0;git push
+: 1619182379:0;git co master
+: 1619182381:0;git pull
+: 1619182407:0;git co -b xavier/close-friends-cannot-close-after-accepting-invite
+: 1619182627:0;xcrun simctl openurl booted jourapp://close-friends/cklw11wky9618ogu4qcy4ewm3
+: 1619183581:0;git st
+: 1619183585:0;git push
+: 1619184961:0;git co master
+: 1619184966:0;git pull
+: 1619185002:0;git co -b xavier/close-friends-sort-jour-team-last
+: 1619185201:0;ts-node scripts/jourTeamFriendshipBackfill.ts
+: 1619185230:0;DRY_RUN=false ts-node scripts/jourTeamFriendshipBackfill.ts
+: 1619185272:0;yarn seed:jour-team-user
+: 1619185279:0;DRY_RUN=false ts-node scripts/jourTeamFriendshipBackfill.ts
+: 1619185302:0;yarn dev
+: 1619185777:0;yarn test:file services/friendships/index.test.ts
+: 1619185838:0;yarn test:file routes/friendship.test.ts
+: 1619186063:0;git push
+: 1619186175:0;git co xavier/close-friends-pull-to-refresh
+: 1619186341:0;git push
+: 1619187331:0;git co master
+: 1619187334:0;git pull
+: 1619187359:0;git co xavier/dev-707-close-friends-analytics
+: 1619187363:0;git merge master
+: 1619188750:0;git st
+: 1619188814:0;yarn start
+: 1619188991:0;git push
+: 1619194296:0;git co master
+: 1619194303:0;git pull
+: 1619194339:0;git co xavier/dev-707-close-friends-analytics
+: 1619194342:0;git merge master
+: 1619194941:0;yarn start
+: 1619194974:0;git st
+: 1619195377:0;git push
+: 1619261875:0;
+: 1619259754:0;cd Downloads/MountEFI-update
+: 1619259757:0;./MountEFI.command
+: 1619261827:0;cd ../ProperTree-master
+: 1619261831:0;./ProperTree.command
+: 1619261837:0;python3 ./ProperTree.command
+: 1619261850:0;l
+: 1619261856:0;ProperTree.app
+: 1619261859:0;..
+: 1619261875:0;/Users/bigx/Downloads/ProperTree-master/ProperTree.command ; exit;
+: 1619261930:0;brew install python-tk@3.9
+: 1619262019:0;python3 ./ProperTree.command
+: 1619265340:0;cd Downloads/MountEFI-update
+: 1619265342:0;./MountEFI.command
+: 1619267302:0;cd Downloads/MountEFI-update
+: 1619267304:0;./MountEFI.command
+: 1619268640:0;cd Downloads/MountEFI-update
+: 1619268642:0;./MountEFI.command
+: 1619269232:0;cd Downloads/MountEFI-update
+: 1619269233:0;./MountEFI.command
+: 1619332725:0;cd Downloads/MountEFI-update
+: 1619332728:0;./MountEFI.command
+: 1619333176:0;rm OC/.DS_Store
+: 1619333193:0;cd OC/ACPI/
+: 1619333194:0;l
+: 1619333204:0;..
+: 1619333223:0;find . .DS_Store
+: 1619333240:0;man find
+: 1619333308:0;find . -name .DS_Store
+: 1619333325:0;rm ./.DS_Store
+: 1619333337:0;l
+: 1619333348:0;l OC/ACPI
+: 1619333364:0;rm ./OC/ACPI/.DS_Store
+: 1619333366:0;l OC/ACPI
+: 1619333378:0;rm ./OC/Kexts/.DS_Store
+: 1619333384:0;l OC/Kexts
+: 1619333419:0;git stash
+: 1619333469:0;git tag OC-0.6.7
+: 1619333472:0;git tags
+: 1619333474:0;git tag
+: 1619333485:0;git push --tag
+: 1619333509:0;git stash apply
+: 1619333571:0;git push
+: 1619348355:0;cd Downloads/MountEFI-update
+: 1619348358:0;./MountEFI.command
+: 1619348993:0;cd Downloads/MountEFI-update
+: 1619348995:0;./MountEFI.command
+: 1619349398:0;cd Downloads/MountEFI-update
+: 1619349399:0;./MountEFI.command
+: 1619350263:0;cd Downloads/MountEFI-update
+: 1619350265:0;./MountEFI.command
+: 1619350366:0;git st
+: 1619350370:0;git push
+: 1619369558:0;gorepo
+: 1619369562:0;mkdir trrrtrt
+: 1619369565:0;cd trrrtrt
+: 1619369571:0;yarn create next-app
+: 1619369585:0;..
+: 1619369591:0;rm -rf trrrtrt
+: 1619369596:0;yarn create next-app
+: 1619369632:0;cd jlp
+: 1619369637:0;code .
+: 1619369709:0;yarn dev
+: 1619418872:0;git co master
+: 1619418876:0;git pull
+: 1619418889:0;yarn dev
+: 1619418921:0;git co master
+: 1619418923:0;git pull
+: 1619418957:0;yarn && cd ios && pod install && cd - && yarn build --scheme 'Jour Local'
+: 1619418961:0;yarn start
+: 1619420249:0;git co -b xavier/dev-733-stories-interaction-uxui
+: 1619422862:0;yarn build --scheme 'Jour Local'
+: 1619525926:0;git st
+: 1619525966:0;git co -b xavier/new-fake-breakthroughs
+: 1619526991:0;git push
+: 1619622993:0;git stash
+: 1619622998:0;git st
+: 1619623006:0;git push
+: 1619624609:0;git pull origin xavier/dev-733-stories-interaction-uxui
+: 1619624649:0;yarn && cd ios && pod install && cd - && yarn build --scheme 'Jour Local'
+: 1619624656:0;yarn start
+: 1619626095:1;git co master
+: 1619626098:0;git pull
+: 1619626119:0;git co -b xavier/dev-749-stories-plug-sequence-in
+: 1619626165:0;git stash apply
+: 1619677825:0;git push
+: 1619959939:0;yarn add graphql-request
+: 1619960183:0;yarn dev
+: 1619960199:0;yarn add --dev typescript @types/react
+: 1619960316:0;yarn dev
+: 1619960464:0;yarn add --dev eslint @typescript-eslint/parser  @typescript-eslint/eslint-plugin eslint-plugin-react eslint-plugin-react-hooks eslint-plugin-jsx-a11y
+: 1619960605:0;yarn add --dev prettier eslint-plugin-prettier eslint-config-prettier\
+
+: 1619960692:0;code ~/.prettierrc
+: 1619961565:0;yarn add --dev eslint-plugin-simple-import-sort
+: 1619962547:0;yarn add graphql-request
+: 1619962556:0;yarn dev
+: 1619962635:0;yarn add graphql
+: 1619962639:0;yarn dev
+: 1619963313:0;yarn add react-datocms
+: 1619965301:0;yarn dev
+: 1619965442:0;yarn add --dev postcss autoprefixer tailwind
+: 1619965561:0;yarn dev
+: 1619965592:0;yarn add --dev postcss autoprefixer tailwindcss
+: 1619965605:0;yarn dev
+: 1619976830:0;diskutil list external\
+
+: 1619976863:0;diskutil verifyVolume disk2
+: 1619977128:0;diskutil verifyVolume disk2s2
+: 1619977872:0;diskutil mount /dev/disk2s2
+: 1619977945:0;diskutil verifyVolume disk2
+: 1619977948:0;diskutil verifyVolume disk2s2
+: 1619979877:0;diskutil list external\
+
+: 1619979880:0;diskutil mount /dev/disk2s2
+: 1619982300:0;yarn add --dev @graphql-codegen/cli @graphql-codegen/typescript @graphql-codegen/typescript-operations
+: 1619982399:0;yarn dato:codegen
+: 1620216114:0;cd packages/app/android
+: 1620216210:0;./gradlew clean assembleRelease
+: 1620216539:0;cd
+: 1620216547:0;cd repos/readymade
+: 1620216561:0;npm i
+: 1620216878:0;cd packages/app/android
+: 1620216881:0;./gradlew clean assembleRelease
+: 1620233325:0;cd fastlane
+: 1620233337:0;fastlane match
+: 1620233604:0;bundle exec fastlane match
+: 1620233608:0;fastlane match
+: 1620233806:0;..
+: 1620233822:0;fastlane deploy version:patch
+: 1620373214:0;git push
+: 1620379225:0;git co master
+: 1620379231:0;git pull
+: 1620379280:0;yarn start
+: 1620379289:0;yarn && cd ios && pod install && cd - && yarn build --scheme 'Jour Local'
+: 1620379496:0;pod install --repo-update
+: 1620379627:0;yarn build --scheme 'Jour Local'
+: 1620382856:0;git co xavier/dev-749-stories-plug-sequence-in
+: 1620382895:0;yarn start
+: 1620383076:0;yarn build --scheme 'Jour Local'
+: 1620383146:0;..
+: 1620383150:0;yarn && cd ios && pod install && cd - && yarn build --scheme 'Jour Local'
+: 1620383967:0;git co master
+: 1620384014:0;git co -b xavier/dev-749-stories-without-sequence
+: 1620384024:0;yarn start
+: 1620384027:0;yarn && cd ios && pod install && cd - && yarn build --scheme 'Jour Local'
+: 1620384760:0;yarn start
+: 1620384788:0;yarn build --scheme 'Jour Local'
+: 1620574915:0;yarn add -D @graphql-codegen/typescript-react-query
+: 1620575087:0;yarn dato:codegen
+: 1620577339:0;yarn add -D graphql-codegen-apollo-next-ssr
+: 1620577441:0;yarn dato:codegen
+: 1620577470:0;yarn add -D graphql-codegen-apollo-next-ssr
+: 1620577561:0;yarn add -D @graphql-codegen/typescript-react-apollo
+: 1620577572:0;yarn dato:codegen
+: 1620579014:0;yarn add -D @graphql-codegen/import-types-preset
+: 1620579036:0;yarn dato:codegen
+: 1620579980:0;yarn dev
+: 1620580439:0;yarn add @apollo/client
+: 1620583104:0;yarn dato:codegen
+: 1620584338:0;yarn dev
+: 1620584898:0;yarn dato:codegen
+: 1620585692:0;yarn dev
+: 1620585861:0;yarn dato:codegen
+: 1620659273:0;yarn start
+: 1620659280:0;yarn dev
+: 1620659306:0;yarn start
+: 1620665466:0;git push
+: 1620665710:0;git pull
+: 1620665729:0;git pull origin xavier/dev-749-stories-without-sequence
+: 1620665809:0;git push
+: 1620726877:0;git st
+: 1620726917:0;git add .
+: 1620726934:0;git ci
+: 1620726950:0;git push
+: 1620727248:0;git st
+: 1620727322:0;git push
+: 1620727582:0;yarn start
+: 1620727591:0;yarn dev
+: 1620735174:0;git push
+: 1620747743:0;yarn build --scheme 'Jour Local' --simulator 'iPhone 6s'
+: 1620747914:0;yarn build --scheme 'Jour Local'
+: 1620747963:0;cd ios && pod cache clean --all && pod install && cd -
+: 1620748311:0;yarn build --scheme 'Jour Local' --simulator 'iPhone 6s'
+: 1620748315:0;yarn build --scheme 'Jour Local'
+: 1620750019:0;git push
+: 1620750377:0;git co master
+: 1620750380:0;git pull
+: 1620750406:0;git co -b xavier/dev-739-stories-breathing-screen
+: 1620750414:0;git stash apply
+: 1620750909:0;git push
+: 1620802123:0;git co master
+: 1620802208:0;git co -b xavier/dev-737-733-bobby-s-feedback
+: 1620823451:0;git push
+: 1620823775:0;git co master
+: 1620823778:0;git pull
+: 1620824912:0;git co -b xavier/dev-811-stories-analytics
+: 1620836179:0;git push
+: 1621188656:0;git cz
+: 1621188709:0;git push
+: 1621189455:0;git cz
+: 1621190015:0;git push
+: 1621190128:0;git add .
+: 1621190130:0;git cz
+: 1621190154:0;git push
+: 1621232725:0;git st
+: 1621232789:0;git co master
+: 1621232791:0;git pull
+: 1621232796:0;yarn
+: 1621232852:0;yarn dev
+: 1621232883:0;git co master
+: 1621232894:0;git pull
+: 1621233223:0;yarn && cd ios && pod install && cd - && yarn build --scheme 'Jour Local'
+: 1621233513:0;git st
+: 1621233561:0;git cz
+: 1621233579:0;git push
+: 1621233649:0;yarn start
+: 1621233848:0;git co -b xavier/dev-813-stories-analytics-add-new-truefalse
+: 1621234959:0;yarn db:up
+: 1621234979:0;yarn dev
+: 1621235057:0;yarn db:generate-client
+: 1621235065:0;yarn db:up
+: 1621235074:0;yarn dev
+: 1621236657:0;git push
+: 1621236696:0;git co master
+: 1621236716:0;git co -b xavier/stories-default-duration
+: 1621236822:0;git push
+: 1621237147:0;git co xavier/dev-813-stories-analytics-add-new-truefalse
+: 1621237243:0;git push
+: 1621237336:0;yarn lint:types
+: 1621239096:0;git push
+: 1621240471:0;git co master
+: 1621240476:0;git pull
+: 1621240486:0;git co -b xavier/dev-802-i18n-you
+: 1621240568:0;ts-node scripts/i18n/transformer.ts
+: 1621266011:0;git push
+: 1621340189:0;ts-node scripts/i18n/transformer.ts
+: 1621342710:0;yarn lint:types
+: 1621342871:0;yarn lint:check
+: 1621343128:0;git push
+: 1621345110:0;npx lorem-ipsum 2 paragraphs
+: 1621345994:0;yarn dev
+: 1621346197:0;git st
+: 1621346299:0;yarn lint:check
+: 1621346387:0;git push
+: 1621347741:0;git pull
+: 1621347753:0;git pull origin xavier/dev-802-i18n-you
+: 1621411973:0;yarn dev
+: 1621412045:0;cd ios
+: 1621412055:0;fastlane new_action
+: 1621415824:0;yanr start
+: 1621415827:0;yarn start
+: 1621415991:0;git st
+: 1621416214:0;git push
+: 1621416569:0;git co master
+: 1621416572:0;git pull
+: 1621416579:0;..
+: 1621416587:0;git co -b xavier/dev-673-i18n-gift
+: 1621416636:0;ts-node scripts/i18n/transformer.ts
+: 1621416947:0;yarn && cd ios && pod install && cd - && yarn build --scheme 'Jour Local'
+: 1621417279:0;cd ios
+: 1621417281:0;pod install --repo-update
+: 1621417320:0;..
+: 1621417325:0;yarn build --scheme 'Jour Local'
+: 1621418359:0;cd ios
+: 1621418367:0;pod install
+: 1621418470:0;..
+: 1621418473:0;yarn build --scheme 'Jour Local'
+: 1621419035:0;yarn dev
+: 1621419077:0;yarn start
+: 1621419082:0;yarn build --scheme 'Jour Local'
+: 1621421177:0;yarn start
+: 1621421192:0;yarn build --scheme 'Jour Local'
+: 1621422025:0;git st
+: 1621422027:0;git push
+: 1621436011:0;git co xavier/dev-802-i18n-you
+: 1621438349:0;git co master
+: 1621438352:0;git pull
+: 1621438374:0;git co -b xavier/dev-798-i18n-reflect
+: 1621438394:0;ts-node scripts/i18n/transformer.ts
+: 1621443278:0;yarn lint:check && yarn lint:types
+: 1621443551:0;git push
+: 1621499080:0;git co master
+: 1621499083:0;git pull
+: 1621499097:0;git co -b xavier/dev-783-i18n-article
+: 1621499279:0;ts-node scripts/i18n/transformer.ts
+: 1621500249:0;git push
+: 1621500314:0;git co master
+: 1621500320:0;git pull
+: 1621500327:0;git co -b xavier/dev-800-i18n-splash
+: 1621500399:0;ts-node scripts/i18n/transformer.ts
+: 1621500498:0;git push
+: 1621500564:0;git co master
+: 1621500571:0;git co -b xavier/dev-796-i18n-insights
+: 1621500953:0;ts-node scripts/i18n/transformer.ts
+: 1621514876:0;git push
+: 1621515030:0;git co master
+: 1621515033:0;git pull
+: 1621515041:0;git co -b xavier/dev-795-i18n-guide
+: 1621516617:0;git co xavier/dev-796-i18n-insights
+: 1621516985:0;yarn jest app/Insights/components/DateSelector/helpers.test.ts
+: 1621517034:0;git push
+: 1621517110:0;git co xavier/dev-795-i18n-guide
+: 1621517529:0;ts-node scripts/i18n/transformer.ts
+: 1621518260:0;git st
+: 1621518263:0;git push
+: 1621518363:0;git co master
+: 1621518366:0;git pull
+: 1621518411:0;git co -b xavier/dev-672-i18n-premium
+: 1621521616:0;yarn lint:types
+: 1621521669:0;git co xavier/dev-800-i18n-splash
+: 1621521671:0;yarn lint:types
+: 1621521716:0;git pull origin xavier/dev-800-i18n-splash
+: 1621521767:0;git co xavier/dev-796-i18n-insights
+: 1621521777:0;git pull origin xavier/dev-796-i18n-insights
+: 1621521786:0;yarn lint:types
+: 1621525803:0;yarn lint:check && yarn lint:types
+: 1621526139:0;git branch -m xavier/more-love-ts-and-i18n
+: 1621527434:0;cd "/Users/bigx/jour/jour-app"
+: 1621527435:0;git revert --no-edit dd721e628cf81e8cfb0be8f883b1cf75c28a5463
+: 1621528008:0;yarn lint:check && yarn lint:types
+: 1621528257:0;git push
+: 1621528689:0;git co xavier/dev-796-i18n-insights
+: 1621529289:0;git push
+: 1621529516:0;git co xavier/more-love-ts-and-i18n
+: 1621529748:0;yarn lint:check && yarn lint:types
+: 1621529899:0;git push
+: 1621581657:0;git pull origin xavier/more-love-ts-and-i18n
+: 1621581733:0;yarn lint:check && yarn lint:types
+: 1621582832:0;git co master
+: 1621582834:0;git pupll
+: 1621582836:0;git pull
+: 1621582853:0;git co xavier/dev-672-i18n-premiummaster
+: 1621582859:0;git co xavier/dev-672-i18n-premium
+: 1621582866:0;git co master
+: 1621582876:0;git branch -D xavier/dev-672-i18n-premium
+: 1621582881:0;git co -b xavier/dev-672-i18n-premium
+: 1621583527:0;ts-node scripts/i18n/transformer.ts
+: 1621608718:0;yarn lint:check
+: 1621938361:0;yarn react-native run-ios --device 'iPhone de Seignard' --scheme 'Jour Local' --allowProvisioningUpdates
+: 1621938372:0;yarn react-native run-ios --device 'iPhone de Seignard' --scheme 'Jour Local'
+: 1621939056:0;bundle exec fastlane match development -a com.ofhuman.jour,com.ofhuman.jour-app,com.ofhuman.jour.stickers,com.ofhuman.jour.widget,com.ofhuman.jour-app.stickers,com.ofhuman.jour-app.widget
+: 1621939064:0;cd ios
+: 1621939065:0;bundle exec fastlane match development -a com.ofhuman.jour,com.ofhuman.jour-app,com.ofhuman.jour.stickers,com.ofhuman.jour.widget,com.ofhuman.jour-app.stickers,com.ofhuman.jour-app.widget
+: 1621939091:0;fastlane match development -a com.ofhuman.jour,com.ofhuman.jour-app,com.ofhuman.jour.stickers,com.ofhuman.jour.widget,com.ofhuman.jour-app.stickers,com.ofhuman.jour-app.widget
+: 1621939186:0;../..
+: 1621939192:0;cd jour-app
+: 1621939203:0;yarn react-native run-ios --device 'iPhone de Seignard' --scheme 'Jour Local'
+: 1621939681:0;cd ios
+: 1621939684:0;pod install
+: 1621964784:0;..
+: 1621964802:0;yarn jest app/Premium/helpers/getLocalizedIntroductoryPeriod.test.ts
+: 1621965457:0;yarn jest app/Premium/helpers/getIntroductoryPeriodInDays.test.ts
+: 1621967396:0;git push
+: 1621967537:0;git stash
+: 1621967899:0;git co master
+: 1621967903:0;git pul
+: 1621967905:0;git pull
+: 1621968004:0;git co -b xavier/i18n-eslint-vscode-settings
+: 1621968008:0;git stash apply
+: 1621968111:0;yarn lint:check
+: 1621968382:0;git stash
+: 1621968388:0;git push
+: 1621968561:0;git co master
+: 1621968624:0;git co -b xavier/disable-automatic-signing
+: 1621968628:0;git stash apply
+: 1621968658:0;git push
+: 1622010224:0;yarn dev
+: 1622010252:0;yarn start
+: 1622020336:0;git co master
+: 1622020338:0;git pull
+: 1622020350:0;git co xavier/disable-automatic-signing
+: 1622020356:0;git merge master
+: 1622020424:0;git st
+: 1622020428:0;git push
+: 1622020440:0;git pull
+: 1622020451:0;git pull origin xavier/disable-automatic-signing
+: 1622020481:0;git st
+: 1622020505:0;git push
+: 1622020900:0;git co xavier/dev-672-i18n-premium
+: 1622021267:0;git push
+: 1622021285:0;git pull origin xavier/dev-672-i18n-premium
+: 1622021302:0;git push
+: 1622021672:0;git co master
+: 1622021674:0;git pull
+: 1622021696:0;git co -b xavier/stories-cut-off-ipad
+: 1622021712:0;yarn build:tablet --scheme 'Jour Local'
+: 1622022129:0;yarn && cd ios && pod install && cd - && yarn build:tablet --scheme 'Jour Local'
+: 1622022670:0;yarn build:tablet --scheme 'Jour Local'
+: 1622023070:0;yarn start --reset-cache
+: 1622023192:0;yarn dev
+: 1622023232:0;pg_ctl start\
+
+: 1622023241:0;pg_ctl status -D db
+: 1622023244:0;pg_ctl status
+: 1622023357:0;brew services start postgresql
+: 1622023365:0;brew services estart postgresql
+: 1622023369:0;brew services restart postgresql
+: 1622023413:0;yarn dev
+: 1622023448:0;git co master
+: 1622023459:0;git st
+: 1622023463:0;git pull
+: 1622023487:0;git co xavier/dev-672-i18n-premium
+: 1622023491:0;git merge master
+: 1622023504:0;git push
+: 1622024312:0;yarn dev
+: 1622024339:0;yarn start
+: 1622027614:0;git st
+: 1622027627:0;git co -b xavier/stories-cut-off-ipad
+: 1622027631:0;git stash
+: 1622027639:0;git co xavier/stories-cut-off-ipad
+: 1622027642:0;git stash apply
+: 1622028157:0;git push
+: 1622028360:0;git st
+: 1622028377:0;git co xavier/dev-672-i18n-premium
+: 1622028770:0;git push
+: 1622028808:0;git co xavier/i18n-eslint-vscode-settings
+: 1622028817:0;git pull origin xavier/i18n-eslint-vscode-settings
+: 1622029046:0;git push
+: 1622031380:0;git co xavier/dev-672-i18n-premium
+: 1622031637:0;yarn lint:check && yarn lint:types
+: 1622031751:0;yarn lint:types
+: 1622031929:0;git push
+: 1622033719:0;git stash
+: 1622033726:0;git co master
+: 1622033737:0;git pull
+: 1622033755:0;git co -b xavier/JDS-PoC
+: 1622034006:0;yarn add style-dictionary
+: 1622034030:0;yarn add -D style-dictionary
+: 1622034200:0;yarn style-dictionary
+: 1622037617:0;git co xavier/stories-cut-off-ipad
+: 1622037622:0;git stash
+: 1622037624:0;git co xavier/stories-cut-off-ipad
+: 1622037634:0;yarn lint:types
+: 1622037677:0;git co master
+: 1622037683:0;git pull
+: 1622037691:0;git co xavier/stories-cut-off-ipad
+: 1622037694:0;git merge masster
+: 1622037700:0;git merge master
+: 1622037714:0;yarn lint:types
+: 1622040418:0;yarn lint:check
+: 1622040521:0;git push
+: 1622040663:0;git co xavier/JDS-PoC
+: 1622041416:0;yarn style-dictionary
+: 1622046121:0;yarn style-dictionary > truc.txt
+: 1622046192:0;yarn style-dictionary
+: 1622187440:0;yarn start
+: 1622187450:0;yarn dev
+: 1622187691:0;yarn style-dictionary
+: 1622206918:0;yarn add -D lodash.merge
+: 1622207010:0;yarn style-dictionary
+: 1622207054:0;yarn add -D style-dictionary
+: 1622207133:0;yarn style-dictionary
+: 1622208888:0;yarn add -D flat
+: 1622209027:0;yarn style-dictionary
+: 1622209380:0;yarn add -D camel-case
+: 1622209448:0;yarn style-dictionary
+: 1622209679:0;yarn add -D @types/lodash.merge
+: 1622209693:0;yarn add -D @types/flat
+: 1622209922:0;yarn style-dictionary
+: 1622214148:0;yarn add -D lodash.isplainobject @types/lodash.isplainobject
+: 1622214213:0;yarn style-dictionary
+: 1622299739:0;yarn style-dictionary > truc.txt
+: 1622299876:0;yarn style-dictionary
+: 1622316782:0;yarn dev
+: 1622317143:0;yarn dato:codegen
+: 1622319251:0;yarn dev
+: 1622322118:0;yarn dato:codegen
+: 1622323113:0;yarn add -D @graphql-codegen/typed-document-node
+: 1622323165:0;yarn dato:codegen
+: 1622368256:0;yarn add -D @graphql-codegen/typescript-graphql-request
+: 1622368471:0;yarn dato:codegen
+: 1622370522:0;yarn
+: 1622370533:0;yarn dato:codegen
+: 1622386934:0;yarn add react-markdown
+: 1622387370:0;yarn dev
+: 1622387773:0;yarn add react-markdown
+: 1622387777:0;yarn dato:codegen
+: 1622388547:0;yanr
+: 1622388550:0;yarn
+: 1622391320:0;yarn add @fortawesome/fontawesome-svg-core
+: 1622391340:0;yanr add @fortawesome/free-brands-svg-icons
+: 1622391344:0;yarn add @fortawesome/free-brands-svg-icons
+: 1622391462:0;yarn add @fortawesome/react-fontawesome
+: 1622391728:0;yarn add @fortawesome/free-solid-svg-icons
+: 1622392488:0;yarn dato:codegen
+: 1622388565:4596;yarn dev
+: 1622393161:0;yarn dev
+: 1622393497:0;yarn dato:codegen
+: 1622394237:0;yarn dev
+: 1622395102:0;gh repo create --private
+: 1622395115:0;git push
+: 1622395480:0;yarn build
+: 1622396127:0;yarn dato:codegen
+: 1622396344:0;yarn build
+: 1622396604:0;git push
+: 1622396695:0;yarn build
+: 1622396724:0;yanr start
+: 1622396728:0;yarn start
+: 1622447063:0;yarn style-dictionary
+: 1622450901:0;yarn add @shopify/restyle
+: 1622451372:0;yarn style-dictionary
+: 1622534966:0;git pull
+: 1622534981:0;yarn
+: 1622535114:0;yarn dev
+: 1622535132:0;git co master
+: 1622535135:0;git pulll
+: 1622535136:0;git pull
+: 1622535152:0;yarn && cd ios && pod install && cd - && yarn build:tablet --scheme 'Jour Local'
+: 1622535225:0;yarn && cd ios && pod install && cd - && yarn build --scheme 'Jour Local'
+: 1622535240:0;git st
+: 1622535264:0;yarn start
+: 1622535312:0;cd ios
+: 1622535318:0;pod install --repo-update
+: 1622535355:0;..
+: 1622535362:0;yarn build --scheme 'Jour Local'
+: 1622535646:0;git co -b xavier/dev-839-language-selector
+: 1622535825:0;yarn db:up
+: 1622535850:0;yarn dev
+: 1622535924:0;yarn db:generate-client
+: 1622535932:0;yarn dev
+: 1622547337:0;git push
+: 1622550827:0;git st
+: 1622550883:0;git co master
+: 1622550888:0;git pull
+: 1622550900:0;git co -b xavier/dev-834-i18n-tabbar
+: 1622554333:0;git push
+: 1622554633:0;git co xavier/dev-839-language-selector
+: 1622554673:0;git co master
+: 1622554745:0;git co -b xavier/dev-837-i18n-commonpermissions
+: 1622554756:0;ts-node scripts/i18n/transformer.ts
+: 1622555928:0;git stash
+: 1622555932:0;git co xavier/dev-839-language-selector
+: 1622559238:0;git push
+: 1622559783:0;git co xavier/dev-837-i18n-commonpermissions
+: 1622559801:0;ts-node scripts/i18n/transformer.ts
+: 1622560225:0;git push
+: 1622561156:0;git co master
+: 1622561161:0;git pull
+: 1622561172:0;git co -b xavier/dev-835-i18n-activities-constants
+: 1622619610:0;git co xavier/dev-839-language-selector
+: 1622619971:0;git push
+: 1622620766:0;git co xavier/dev-835-i18n-activities-constants
+: 1622621145:0;git co master
+: 1622621148:0;git pull
+: 1622621172:0;git branch -D xavier/dev-835-i18n-activities-constants
+: 1622621177:0;git co -b xavier/dev-835-i18n-activities-constants
+: 1622621196:0;yarn && cd ios && pod install && cd - && yarn build --scheme 'Jour Local'
+: 1622621276:0;yarn start
+: 1622621638:0;git co xavier/dev-839-language-selector
+: 1622621662:0;yarn start
+: 1622621698:0;yarn start --reset-cache
+: 1622621831:0;git stash
+: 1622621836:0;git co xavier/dev-839-language-selector
+: 1622621883:0;yarn && cd ios && pod cache clean &&pod install --repo-update && cd - && yarn build --scheme 'Jour Local'
+: 1622621905:0;yarn && cd ios && pod cache clean --all && pod install --repo-update && cd - && yarn build --scheme 'Jour Local'
+: 1622621958:0;git st
+: 1622621964:0;yarn start --reset-cache
+: 1622623385:0;git push
+: 1622623523:0;git co xavier/dev-835-i18n-activities-constants
+: 1622623564:0;yarn && cd ios && pod cache clean --all && pod install --repo-update && cd - && yarn build --scheme 'Jour Local'
+: 1622626422:0;git co master
+: 1622626425:0;git pull
+: 1622626437:0;git branch -D xavier/dev-835-i18n-activities-constants
+: 1622626441:0;git co -b xavier/dev-835-i18n-activities-constants
+: 1622626568:0;yarn build --scheme 'Jour Local'
+: 1622626621:0;cd ios
+: 1622626632:0;pod cache clean --all && pod install --repo-update
+: 1622626672:0;..
+: 1622626681:0;yarn start --reset-cache
+: 1622626685:0;yarn build --scheme 'Jour Local'
+: 1622626753:0;./scripts/clean-env
+: 1622627459:0;yarn build --scheme 'Jour Local'
+: 1622627977:0;node -v
+: 1622627981:0;brew uninstall yarn   \
+
+: 1622627991:0;npm install --global yarn\
+
+: 1622628001:0;yarn build --scheme 'Jour Local'
+: 1622633190:0;yarn
+: 1622634275:0;git push
+: 1622634317:0;yarn jest app/Session/helpers.test.ts
+: 1622634699:0;git push
+: 1622634777:0;git co xavier/dev-839-language-selector
+: 1622634780:0;git push
+: 1622637253:0;yarn && cd ios && pod cache clean --all && pod install --repo-update && cd - && yarn build --scheme 'Jour Local'
+: 1622637559:0;git push
+: 1622638082:0;yarn dev
+: 1622638126:0;yarn start
+: 1622638197:0;git co master
+: 1622638200:0;git pull
+: 1622638219:0;yarn && cd ios && pod cache clean --all && pod install --repo-update && cd - && yarn build --scheme 'Jour Local'
+: 1622638418:0;git co -b xavier/dev-842-fr-ui-bug-settings-cells-not-working
+: 1622639403:0;git push
+: 1622639539:0;git co master
+: 1622639544:0;git co -b xavier/dev-843-fr-ui-bug-home-intro-sentence-not
+: 1622639670:0;git push
+: 1622640154:0;git co master
+: 1622640160:0;git co -b xavier/dev-846-fr-ui-bug-stickers-layout-breaking
+: 1622640488:0;git push
+: 1622640543:0;git co master
+: 1622640547:0;git co -b xavier/dev-844-fr-ui-bug-new-journey-badge-broken
+: 1622640868:0;git push
+: 1622641463:0;git co xavier/dev-839-language-selector
+: 1622641486:0;git co master
+: 1622641490:0;git pull
+: 1622641517:0;git co xavier/dev-839-language-selector
+: 1622641521:0;git merge master
+: 1622641864:0;git co master
+: 1622641910:0;git pull
+: 1622641975:0;git co -b xavier/dev-840-i18n-infoplist-permissions
+: 1622643899:0;cd ios
+: 1622643906:0;pod install
+: 1622644185:0;l
+: 1622644190:0;cd fr.lproj
+: 1622644198:0;pl < InfoPlist.strings
+: 1622644243:0;../English.lproj
+: 1622644245:0;pl < InfoPlist.strings
+: 1622651795:0;git push
+: 1622652167:0;git co master
+: 1622652173:0;cd
+: 1622652178:0;cd jour/jour-app
+: 1622704383:0;git co xavier/dev-835-i18n-activities-constants
+: 1622708030:0;git co mas
+: 1622708035:0;git co master
+: 1622708060:0;git co -b xavier/dev-839-try-to-fix-crash
+: 1622708100:0;yarn react-native run-ios --device 'iPhone de Seignard' --scheme 'Jour Local'
+: 1622708534:0;cd ios
+: 1622708537:0;pod install --repo-update
+: 1622708611:0;..
+: 1622708614:0;yarn react-native run-ios --device 'iPhone de Seignard' --scheme 'Jour Local'
+: 1622712199:0;git push
+: 1622714302:0;git co master
+: 1622714306:0;git pull
+: 1622714325:0;git co -b xavier/dev-799-i18n-sequence
+: 1622714504:0;ts-node scripts/i18n/transformer.ts
+: 1622726468:0;git st
+: 1622726472:0;git push
+: 1622727955:0;yarn start
+: 1622732940:0;yarn build --scheme 'Jour Local'
+: 1622732948:0;yarn start --reset-cache
+: 1622734059:0;git st
+: 1622734070:0;git push
+: 1622734096:0;git co master
+: 1622734101:0;git co -b xavier/dev-822-i18n-dates
+: 1622735442:0;yarn add date-fns/format date-fns/locale
+: 1622735515:0;yarn add date-fns
+: 1622814336:0;git push
+: 1622814440:0;git pull
+: 1622814456:0;git pull origin xavier/dev-822-i18n-dates
+: 1622814807:0;yarn jest app/Entries/components/helpers.test.ts
+: 1622815652:0;yarn lint:check && yarn lint:types
+: 1622816165:0;git push
+: 1622816227:0;git co xavier/dev-840-i18n-infoplist-permissions
+: 1622816436:0;git push
+: 1622816513:0;git co master
+: 1622816569:0;git pull
+: 1622816811:0;git co matthias/dev-824-i18n-notification
+: 1622816994:0;git co xavier/dev-822-i18n-dates
+: 1622817305:0;git push
+: 1622817637:0;yarn jest app/i18n/helpers.test.ts
+: 1622819797:0;git push
+: 1622821100:0;yarn jest app/i18n/helpers.test.ts
+: 1622821204:0;git push
+: 1622821828:0;yarn jest app/i18n/helpers.test.ts
+: 1622822000:0;git push
+: 1623052267:0;git co matthias/dev-824-i18n-notification
+: 1623052856:0;yarn jest app/SequenceJournal/helpers/dailyJournalToSequence.test.ts
+: 1623058627:0;git co xavier/dev-822-i18n-dates
+: 1623058750:0;git push
+: 1623058819:0;git co matthias/dev-824-i18n-notification
+: 1623058825:0;git co master
+: 1623058828:0;git pull
+: 1623058839:0;git co matthias/dev-824-i18n-notification
+: 1623058844:0;git merge master
+: 1623058897:0;git st
+: 1623058899:0;git push
+: 1623059531:0;yarn jest app/SequenceJournal/helpers/dailyJournalToSequence.test.ts
+: 1623059620:0;yarn jest app/SequenceJournal/helpers/checkInToSequence.test.ts
+: 1623059636:0;yarn jest app/SequenceJournal/helpers/yourSelectionToSequence.t
+: 1623059639:0;yarn jest app/SequenceJournal/helpers/yourSelectionToSequence.test.ts
+: 1623059672:0;git push
+: 1623072288:0;git co master
+: 1623072290:0;git pull
+: 1623072304:0;git co -b xavier/dev-724-quick-fix-article-states
+: 1623072589:0;yarn add react-native-mmkv-storage\
+
+: 1623072819:0;cd ios
+: 1623072823:0;pod install
+: 1623073217:0;yarn start
+: 1623073220:0;yarn build --scheme 'Jour Local'
+: 1623073449:0;yarn start --reset-cache
+: 1623073830:0;yarn && cd ios && pod cache clean --all && pod install --repo-update && cd - && yarn build --scheme 'Jour Local'
+: 1623073836:0;..
+: 1623073838:0;yarn && cd ios && pod cache clean --all && pod install --repo-update && cd - && yarn build --scheme 'Jour Local'
+: 1623074153:0;yarn add https://github.com/ammarahm-ed/react-native-mmkv-storage
+: 1623074183:0;cd ios
+: 1623074189:0;pod install
+: 1623075943:0;git push
+: 1623078401:0;yarn add react-native-mmkv-storage\
+
+: 1623078997:0;yarn add https://github.com/ammarahm-ed/react-native-mmkv-storage
+: 1623082410:0;yarn lint:check && yarn lint:types
+: 1623082532:0;git push
+: 1623083573:0;git co master
+: 1623083575:0;git pull
+: 1623129092:0;..
+: 1623129116:0;git co -b xavier/i18n-insights-fixes
+: 1623131740:0;yarn lint:check && yarn lint:types
+: 1623132027:0;git push
+: 1623132157:0;git co master
+: 1623135168:0;git co xavier/i18n-insights-fixes
+: 1623135513:0;yarn jest app/Insights/components/DateSelector/helpers.test.ts
+: 1623136285:0;yarn test
+: 1623136355:0;git push
+: 1623136430:0;git co master
+: 1623136471:0;git co xavier/JDS-PoC
+: 1623136479:0;git co master
+: 1623136482:0;git pull
+: 1623136497:0;git co xavier/JDS-PoC
+: 1623136501:0;git merge master
+: 1623136531:0;yarn && cd ios && pod cache clean --all && pod install --repo-update && cd - && yarn build --scheme 'Jour Local'
+: 1623137412:0;yarn start
+: 1623142328:0;git co xavier/dev-724-quick-fix-article-states
+: 1623142338:0;yarn && cd ios && pod cache clean --all && pod install --repo-update && cd - && yarn build --scheme 'Jour Local'
+: 1623142566:0;yarn start
+: 1623144794:0;git push
+: 1623144851:0;git co master
+: 1623144853:0;git pull
+: 1623144864:0;git co xavier/dev-724-quick-fix-article-states
+: 1623144867:0;git merge master
+: 1623144889:0;yarn && cd ios && pod cache clean --all && pod install --repo-update && cd - && yarn build --scheme 'Jour Local'
+: 1623144910:0;yarn start
+: 1623145224:0;git st
+: 1623145226:0;git push
+: 1623146095:0;git co master
+: 1623156816:0;git co xavier/JDS-PoC
+: 1623156822:0;yarn && cd ios && pod cache clean --all && pod install --repo-update && cd - && yarn build --scheme 'Jour Local'
+: 1623223233:0;git stash
+: 1623223247:0;git co matthias/dev-824-i18n-notification
+: 1623223330:0;git push
+: 1623223977:0;git co xavier/JDS-PoC
+: 1623223988:0;git stash apply
+: 1623224383:0;git co master
+: 1623224386:0;git pull
+: 1623224408:0;git co -b xavier/i18n-async
+: 1623224660:0;yarn && cd ios && pod cache clean --all && pod install --repo-update && cd - && yarn build --scheme 'Jour Local'
+: 1623225107:0;git push
+: 1623243919:0;git co xavier/JDS-PoC
+: 1623243929:0;yarn
+: 1623250194:0;yarn style-dictionary
+: 1623310414:0;git stash
+: 1623310423:0;git co matthias/dev-824-i18n-notification
+: 1623318311:0;git push
+: 1623318512:0;git co -b xavier/mmkv-switch-to-npm-version
+: 1623318603:0;git co master
+: 1623318611:0;git pull
+: 1623318635:0;git branch -D xavier/mmkv-switch-to-npm-version
+: 1623318645:0;git co -b xavier/mmkv-switch-to-npm-version
+: 1623318680:0;yarn add react-native-mmkv-storage
+: 1623318705:0;yarn && cd ios && pod cache clean --all && pod install --repo-update && cd - && yarn build --scheme 'Jour Local'
+: 1623318815:0;yarn start
+: 1623319073:0;git push
+: 1623320331:0;git co xavier/JDS-PoC
+: 1623320339:0;yarn && cd ios && pod cache clean --all && pod install --repo-update && cd - && yarn build --scheme 'Jour Local'
+: 1623320358:0;yarn start
+: 1623321250:0;git co xavier/mmkv-switch-to-npm-version
+: 1623321270:0;yarn && cd ios && pod cache clean --all && pod install --repo-update && cd - && yarn build --scheme 'Jour Local'
+: 1623321625:0;yarn start
+: 1623321676:0;git push
+: 1623321791:0;git co xavier/JDS-PoC
+: 1623321795:0;yarn && cd ios && pod cache clean --all && pod install --repo-update && cd - && yarn build --scheme 'Jour Local'
+: 1623321846:0;yarn start
+: 1623326059:0;git stash apply
+: 1623326257:0;yarn style-dictionary
+: 1623337546:0;git push
+: 1623399132:0;yarn style-dictionary
+: 1623401347:0;git st
+: 1623401349:0;git push
+: 1623401434:0;yarn run @storybook/cli sb init --type react_native
+: 1623401445:0;npx -p @storybook/cli sb init --type react_native\
+
+: 1623401844:0;yarn add -D @storybook/addon-ondevice-actions
+: 1623401931:0;yarn storybook
+: 1623402924:0;yarn add react-native-storybook-loader -D\
+
+: 1623403114:0;yarn storybook
+: 1623403534:0;yarn start
+: 1623403632:0;yarn && cd ios && pod cache clean --all && pod install --repo-update && cd - && yarn build --scheme 'Jour Local'
+: 1623403917:0;yarn start
+: 1623404445:0;yarn && cd ios && pod cache clean --all && pod install --repo-update && cd - && yarn build --scheme 'Jour Local'
+: 1623404450:0;yarn start
+: 1623404723:0;yarn start --reset-cache
+: 1623405004:0;yarn storybook
+: 1623405419:0;yarn start --reset-cache
+: 1623406067:0;yarn && cd ios && pod cache clean --all && pod install --repo-update && cd - && yarn build --scheme 'Jour Local'
+: 1623406324:0;yarn start
+: 1623406637:54;yarn storybook
+: 1623418399:0;yarn add -D @storybook/addon-ondevice-notes\
+
+: 1623420211:0;yarn rm  @storybook/addon-ondevice-notes\
+
+: 1623420221:0;yarn delete  @storybook/addon-ondevice-notes\
+
+: 1623420240:0;yarn remove @storybook/addon-ondevice-notes\
+
+: 1623420599:0;yarn add -D @storybook/addons storybook-dark-mode\
+
+: 1623420941:0;yarn remove storybook-dark-mode\
+
+: 1623423564:0;yarn && cd ios && pod cache clean --all && pod install --repo-update && cd - && yarn build --scheme 'Jour Local'
+: 1623423842:0;yarn start --reset-cache
+: 1623423847:0;yarn && cd ios && pod cache clean --all && pod install --repo-update && cd - && yarn build --scheme 'Jour Local'
+: 1623424489:0;yarn start --reset-cache
+: 1623425416:0;yarn storybook
+: 1623426649:0;git push
+: 1623595907:0;yarn dev
+: 1623597057:0;yarn dato:codegen
+: 1623647335:0;yarn dev
+: 1623647348:0;yarn start
+: 1623656686:0;git st
+: 1623656704:0;git co master
+: 1623656723:0;git st
+: 1623656727:0;git pull
+: 1623656743:0;yarn
+: 1623656907:0;yarn dev
+: 1623658724:0;git stash
+: 1623658742:0;git co -b xavier/dev-850-staging-automatically-enable-free
+: 1623658749:0;git stash apply
+: 1623659125:0;yarn jest services/subscriptions/findActivesubscription.test.ts
+: 1623659217:0;NODE_ENV=test TZ=UTC yarn jest services/subscriptions/findActivesubscription.test.ts
+: 1623659252:0;yarn db:up
+: 1623659262:0;yarn db:generate-client
+: 1623659273:0;NODE_ENV=test TZ=UTC yarn jest services/subscriptions/findActivesubscription.test.ts
+: 1623659342:0;yarn db:up
+: 1623659353:0;yarn db:generate-client
+: 1623659363:0;NODE_ENV=test TZ=UTC yarn jest services/subscriptions/findActivesubscription.test.ts
+: 1623659446:0;yarn db:setup
+: 1623659465:0;NODE_ENV=test yarn db:up
+: 1623659480:0;NODE_ENV=test TZ=UTC yarn jest services/subscriptions/findActivesubscription.test.ts
+: 1623660197:0;git st
+: 1623660199:0;git push
+: 1623661879:0;gorepo
+: 1623661883:0;git clone git@github.com:xseignard/design-tokens.git
+: 1623661890:0;cd design-tokens
+: 1623661892:0;code .
+: 1623661993:0;git co -b bring-back-gradient-category
+: 1623662067:0;npm i
+: 1623662559:0;npm start
+: 1623663887:0;npm test
+: 1623666749:0;git co xavier/JDS-PoC
+: 1623666825:0;yarn storybook
+: 1623667200:0;yarn storybook:generate-loader
+: 1623672547:0;yarn style-dictionary
+: 1623672877:0;yarn style-dictionary > truc
+: 1623673282:0;yarn style-dictionary
+: 1623674447:0;yarn style-dictionary > truc
+: 1623676202:0;yarn style-dictionary 
+: 1623683637:0;git stash
+: 1623683644:0;git co master
+: 1623683666:0;git pull
+: 1623683679:0;yarn && cd ios && pod cache clean --all && pod install --repo-update && cd - && yarn build --scheme 'Jour Local'
+: 1623683705:0;git co -b xavier/fix-i18n-unauthed-you
+: 1623684022:0;yarn start
+: 1623684411:0;git push
+: 1623684425:0;git co xavier/JDS-PoC
+: 1623684428:0;git stash apply
+: 1623684433:0;yanr 
+: 1623684439:0;yarn
+: 1623685166:0;yarn && cd ios && pod cache clean --all && pod install --repo-update && cd - && yarn build --scheme 'Jour Local'
+: 1623685173:0;yarn start
+: 1623687031:0;NODE_ENV=test TZ=UTC yarn jest services/subscriptions/findActivesubscription.test.ts
+: 1623687071:0;git push
+: 1623709483:0;git co master
+: 1623709487:0;git pull
+: 1623741747:0;yarn style-dictionary 
+: 1623750667:0;yarn storybook:generate-loader
+: 1623750827:0;yarn start
+: 1623751911:0;git push
+: 1623752272:0;git co master
+: 1623752277:0;git pull
+: 1623752292:0;git co xavier/JDS-PoC
+: 1623752295:0;git merge master
+: 1623753015:0;yarn && cd ios && pod cache clean --all && pod install --repo-update && cd - && yarn build --scheme 'Jour Local'
+: 1623753041:0;yarn start
+: 1623753472:0;yarn lint:types
+: 1623753814:0;git push
+: 1623753835:0;git co matthias/dev-824-i18n-notification
+: 1623756921:0;git co master
+: 1623756946:0;git co -b xavier/hide-dating-option-on-FR-onboarding
+: 1623757874:0;git push
+: 1623759323:0;yarn jest app/i18n/helpers.test.ts
+: 1623763817:0;git stash
+: 1623763824:0;git co matthias/dev-824-i18n-notification
+: 1623763829:0;git stash apply
+: 1623764183:0;yarn jest app/i18n/helpers.test.ts
+: 1623764668:0;git push
+: 1623770805:0;git st
+: 1623770814:0;git co xavier/hide-dating-option-on-FR-onboarding
+: 1623771893:0;git push
+: 1623772617:0;git co matthias/dev-824-i18n-notification
+: 1623772962:0;git push
+: 1623828914:0;git co master
+: 1623828917:0;git pull
+: 1623828957:0;git co -b xavier/dev-854-cant-set-up-notification-in-1st-dj-flow
+: 1623832403:0;yarn start
+: 1623849225:0;brew upgrade --cask flipper
+: 1623851461:0;yarn start
+: 1623852877:0;git stash
+: 1623852897:0;git co master
+: 1623852914:0;git co -b xavier/i18n-polish-session-1
+: 1623852920:0;git stash apply
+: 1623853837:0;git push
+: 1623853878:0;git co master
+: 1623853978:0;git co xavier/JDS-PoC
+: 1623854057:0;yarn start
+: 1623854206:0;neofetch
+: 1623667571:186700;yarn dev
+: 1623855019:0;yarn start
+: 1623857300:0;git push
+: 1623863838:0;yarn dev
+: 1623869775:0;yarn add framer-motion
+: 1623887508:0;yarn dato:codegen
+: 1623887634:0;yarn add date-fns
+: 1623889134:0;git push
+: 1623889873:0;yarn build
+: 1623889903:0;yarn start
+: 1623891339:0;yarn dev
+: 1623891581:0;yarn add body-scroll-lock
+: 1623891741:0;git push
+: 1623924623:0;yarn dev
+: 1623924650:0;yarn dato:codegen
+: 1623932208:0;yarn dev
+: 1623932634:0;yarn dato:codegen
+: 1623934410:0;git push
+: 1623934959:0;yarn dev
+: 1623935142:0;git push
+: 1623948477:0;yarn add react-intersection-observer\
+
+: 1623948490:0;yarn dev
+: 1623951184:0;yarn dato:codegen
+: 1623951857:0;git push
+: 1623960681:0;yarn dato:codegen
+: 1623960960:0;git push
+: 1624017596:0;yarn dev
+: 1624017952:0;git co master
+: 1624017954:0;git pull
+: 1624017972:0;yarn dev
+: 1624017976:0;yarn start
+: 1624018031:0;git co -b xavier/dev-857-show-call-with-a-founder-to-french-users
+: 1624018617:0;git push
+: 1624024446:0;git stash
+: 1624024465:0;git co master
+: 1624024470:0;git co -b xavier/dev-761-fix-uk-subscription-events-analytics
+: 1624024541:0;yarn && cd ios && pod cache clean --all && pod install --repo-update && cd - && yarn build --scheme 'Jour Local'
+: 1624024671:0;yarn react-native run-ios --device 'iPhone de Seignard' --scheme 'Jour Local'
+: 1624083886:0;yarn dev
+: 1624111145:0;git stash 
+: 1624111449:0;yarn dato:codegen
+: 1624114142:0;yarn dev
+: 1624114325:0;git push
+: 1624261558:0;git st
+: 1624278908:0;git co master
+: 1624278910:0;git pull
+: 1624278918:0;yarn
+: 1624279145:0;yarn dev
+: 1624282774:0;yarn add framer-motion
+: 1624351164:0;pg_ctl status
+: 1624360117:0;git co -b xavier/dev-810-web-onboarding-score-loading-screen
+: 1624360124:0;git push
+: 1624365144:0;yarn
+: 1624365161:0;git push
+: 1624367452:0;git co master
+: 1624367462:0;git st
+: 1624367469:0;git co xavier//JDS-PoC
+: 1624367473:0;git co xavier/JDS-PoC
+: 1624367511:0;yarn && cd ios && pod cache clean --all && pod install --repo-update && cd - && yarn build --scheme 'Jour Local'
+: 1624368281:0;yarn start
+: 1624373813:23;yarn add -D figma-api-exporter
+: 1624373923:0;ts-node scripts/icons/index.ts
+: 1624375046:0;yarn add -D node-fetch
+: 1624375311:0;ts-node scripts/icons/index.ts
+: 1624442179:0;yarn add -D figma-transformer
+: 1624442228:0;ts-node scripts/icons/index.ts
+: 1624467050:0;git stash
+: 1624467053:0;git co master
+: 1624467057:0;git pull
+: 1624467212:0;git co -b xavier/new-adonis-font
+: 1624468073:0;yarn && cd ios && pod cache clean --all && pod install --repo-update && cd - && yarn build --scheme 'Jour Local'
+: 1624468728:0;git push
+: 1624468827:0;git co xavier/JDS-PoC
+: 1624468836:0;yarn && cd ios && pod cache clean --all && pod install --repo-update && cd - && yarn build --scheme 'Jour Local'
+: 1624520351:0;git co xavier/new-adonis-font
+: 1624522002:0;yarn start
+: 1624522006:0;yarn && cd ios && pod cache clean --all && pod install --repo-update && cd - && yarn build --scheme 'Jour Local'
+: 1624522728:0;git push
+: 1624522861:0;git co xavier/JDS-PoC
+: 1624522894:0;yarn && cd ios && pod cache clean --all && pod install --repo-update && cd - && yarn build --scheme 'Jour Local'
+: 1624541718:0;git co master
+: 1624541721:0;git pull
+: 1624541737:0;git co -b xavier/dev-860-french-app-store-page
+: 1624542986:0;git push
+: 1624543088:0;git co master
+: 1624543090:0;git pull
+: 1624543096:0;git co -b xavier/dev-859-redesign-french-sign-up-to-be-gdpr
+: 1624522884:13;yarn start
+: 1624543104:0;yarn start
+: 1624543307:0;yarn dev
+: 1624549225:0;git st
+: 1624549229:0;git stash
+: 1624549247:0;git co xavier/i18n-async
+: 1624549994:0;git co master
+: 1624549997:0;git stash
+: 1624550001:0;git co master
+: 1624550013:0;git co -b xavier/i18n-provider
+: 1624553180:0;git push
+: 1624607178:0;git st
+: 1624607233:0;git co xavier/dev-860-french-app-store-page
+: 1624607395:0;git push
+: 1624608718:0;git co xavier/dev-859-redesign-french-sign-up-to-be-gdpr
+: 1624613980:0;git push
+: 1624614297:0;git co master
+: 1624614300:0;git pull
+: 1624614323:0;yarn && cd ios && pod cache clean --all && pod install --repo-update && cd - && yarn build --scheme 'Jour Local'
+: 1624614692:0;git co -b xavier/dev-864-left-in-app-translations
+: 1624616781:0;git co xavier/dev-859-redesign-french-sign-up-to-be-gdpr
+: 1624617145:0;git push
+: 1624617430:0;git co xavier/dev-864-left-in-app-translations
+: 1624626011:0;git push
+: 1624627536:0;git co xavier/dev-859-redesign-french-sign-up-to-be-gdpr
+: 1624627975:0;yarn jest app/common/isInEU.test.ts
+: 1624628005:0;git push
+: 1624628145:0;git co xavier/dev-864-left-in-app-translations
+: 1624628228:0;git push
+: 1624628830:0;yarn dev
+: 1624628849:0;yarn start
+: 1624629369:0;yarn jest app/Session/helpers.test.ts
+: 1624630251:0;yarn test app/BreathingDetailedView/helpers.test.ts
+: 1624631443:0;yarn react-native run-ios --device 'iPhone de Seignard' --scheme 'Jour Local'
+: 1624633823:0;git push
+: 1624636738:0;ts-node scripts/i18n/transformer.ts
+: 1624639701:0;git push
+: 1624639914:0;git co -b xavier/dev-862-enable-fr-in-prod-app
+: 1624639920:0;git co master
+: 1624639930:0;git branch -D xavier/dev-862-enable-fr-in-prod-app
+: 1624639936:0;git co -b xavier/dev-862-enable-fr-in-prod-app
+: 1624639984:0;git push
+: 1624640179:0;git co xavier/dev-864-left-in-app-translations
+: 1624640246:0;git push
+: 1624868713:0;git st
+: 1624868716:0;git co master
+: 1624868718:0;git pull
+: 1624868728:0;git co -b xavier/dev-867-french-fix-signup
+: 1624868750:0;yarn start
+: 1624873223:0;git push
+: 1624873561:0;yarn dev
+: 1624874431:0;git push
+: 1624874574:0;git co master
+: 1624874576:0;git pull
+: 1624874590:0;git co -b xavier/dev-866-french-fix-manage-sub-screen
+: 1624874679:0;git push
+: 1624874749:0;git co master
+: 1624874756:0;git co -b xavier/dev-870-translate-you-restore-purchase
+: 1624874977:0;git push
+: 1624875412:0;yarn dev
+: 1624877239:0;git push
+: 1624877265:0;git co master
+: 1624877270:0;git pull
+: 1624877281:0;git co -b xavier/dev-871-web-redesign-eu-sign-up-to-be-gdpr
+: 1624877295:0;git push
+: 1624880121:0;yarn dev
+: 1624880125:0;git co -b xavier/dev-865-create-tandclastconsentedat-field-on
+: 1624881196:0;yarn db:create-migration
+: 1624881651:0;yarn db:introspect
+: 1624882312:0;yarn db:up
+: 1624882323:0;yarn db:create-migration
+: 1624882385:0;yarn db:create-migration add-viewedTermsAt-on-user
+: 1624882700:0;yarn db:generate-client
+: 1624882719:0;yarn db:create-migration add-viewedTermsAt-on-user
+: 1624883071:0;yarn db:up
+: 1624883593:0;yarn db:generate-client
+: 1624884571:0;NODE_ENV=test TZ=UTC yarn jest routes/auth.test.js
+: 1624884612:0;NODE_ENV=test yarn db:up
+: 1624884624:0;NODE_ENV=test TZ=UTC yarn jest routes/auth.test.js
+: 1624884724:0;NODE_ENV=test TZ=UTC yarn jest routes/auth.test.js -t 'viewedTermsAt'
+: 1624885099:0;NODE_ENV=test TZ=UTC yarn jest routes/auth.test.js
+: 1624885494:0;git co master
+: 1624885503:0;git pull
+: 1624885519:0;git co -b xavier/dev-865-create-tandclastconsentedat-field-on
+: 1624887623:0;yarn db:introspect
+: 1624889643:0;NODE_ENV=test TZ=UTC yarn jest web-api/routes/users.test.ts
+: 1624890124:0;git push
+: 1624890357:0;git stash
+: 1624890375:0;git co master
+: 1624890379:0;git pull
+: 1624890386:0;git co -b xavier/dev-865-create-tandclastconsentedat-field-on
+: 1624890391:0;git stash apply
+: 1624890462:0;git pull
+: 1624890479:0;git pull origin xavier/dev-865-create-tandclastconsentedat-field-on
+: 1624890526:0;git push
+: 1624890623:0;git co xavier/dev-871-web-redesign-eu-sign-up-to-be-gdpr
+: 1624890821:0;git push
+: 1624891858:0;git stash
+: 1624891880:0;git co -b xavier/dev-865-create-tandclastconsentedat-field-on-2nd-part
+: 1624891888:0;git stash apply
+: 1624891935:0;git push
+: 1624892172:0;git co master
+: 1624892175:0;git pull
+: 1624892363:0;git stash
+: 1624892402:0;git co -b xavier/dev-872-translate-sequencejournal-rating-modal
+: 1624892412:0;git stash apply
+: 1624892794:0;git st
+: 1624892803:0;git push
+: 1624894624:0;heroku
+: 1624894656:0;heroku run yarn db:up -a jour-server-stg
+: 1624895020:0;NODE_ENV=test TZ=UTC yarn jest services/users/index.test.ts
+: 1624895065:0;git push
+: 1624895305:0;heroku run yarn db:up -a jour-server-stg
+: 1624895839:0;heroku run yarn db:down -a jour-server-stg
+: 1624895883:0;heroku run yarn db:up -a jour-server-stg
+: 1624895951:0;heroku run yarn db:up -a jour-server-prod
+: 1624898561:0;yarn dev
+: 1624898964:0;yarn dato:codegen
+: 1624901551:0;git push
+: 1624946992:0;git co xavier/dev-865-create-tandclastconsentedat-field-on
+: 1624947011:0;yarn test:e2e
+: 1624952539:0;git co master
+: 1624952542:0;git pull
+: 1624952560:0;git co xavier/dev-865-create-tandclastconsentedat-field-on
+: 1624952564:0;git merge master
+: 1624952571:0;yarn 
+: 1624952755:0;yarn test:e2e
+: 1624967133:0;yarn dev
+: 1624967180:0;git st
+: 1624967612:0;git co master
+: 1624967615:0;git pull
+: 1624967675:0;git co -b xavier/fix-window-usage
+: 1624968261:0;git push
+: 1624968581:0;git co master
+: 1624968585:0;git pull
+: 1624968595:0;git co xavier/dev-865-create-tandclastconsentedat-field-on
+: 1624968598:0;git merge master
+: 1624968782:0;git st
+: 1624968786:0;git push
+: 1624969807:0;git co master
+: 1624969809:0;git pull
+: 1624971234:0;git co master
+: 1624971237:0;git pull
+: 1624971268:0;git co master
+: 1624972797:0;git pull
+: 1624972849:0;git co -b xavier/bobby-s-post-i18n-review
+: 1624975442:0;git push
+: 1624978561:0;yarn jest app/common/getSINumber.t
+: 1624978564:0;yarn jest app/common/getSINumber.test.ts
+: 1624980098:0;git push
+: 1624987891:0;yarn build --scheme 'Jour Local' --simulator 'iPhone 6s'
+: 1624987920:0;yarn react-native run-ios --scheme 'Jour Local' --simulator 'iPhone 6s'
+: 1624988006:0;cd ios
+: 1624988011:0;pod cache clean --all && pod install --repo-update
+: 1624988048:0;..
+: 1624988051:0;yarn react-native run-ios --scheme 'Jour Local' --simulator 'iPhone 6s'
+: 1624988235:0;yarn react-native run-ios --scheme 'Jour Local' --simulator 'iPad (8th generation)'
+: 1624993734:0;yarn dev
+: 1624994743:0;yarn dato:codegen
+: 1624997569:0;git push
+: 1624997717:0;git psuh
+: 1624997720:0;git push
+: 1624999298:0;yarn dato:codegen
+: 1624999916:0;git push
+: 1625037313:0;yarn lint:types
+: 1625037705:0;git push
+: 1625037719:0;yarn lint:types
+: 1625048174:0;git co master
+: 1625048177:0;git pull
+: 1625049932:0;git co -b xavier/i18n-assets
+: 1625051430:0;yarn start
+: 1625059458:0;yarn start --reset-cache
+: 1625060979:0;cd ios
+: 1625060984:0;pod install
+: 1625067603:0;yarn react-native run-ios --scheme 'Jour Local' --simulator 'iPhone X'
+: 1625067920:0;git push
+: 1625069496:0;git co master
+: 1625069498:0;..
+: 1625069532:0;git co -b xavier/dev-876-translation-stats
+: 1625069543:0;git pull
+: 1625069549:0;yarn
+: 1625069589:1;git co -b xavier/dev-876-translation-stats
+: 1625069626:0;yarn dev
+: 1625075794:0;git push
+: 1625075869:0;NODE_ENV=test TZ=UTC yarn jest routes/stats.test.ts 
+: 1625076568:0;git push
+: 1625082775:0;yarn dev
+: 1625085641:0;yarn add keen-slider
+: 1625088137:0;yarn dato:codegen
+: 1625088466:0;git push
+: 1625088715:0;yarn dato:codegen
+: 1625088797:0;git push
+: 1625088906:0;yarn dato:codegen
+: 1625089427:0;git push
+: 1625090285:0;yarn dato:codegen
+: 1625090990:0;git push
+: 1625128416:0;NODE_ENV=test TZ=UTC yarn jest routes/stats.test.ts 
+: 1625129950:0;NODE_ENV=test TZ=UTC yarn jest routes/stats.test.ts -t "new GET /"
+: 1625129972:0;NODE_ENV=test TZ=UTC yarn jest routes/stats.test.ts -t "new GET / personal"
+: 1625130288:0;NODE_ENV=test TZ=UTC yarn jest routes/stats.test.ts -t "new GET /"
+: 1625130489:0;NODE_ENV=test TZ=UTC yarn jest routes/stats.test.ts -t "should get personal stats when logged in"
+: 1625130632:0;NODE_ENV=test TZ=UTC yarn jest routes/stats.test.ts --detectOpenHandles
+: 1625131287:0;NODE_ENV=test TZ=UTC yarn jest routes/stats.test.ts
+: 1625131418:0;git push
+: 1625135576:0;NODE_ENV=test TZ=UTC yarn jest routes/stats.test.ts
+: 1625135633:0;git push
+: 1625136798:0;git co master
+: 1625136801:0;git pull
+: 1625136836:0;git co renovate/react-i18next-11.x
+: 1625136869:0;yarn
+: 1625136922:0;yarn start
+: 1625137554:0;yarn lint:types
+: 1625137950:0;git push
+: 1625142778:0;yarn dev
+: 1625143067:0;git push
+: 1625143693:0;git co master
+: 1625143701:0;git pull
+: 1625144824:0;git co xavier/JDS-PoC
+: 1625144829:0;yarn
+: 1625144853:0;git co master
+: 1625144866:0;git pull
+: 1625144875:0;git co xavier/JDS-PoC
+: 1625144882:0;git merge master
+: 1625145185:0;yarn
+: 1625145892:0;git st
+: 1625145902:0;yarn && cd ios && pod cache clean --all && pod install --repo-update && cd - && yarn build --scheme 'Jour Local'
+: 1625145907:0;yarn start
+: 1625146518:0;yarn build
+: 1625146538:0;yarn build --scheme 'Jour Local'
+: 1625150476:0;git st
+: 1625150490:0;git push
+: 1625150966:0;ts-node scripts/icons/index.ts
+: 1625151662:0;git tash
+: 1625151664:0;git stash
+: 1625151667:0;git co master
+: 1625151686:0;git co -b xavier/dev-883-french-app-metadata-to-be-updated
+: 1625151985:0;git push
+: 1625152059:0;git co xavier/JDS-PoC
+: 1625152066:0;git stash apply
+: 1625155755:0;ts-node scripts/icons/index.ts
+: 1625158015:0;yarn dato:codegen
+: 1625158053:0;yarn dev
+: 1625158239:0;git push
+: 1625158766:0;yarn dato:codegen
+: 1625160090:0;git push
+: 1625199207:0;git co master
+: 1625199214:0;git pull
+: 1625199350:0;git co -b xavier/dev-874-segment-disable-cio-identify-calls-for
+: 1625200821:0;yarn start
+: 1625200975:0;yarn dev
+: 1625201066:0;yarn build --scheme 'Jour Local'
+: 1625201131:0;yarn && cd ios && pod install && cd - && yarn build --scheme 'Jour Local'
+: 1625201745:0;git push
+: 1625481568:0;git co master
+: 1625481570:0;git pull
+: 1625481577:0;yarn
+: 1625481592:0;yarn dev
+: 1625481605:0;git co -b xavier/dev-885-revenue-take-users-country-taxes-into
+: 1625483040:0;NODE_ENV=test TZ=UTC yarn jest services/subscriptions/trackUpdate.test.ts
+: 1625483250:0;git push
+: 1625490678:0;git co xavier/JDS-PoC
+: 1625490698:0;yarn && cd ios && pod install && cd - && yarn build --scheme 'Jour Local'
+: 1625491345:0;yarn start
+: 1625491740:0;ts-node scripts/icons/index.ts
+: 1625495414:0;yarn start
+: 1625495439:0;yarn start --reset-cache
+: 1625496954:0;yarn add pascal-case -D
+: 1625496958:0;ts-node scripts/icons/index.ts
+: 1625499111:0;yarn add node-fetch -D
+: 1625499172:0;yarn add @types/node-fetch -D
+: 1625499235:0;ts-node scripts/icons/index.ts
+: 1625503280:0;yarn storybook:generate-loader
+: 1625503519:0;ts-node scripts/icons/index.ts
+: 1625503645:0;git push
+: 1625504163:0;git co master
+: 1625504176:0;git pull
+: 1625504293:0;git co -b xavier/fix-i18n-stats
+: 1625504482:0;git push
+: 1625555292:0;git co xavier/JDS-PoC
+: 1625555498:0;yarn dev
+: 1625555822:0;git push
+: 1625556318:0;yarn dev
+: 1625556424:0;git co master
+: 1625556427:0;git pull
+: 1625556438:0;git co tp/amplitude-session-lock
+: 1625556467:0;yarn jest app/common/lock.test.ts
+: 1625556665:0;git st
+: 1625556669:0;git co master
+: 1625556671:0;git co xavier/JDS-PoC
+: 1625556683:0;yarn start
+: 1625558259:21;yarn add fs-extra -D
+: 1625558406:0;yarn add @types/fs-extra -D
+: 1625558746:0;ts-node scripts/icons/index.ts
+: 1625558757:0;ts-node scripts/figma/icons.ts
+: 1625560555:0;git push
+: 1625566830:0;yarn start
+: 1625582701:0;yarn add svgo @types/svgo -D
+: 1625583560:0;ts-node scripts/figma/test.ts
+: 1625584145:0;yarn start
+: 1625584258:0;ts-node scripts/figma/icons.ts
+: 1625636370:0;ts-node scripts/figma/test.ts
+: 1625637744:0;ts-node scripts/figma/icons.ts
+: 1625640159:0;yarn start
+: 1625640305:0;ts-node scripts/figma/icons.ts
+: 1625649948:0;git push
+: 1625656657:0;yarn dev
+: 1625676534:0;ts-node scripts/figma/icons.ts
+: 1625676738:0;git push
+: 1625677103:0;yarn style-dictionary 
+: 1625677201:0;git push
+: 1625678264:0;cd app/assets/fonts
+: 1625678268:0;ftxdumperfuser -t hhea -A d Adonis_Regular.ttf
+: 1625678392:0;ftxdumperfuser -t hhea -A f Adonis_Regular.ttf
+: 1625679022:0;yarn build --scheme 'Jour Local'
+: 1625679178:0;ftxdumperfuser -t hhea -A f Adonis_Regular.ttf
+: 1625679202:0;yarn build --scheme 'Jour Local'
+: 1625679659:0;ftxdumperfuser -t hhea -A f Adonis_Regular.ttf
+: 1625679664:0;yarn build --scheme 'Jour Local'
+: 1625681787:0;ftxdumperfuser -t hhea -A d CerebriSansRegular-regular.ttf
+: 1625681836:0;ftxdumperfuser -t hhea -A f CerebriSansRegular-regular.ttf
+: 1625681840:0;yarn build --scheme 'Jour Local'
+: 1625682088:0;ftxdumperfuser -t hhea -A f CerebriSansRegular-regular.ttf 
+: 1625682100:0;yarn build --scheme 'Jour Local'
+: 1625682166:0;ftxdumperfuser -t hhea -A f CerebriSansRegular-regular.ttf 
+: 1625682167:0;yarn build --scheme 'Jour Local'
+: 1625682233:0;ftxdumperfuser -t hhea -A d CerebriSansRegular-regular.ttf
+: 1625682241:0;ftxdumperfuser -t hhea -A f CerebriSansRegular-regular.ttf 
+: 1625682262:0;yarn build --scheme 'Jour Local'
+: 1625684844:0;yarn dev
+: 1625684939:0;yarn dato:codegen
+: 1625724755:0;yarn dev
+: 1625725036:0;yarn dato:codegen
+: 1625725407:0;git push
+: 1625728103:0;git st
+: 1625735338:0;fc-scan
+: 1625735649:0;ftxdumperfuser -t hhea -A d CerebriSansRegular-regular.ttf
+: 1625735735:0;brew install fonttools
+: 1625736074:0;pip
+: 1625736099:0;pip3 install otf2ttf
+: 1625736122:0;python3 otf2ttf
+: 1625736128:0;otf2ttf
+: 1625736139:0;..
+: 1625736149:0;cd UI/fonts
+: 1625736160:0;otf2ttf CerebriSans-Bold.otf
+: 1625736168:0;otf2ttf CerebriSans-Light.otf
+: 1625736173:0;otf2ttf CerebriSans-Medium.otf
+: 1625736178:0;otf2ttf CerebriSans-Regular.otf
+: 1625736187:0;otf2ttf CerebriSans-SemiBold.otf
+: 1625736291:0;pip3 install fonttools
+: 1625736297:0;ttx
+: 1625736326:0;ttx CerebriSans-Bold.ttf
+: 1625739167:0;../..
+: 1625739169:0;..
+: 1625739194:0;yarn jds:style-dictionary
+: 1625739233:0;yarn jds:style-dictionary > test
+: 1625739573:0;yarn jds:style-dictionary
+: 1625748334:0;yarn build --scheme 'Jour Local'
+: 1625748520:0;yarn jds:style-dictionary
+: 1625748890:0;for file in "$arg"*.{ttf,otf}; do fc-scan --format "%{postscriptname}\n" $file; done
+: 1625748910:0;for file in "$arg"*.{ttf}; do fc-scan --format "%{postscriptname}\n" $file; done
+: 1625748938:0;fc-scan --format \
+fc           fcgistarter
+: 1625749050:0;fc-scan AdonisNew-Regular.ttf
+: 1625749067:0;brew install fontconfig
+: 1625749133:0;fc-scan AdonisNew-Regular.ttf
+: 1625749294:0;fc-scan --format "%{postscriptname}\n" AdonisNew-Regular.ttf
+: 1625749303:0;fc-scan --format "%{postscriptname}\n" CerebriSansNew-SemiBold.ttf
+: 1625749354:0;for file in ./*.otf; do fc-scan --format "%{postscriptname}\n" $file; done
+: 1625749364:0;for file in ./*.ttf; do fc-scan --format "%{postscriptname}\n" $file; done
+: 1625749633:0;yarn build --scheme 'Jour Local'
+: 1625750117:0;npx react-native link\
+
+: 1625750212:0;for file in ./*.ttf; do fc-scan $file; done
+: 1625750215:0;L
+: 1625750217:0;l
+: 1625750221:0;..
+: 1625750224:0;l
+: 1625750227:0;cd fonts
+: 1625750229:0;l
+: 1625750233:0;for file in ./*.ttf; do fc-scan $file; done
+: 1625750631:0;yarn jds:style-dictionary
+: 1625751318:0;ftxdumperfuser -t hhea -A d CerebriSansRegular-regular.ttf
+: 1625751325:0;cd app/UI/fonts
+: 1625751337:0;ftxdumperfuser -t hhea -A d CerebriSansNew-Regular.ttf
+: 1625751351:0;ftxdumperfuser -t hhea -A d CerebriSansNew-SemiBold.ttf
+: 1625751412:0;ftxdumperfuser -t hhea -A f CerebriSansNew-SemiBold.ttf
+: 1625751418:0;yarn build --scheme 'Jour Local'
+: 1625751661:0;ftxdumperfuser -t hhea -A f CerebriSansNew-SemiBold.ttf
+: 1625751663:0;yarn build --scheme 'Jour Local'
+: 1625752302:0;ftxdumperfuser -t hhea -A d CerebriSansNew-SemiBold.ttf
+: 1625752696:0;ftxdumperfuser -t hhea -A f CerebriSansNew-SemiBold.ttf
+: 1625752701:0;yarn build --scheme 'Jour Local'
+: 1625755205:0;git st
+: 1625755207:0;git co master
+: 1625755212:0;..
+: 1625755225:0;cd ~/jour/jour-app
+: 1625755228:0;git pull
+: 1625755266:0;git co xavier/JDS-PoC
+: 1625755276:0;git merge master
+: 1625755403:0;yarn
+: 1625755468:0;git st
+: 1625755478:0;git push
+: 1625756964:0;cd app/UI/fonts
+: 1625757140:0;l
+: 1625757261:0;ftxdumperfuser -t hhea -A d CerebriSansNew-SemiBold.ttf
+: 1625757487:0;ftxdumperfuser -t hhea -A f CerebriSansNew-SemiBold.ttf
+: 1625757593:0;yarn build --scheme 'Jour Local'
+: 1625757750:0;cd ios
+: 1625757756:0;pod install
+: 1625757814:0;..
+: 1625757818:0;yarn build --scheme 'Jour Local'
+: 1625758211:0;git st
+: 1625758217:0;ftxdumperfuser -t hhea -A d CerebriSansNew-SemiBold.ttf
+: 1625758244:0;ftxdumperfuser -t hhea -A f CerebriSansNew-SemiBold.ttf
+: 1625758252:0;yarn build --scheme 'Jour Local'
+: 1625758490:0;ftxdumperfuser -t hhea -A f CerebriSansNew-SemiBold.ttf
+: 1625758496:0;yarn build --scheme 'Jour Local'
+: 1625760169:0;git co master
+: 1625760172:0;git pull
+: 1625760176:0;..
+: 1625760179:0;cd
+: 1625760181:0;cd jour/jour-app
+: 1625760185:0;git pull
+: 1625760199:0;git co tim/dev-904-in-app-articles-only-show-articles-in
+: 1625760694:0;git co master
+: 1625760699:0;git pull
+: 1625760724:0;git co -b xavier/dev-910-i18n-fix-apostrophes-in-translations
+: 1625812832:0;git pull
+: 1625812843:0;git co matthias/dev-861-web-flow-include-trial-reminder-paywall
+: 1625813646:0;gorepo
+: 1625813654:0;git clone git@github.com:xseignard/thermalPrinter.git
+: 1625813664:0;cd thermalPrinter
+: 1625813864:0;code .
+: 1625813993:0;npm version patch
+: 1625814027:0;npm publish
+: 1625814081:0;git push
+: 1625814090:0;git pull
+: 1625814124:0;npm version patch
+: 1625814130:0;npm publish
+: 1625814139:0;git push --tag
+: 1625814146:0;git push
+: 1625819031:0;git co master
+: 1625819042:0;git pull
+: 1625820572:0;git co -b xavier/dev-913-web-privacy-terms-reduce-size
+: 1625820594:0;yarn dev
+: 1625821514:0;git push
+: 1625822952:0;yarn react-native run-ios --scheme 'Jour Local' --simulator 'iPad (8th generation)'
+: 1625824240:0;git co master
+: 1625824243:0;git pull
+: 1625824530:0;git co -b xavier/dev-912-widget-not-being-displayed-in-french
+: 1625824974:0;cd ios 
+: 1625824977:0;pod install
+: 1625832756:0;git co master
+: 1625832758:0;git pull
+: 1625832764:0;..
+: 1625832767:0;git co -b xavier/dev-901-stripe-payment-switch-currency-based-on
+: 1625832782:0;yarn add react-native-iap
+: 1625832904:0;yarn react-native run-ios --device 'iPhone de Seignard' --scheme 'Jour Local'
+: 1625834599:0;yarn jest app/Premium/helpers/getPackageDetails.test.ts
+: 1625834805:0;yarn lint:check && yarn lint:types
+: 1625835021:0;yarn jest app/Premium/helpers/getPackageDetails.test.ts
+: 1625835800:0;git branch -m xavier/dev-886-iap-save-subscriptions-country-code
+: 1625836116:0;git push
+: 1625836278:0;yarn
+: 1625836404:0;git push
+: 1625836477:0;git co master
+: 1625836479:0;git pull
+: 1625836506:0;git co -b xavier/dev-886-iap-save-subscriptions-country-code
+: 1625837079:0;yarn db:create-migration add-countryCode-on-PremiumSubscription
+: 1625837508:0;yarn lint:check && yarn lint:types
+: 1625837610:0;git push
+: 1625837677:0;yarn lint:check && yarn lint:types
+: 1625837701:0;NODE_ENV=test yarn db:up
+: 1625837720:0;yarn db:up
+: 1625837793:0;yarn db:introspect
+: 1625837878:0;yarn db:generate-client
+: 1625838224:0;git push
+: 1625838294:0;git stash
+: 1625838314:0;git branch -m xavier/dev-886-iap-save-subscriptions-country-code-after-migration
+: 1625838319:0;git stash apply
+: 1625838576:0;git push
+: 1625839159:0;NODE_ENV=test TZ=UTC yarn jest services/subscriptions/create.test.ts
+: 1625839340:0;git push
+: 1625839355:0;git branch -m xavier/dev-886-iap-save-subscriptions-country-code-after-a-week
+: 1625839388:0;git push
+: 1625929733:0;nmap
+: 1625929740:0;brew install nmap
+: 1625929967:0;nmap -sV -p 22 192.168.0.0/22
+: 1625929992:0;ifconfig 
+: 1625930173:0;nmap -sV -p 22 172.20.10.0/28
+: 1625930231:0;brew install nmap
+: 1625930235:0;ifconfig 
+: 1625930278:0;ssh raspaberry@172.20.10.2
+: 1625930335:0;ssh pi@172.20.10.2
+: 1626097484:0;yarn dev
+: 1626099953:0;git push
+: 1626363462:0;yarn dev
+: 1626364934:0;git push
+: 1626366652:0;yarn dev
+: 1626368068:0;git push
+: 1626427299:0;editDotfiles
+: 1626427486:0;cp ~/.zsh_history .
