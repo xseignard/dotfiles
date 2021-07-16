@@ -26,4 +26,5 @@ platformio \
 cocoapods \
 gh \
 watchman \
-postgresql
+postgresql \
+redis
