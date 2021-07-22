@@ -17,8 +17,6 @@
 	ui = true
 [push]
 	default = current
-# [commit]
-# 	gpgsign = true
 [gpg]
 	program = /usr/local/bin/gpg
 [commit]
