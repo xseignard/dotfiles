@@ -20,6 +20,7 @@ flipper \
 postman \
 gimp \
 dbeaver-community \
+imageoptim \
 figma && \
 brew install gpg \
 platformio \
