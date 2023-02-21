@@ -43,3 +43,11 @@ load-nvmrc
 source $ZSH/oh-my-zsh.sh
 
 export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+
+eval "$(pyenv init -)"
+eval "$(direnv hook zsh)"
+# Add RVM to PATH for scripting. Make sure this is the last PATH variable change.
+export PATH="$PATH:$HOME/.rvm/bin"
+eval "$(rbenv init -)"
+export GEM_HOME="$HOME/.gem"
+export PATH="/opt/homebrew/opt/cocoapods/bin:$PATH"
